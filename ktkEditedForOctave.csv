@@ -1,0 +1,270 @@
+Type,R,Mana cost,Mana value,P,T,L,Price (USD),Watermark,Color
+Creature — Horror,C,{3}{B}{G}{U},6,3,4,0,0.06,Sultai,BGU
+Enchantment,R,{W}{B}{G},3,0,0,0,0.17,Abzan,WBG
+Artifact,C,{3},3,0,0,0,0.11,Abzan,WBG
+Creature — Human Cleric,U,{3}{W},4,3,2,0,0.25,Abzan,W
+Instant,U,{W}{B}{G},3,0,0,0,0.2,Abzan,WBG
+Creature — Human Soldier,U,{2}{W},3,2,3,0,0.11,Abzan,W
+Creature — Human Warrior,C,{3}{W}{B}{G},6,4,4,0,0.05,Abzan,WBG
+Sorcery,C,{2}{R},3,0,0,0,0.04,0,R
+Creature — Dog Soldier,C,{1}{W},2,2,1,0,0.06,Abzan,W
+Creature — Dog Scout,C,{5}{R},6,3,3,0,0.02,Temur,R
+Creature — Kirin,C,{3}{W},4,2,3,0,0.02,0,W
+Creature — Bear,C,{2}{G},3,4,2,0,0.2,0,G
+Artifact,R,{1},1,0,0,0,6.17,0,0
+Legendary Creature — Human Soldier,M,{W}{B}{G},3,4,4,0,1.49,Abzan,WBG
+Creature — Goblin Berserker,R,{2}{R}{W}{B},5,2,2,0,0.23,Mardu,RWB
+Sorcery,U,{2}{R},3,0,0,0,0.08,0,R
+Creature — Wall,C,{1}{G},2,0,5,0,0.09,Abzan,BG
+Creature — Human Soldier,U,{2}{W}{B}{G},5,4,4,0,0.12,Abzan,WBG
+Sorcery,C,{3}{R}{R},5,0,0,0,0.04,Mardu,R
+Creature — Phoenix,M,{2}{R}{R},4,4,1,0,0.36,0,R
+Creature — Elephant Warrior,R,{2}{G}{U}{R},5,6,4,0,0.11,Temur,UGR
+Instant,C,{2}{G},3,0,0,0,0.1,0,G
+Sorcery,C,{2}{R},3,0,0,0,0.12,Temur,R
+Creature — Human Warrior,U,{2}{G}{U}{R},5,2,2,0,0.1,Temur,UGR
+Instant,U,{5}{G},6,0,0,0,0.19,Sultai,G
+Creature — Orc Warrior,U,{3}{B},4,4,5,0,0.04,Mardu,B
+Sorcery,C,{3}{B},4,0,0,0,0.06,0,B
+Instant,U,{4}{U},5,0,0,0,0.06,0,U
+Land,C,0,0,0,0,0,0.1,0,BR
+Creature — Efreet Monk,C,{2}{R},3,3,1,0,0.02,Jeskai,R
+Creature — Efreet Shaman,C,{2}{R},3,0,5,0,0.03,Jeskai,UR
+Creature — Human Warrior,R,{B},1,2,1,0,1.17,Mardu,B
+Land,R,0,0,0,0,0,40.96,0,0
+Land,C,0,0,0,0,0,0.1,0,GW
+Enchantment,U,{1}{W},2,0,0,0,0.98,0,W
+Artifact,U,{X},0,0,0,0,0.09,0,0
+Instant,C,{3}{R},4,0,0,0,0.02,0,R
+Instant,U,{4}{R},5,0,0,0,0.09,0,R
+Creature — Demon,R,{1}{R}{W}{B},4,5,4,0,0.21,Mardu,RWB
+Instant,C,{1}{U}{U},3,0,0,0,0.06,0,U
+Creature — Human Rogue,C,{4}{R},5,5,2,0,0.02,Mardu,R
+Creature — Human Warrior,U,{W}{B},2,3,2,0,0.1,Mardu,WB
+Creature — Human Warrior,U,{W}{B},2,2,3,0,0.08,Abzan,WB
+Creature — Shapeshifter,M,{2}{U}{U},4,0,0,0,2.22,0,U
+Instant,R,{R}{W}{B},3,0,0,0,0.23,Mardu,RWB
+Artifact,U,{2},2,0,0,0,0.1,0,0
+Sorcery,R,{X}{R},1,0,0,0,0.16,Temur,R
+Instant,C,{2}{U},3,0,0,0,0.03,0,U
+Creature — Wall,U,{4}{W},5,0,7,0,0.1,Abzan,W
+Sorcery,U,{9}{B},10,0,0,0,0.09,Sultai,B
+Sorcery,U,{3}{B}{G},5,0,0,0,0.07,Sultai,BG
+Enchantment — Aura,C,{1}{B},2,0,0,0,0.04,0,B
+Instant,C,{W},1,0,0,0,0.1,0,W
+Instant,R,{R}{W},2,0,0,0,0.71,0,RW
+Sorcery,U,{B},1,0,0,0,0.1,0,B
+Instant,R,{6}{U}{U},8,0,0,0,1.59,Sultai,U
+Instant,C,{1}{U},2,0,0,0,0.05,0,U
+Land,C,0,0,0,0,0,0.1,0,UB
+Creature — Spirit Warrior,C,{B},1,0,4,0,0.1,Abzan,B
+Enchantment — Aura,U,{2}{R},3,0,0,0,0.07,Temur,R
+Legendary Artifact — Equipment,R,{4},4,0,0,0,0.31,0,0
+Creature — Human Wizard,U,{1}{U},2,0,6,0,0.08,Jeskai,U
+Instant,C,{3}{G},4,0,0,0,0.07,0,G
+Creature — Human Monk,R,{3}{R}{R},5,3,3,0,0.19,Jeskai,R
+Sorcery,R,{4}{W}{B}{G},7,0,0,0,0.2,Abzan,WBG
+Sorcery,C,{3}{B},4,0,0,0,0.07,0,B
+Creature — Efreet Monk,C,{3}{U}{R}{W},6,4,3,0,0.04,Jeskai,URW
+Creature — Elemental,C,{U},1,0,3,0,0.1,Temur,GU
+Instant,M,{X}{X}{B}{B}{B}{B},4,0,0,0,0.62,Sultai,B
+Sorcery,R,{3}{W}{W},5,0,0,0,0.29,0,W
+Instant,C,{W},1,0,0,0,0.11,0,W
+Instant,C,{1}{W},2,0,0,0,0.1,0,W
+Instant,C,{1}{G},2,0,0,0,0.17,Temur,G
+Creature — Human Berserker,C,{W},1,1,1,0,0.02,Mardu,RW
+Land,R,0,0,0,0,0,35.63,0,0
+Instant,R,{3}{U}{R}{W},6,0,0,0,0.16,Jeskai,URW
+Instant,C,{1}{U},2,0,0,0,0.05,Temur,U
+Basic Land — Forest,C,0,0,0,0,0,0.12,0,0
+Land,U,0,0,0,0,0,0.35,Temur,UGR
+Artifact — Equipment,R,{1},1,0,0,0,0.41,0,0
+Creature — Elemental,C,{5}{U},6,4,5,0,0.07,Temur,U
+Enchantment,U,{2}{R},3,0,0,0,0.2,0,R
+Creature — Human Wizard,R,{2}{B},3,3,2,0,0.67,Sultai,B
+Creature — Bat,U,{1}{B},2,1,2,0,0.1,0,B
+Enchantment,R,{G},1,0,0,0,8.11,Abzan,G
+Artifact — Equipment,U,{2},2,0,0,0,0.08,0,0
+Creature — Human Warrior,U,{1}{G},2,2,2,0,0.1,Temur,G
+Creature — Human Soldier,R,{W},1,1,2,0,0.14,Abzan,W
+Creature — Bird Soldier,R,{3}{W},4,3,4,0,0.15,Abzan,W
+Creature — Elk,C,{1}{G},2,2,1,0,0.06,0,G
+Creature — Insect,U,{2}{R}{W},4,3,3,0,0.08,Jeskai,RW
+Creature — Snake Hydra,M,{X}{G}{G},2,0,0,0,1,Sultai,G
+Creature — Ape,C,{5}{G},6,4,4,0,0.09,Sultai,G
+Creature — Human Berserker,U,{1}{R},2,2,2,0,0.07,Mardu,R
+Sorcery,U,{1}{R}{R},3,0,0,0,0.33,0,R
+Sorcery,R,{2}{R},3,0,0,0,0.24,Mardu,R
+Creature — Bird Shaman,U,{G}{U},2,2,2,0,0.08,Temur,GU
+Instant,R,{X}{U},1,0,0,0,0.22,Temur,U
+Sorcery,U,{3}{G}{G},5,0,0,0,0.08,0,G
+Basic Land — Island,C,0,0,0,0,0,0.2,0,0
+Creature — Elephant,R,{2}{W}{B}{G},5,5,7,0,0.15,Abzan,WBG
+Creature — Goblin Rogue,R,{1}{R},2,2,1,0,0.17,Mardu,R
+Enchantment,R,{U}{R}{W},3,0,0,0,0.85,Jeskai,URW
+Artifact,C,{3},3,0,0,0,0.12,Jeskai,URW
+Instant,U,{U}{R}{W},3,0,0,0,0.12,Jeskai,URW
+Creature — Human Monk,U,{1}{U},2,1,2,0,0.07,Jeskai,U
+Creature — Human Monk,C,{1}{W},2,1,3,0,0.05,Jeskai,W
+Creature — Bird Scout,C,{2}{U},3,2,1,0,0.05,Jeskai,U
+Land,C,0,0,0,0,0,0.11,0,BG
+Creature — Vampire,U,{2}{B},3,2,2,0,0.12,Sultai,B
+Creature — Zombie Crocodile,C,{4}{B},5,4,4,0,0.04,Sultai,BG
+Creature — Zombie Wizard,R,{3}{B}{G}{U},6,4,4,0,0.14,Sultai,BGU
+Creature — Naga Wizard,R,{3}{U},4,3,3,0,0.15,Sultai,U
+Instant,C,{2}{W},3,0,0,0,0.06,0,W
+Sorcery,U,{B}{G},2,0,0,0,0.11,0,BG
+Creature — Human Warrior,C,{G},1,1,1,0,0.04,Abzan,G
+Creature — Orc Warrior,C,{3}{B}{B},5,5,3,0,0.04,Abzan,B
+Creature — Human Monk,C,{1}{R},2,2,1,0,0.03,Jeskai,RW
+Artifact,C,{1},1,0,0,0,0.1,0,0
+Creature — Dog Archer,C,{3}{G},4,3,3,0,0.11,Abzan,G
+Creature — Human Monk,R,{U}{R}{W},3,3,3,0,1.17,Jeskai,URW
+Enchantment,R,{R}{W}{B},3,0,0,0,0.16,Mardu,RWB
+Artifact,C,{3},3,0,0,0,0.12,Mardu,RWB
+Creature — Ogre Warrior,U,{2}{R},3,4,4,0,0.05,Mardu,R
+Instant,U,{R}{W}{B},3,0,0,0,0.1,Mardu,RWB
+Creature — Human Warrior,C,{W},1,1,1,0,0.04,Mardu,WB
+Creature — Human Archer,U,{3}{R},4,2,3,0,0.07,Mardu,R
+Creature — Human Warrior,C,{2}{W},3,2,3,0,0.05,Mardu,W
+Creature — Orc Warrior,U,{2}{R}{W}{B},5,5,4,0,0.06,Mardu,RWB
+Creature — Human Warrior,C,{1}{B},2,2,1,0,0.04,Mardu,B
+Creature — Orc Shaman,C,{3}{R},4,3,3,0,0.03,Mardu,RWB
+Creature — Human Monk,R,{1}{W},2,2,2,0,0.13,Jeskai,W
+Sorcery,U,{3}{U}{R},5,0,0,0,0.1,0,UR
+Creature — Turtle,R,{3}{G}{G},5,5,9,0,0.17,Sultai,G
+Creature — Orc Assassin,U,{3}{B},4,2,3,0,0.11,Abzan,B
+Instant,R,{X}{U}{R},2,0,0,0,0.19,0,UR
+Creature — Djinn Wizard,U,{3}{U},4,3,1,0,0.13,Jeskai,U
+Enchantment — Aura,C,{B},1,0,0,0,0.07,0,B
+Creature — Bird,C,{2}{U},3,0,5,0,0.09,0,U
+Creature — Human Monk,U,{R},1,1,2,0,2.58,Jeskai,R
+Basic Land — Mountain,C,0,0,0,0,0,0.32,0,0
+Instant,U,{4}{B},5,0,0,0,0.19,Sultai,B
+Land,U,0,0,0,0,0,0.27,Jeskai,URW
+Creature — Human Monk,C,{4}{U},5,3,2,0,0.05,Jeskai,U
+Legendary Creature — Human Monk,M,{3}{U}{R}{W},6,3,2,0,1.26,Jeskai,URW
+Instant,C,{1}{G},2,0,0,0,0.06,0,G
+Creature — Demon,R,{7}{B}{B},9,4,5,0,0.12,Sultai,B
+Land,U,0,0,0,0,0,0.57,Mardu,RWB
+Land,U,0,0,0,0,0,0.3,Sultai,BGU
+Creature — Leviathan,M,{5}{U}{U},7,6,7,0,0.53,Jeskai,U
+Creature — Elemental,U,{3}{G}{G},5,5,5,0,0.05,Temur,G
+Basic Land — Plains,C,0,0,0,0,0,0.14,0,0
+Land,R,0,0,0,0,0,43.27,0,0
+Creature — Goblin Warrior,C,{3}{R}{W}{B},6,2,2,0,0.09,Mardu,RWB
+Enchantment,U,{2}{U},3,0,0,0,0.11,Jeskai,U
+Enchantment,U,{3}{B},4,0,0,0,0.11,0,B
+Creature — Cat Demon,R,{B}{G},2,2,2,0,0.26,Sultai,BG
+Creature — Cat Demon,R,{2}{B}{G}{U},5,4,4,0,0.1,Sultai,BGU
+Sorcery,C,{2}{B},3,0,0,0,0.05,0,B
+Creature — Human Shaman,R,{1}{G},2,2,1,0,0.39,Temur,UGR
+Enchantment,R,{B},1,0,0,0,0.26,Abzan,B
+Instant,U,{R}{W},2,0,0,0,0.11,0,RW
+Sorcery,C,{4}{B}{B},6,0,0,0,0.04,0,B
+Creature — Djinn Monk,U,{5}{U},6,4,5,0,0.04,Jeskai,U
+Sorcery,U,{2}{G},3,0,0,0,0.15,Temur,G
+Creature — Zombie Elephant,C,{4}{B},5,2,8,0,0.07,0,B
+Land,C,0,0,0,0,0,0.09,0,GR
+Sorcery,C,{3}{W},4,0,0,0,0.04,0,W
+Creature — Human Assassin,U,{B},1,1,1,0,0.07,Sultai,B
+Creature — Djinn Wizard,R,{2}{U}{R}{W},5,3,4,0,0.11,Jeskai,URW
+Creature — Bird Warrior,C,{4}{W},5,1,5,0,0.04,Jeskai,W
+Creature — Naga Archer,C,{4}{G},5,2,5,0,0.06,Sultai,G
+Creature — Beast,R,{4}{G}{U},6,6,6,0,0.15,0,GU
+Creature — Human Scout,C,{3}{W},4,2,5,0,0.03,Abzan,W
+Land,U,0,0,0,0,0,0.44,Abzan,WBG
+Legendary Planeswalker — Sarkhan,M,{3}{R}{R},5,0,0,4,0.97,0,R
+Creature — Ogre Warrior,R,{G}{U}{R},3,4,4,0,0.16,Temur,UGR
+Sorcery,C,{1}{G},2,0,0,0,0.12,Temur,G
+Creature — Elemental,C,{3}{U},4,2,2,0,0.04,Temur,UR
+Creature — Elemental,U,{2}{U}{U},4,2,5,0,0.05,Temur,U
+Land,C,0,0,0,0,0,0.1,0,WB
+Sorcery,C,{2}{G},3,0,0,0,0.09,Sultai,G
+Enchantment,U,{G}{U},2,0,0,0,0.14,0,GU
+Sorcery,M,{4}{G}{G},6,0,0,0,0.86,Temur,G
+Sorcery,U,{3}{G},4,0,0,0,0.11,0,G
+Creature — Human Warrior,U,{1}{W},2,2,2,0,0.14,Jeskai,W
+Sorcery,U,{5}{U},6,0,0,0,0.11,Sultai,U
+Creature — Zombie,C,{7}{B},8,3,5,0,0.09,Sultai,B
+Instant,C,{1}{R},2,0,0,0,0.02,0,R
+Legendary Creature — Naga Shaman,M,{1}{B}{G}{U},4,3,3,0,1.59,Sultai,BGU
+Creature — Zombie Ape,C,{3}{B},4,1,4,0,0.08,Sultai,B
+Creature — Rhino,R,{1}{W}{B}{G},4,4,5,0,0.65,Abzan,WBG
+Enchantment — Aura,C,{3}{W},4,0,0,0,0.04,0,W
+Enchantment — Aura,C,{1}{U},2,0,0,0,0.06,0,U
+Instant,C,{3}{W},4,0,0,0,0.03,0,W
+Creature — Human Shaman,C,{1}{G},2,2,2,0,0.04,Sultai,GU
+Creature — Human Warrior,C,{3}{G}{U}{R},6,5,5,0,0.06,Temur,UGR
+Legendary Planeswalker — Sorin,M,{2}{W}{B},4,0,0,4,3.26,0,WB
+Instant,U,{U},1,0,0,0,0.74,Temur,U
+Enchantment,R,{B}{G}{U},3,0,0,0,0.18,Sultai,BGU
+Artifact,C,{3},3,0,0,0,0.11,Sultai,BGU
+Instant,U,{B}{G}{U},3,0,0,0,0.09,Sultai,BGU
+Creature — Naga Shaman,U,{3}{G},4,3,4,0,0.08,Sultai,G
+Creature — Bird Warrior,C,{5}{B},6,3,3,0,0.08,Sultai,B
+Creature — Naga Shaman,U,{2}{B}{G}{U},5,2,5,0,0.1,Sultai,BGU
+Creature — Yeti,C,{2}{R}{R},4,4,3,0,0.04,0,R
+Legendary Creature — Human Warrior,M,{2}{G}{U}{R},5,6,6,0,3.05,Temur,UGR
+Enchantment,U,{1}{W},2,0,0,0,0.1,0,W
+Basic Land — Swamp,C,0,0,0,0,0,0.12,0,0
+Creature — Insect,U,{4}{B},5,0,0,0,0.1,0,B
+Instant,C,{3}{R},4,0,0,0,0.02,0,R
+Land,C,0,0,0,0,0,0.11,0,UR
+Sorcery,C,{1}{U},2,0,0,0,0.08,Sultai,U
+Instant,U,{4}{W},5,0,0,0,0.06,0,W
+Enchantment,R,{G}{U}{R},3,0,0,0,0.9,Temur,UGR
+Artifact,C,{3},3,0,0,0,0.14,Temur,UGR
+Creature — Horse,U,{1}{G},2,3,1,0,0.1,Temur,G
+Instant,U,{G}{U}{R},3,0,0,0,0.11,Temur,UGR
+Land,C,0,0,0,0,0,0.09,0,GU
+Creature — Elemental,R,{4}{U}{U},6,5,6,0,0.13,Jeskai,U
+Instant,C,{4}{B},5,0,0,0,0.04,0,B
+Creature — Human Warrior,U,{3}{W},4,3,2,0,0.02,Mardu,W
+Land,U,0,0,0,0,0,0.52,0,0
+Sorcery,C,{1}{R},2,0,0,0,0.08,0,R
+Enchantment,R,{1}{G},2,0,0,0,0.17,0,G
+Land,C,0,0,0,0,0,0.09,0,WU
+Instant,R,{G}{U}{R},3,0,0,0,0.12,Temur,UGR
+Sorcery,C,{7}{U},8,0,0,0,0.21,Sultai,U
+Instant,C,{2}{R},3,0,0,0,0.04,0,R
+Creature — Beast,C,{4}{G}{G},6,6,5,0,0.05,0,G
+Creature — Human Warrior,U,{2}{G},3,2,3,0,0.11,Abzan,G
+Legendary Artifact,M,{5},5,0,0,0,2.13,0,0
+Creature — Orc Warrior,C,{3}{B},4,3,3,0,0.02,Abzan,WB
+Instant,R,{2}{W}{B},4,0,0,0,0.86,0,WB
+Creature — Human Berserker,C,{1}{R},2,2,2,0,0.09,Mardu,R
+Creature — Lammasu,U,{6}{W},7,5,4,0,0.05,0,W
+Sorcery,R,{X}{B}{G}{U},3,0,0,0,0.47,Sultai,BGU
+Creature — Beast,C,{5}{W},6,3,6,0,0.06,Abzan,W
+Creature — Djinn Wizard,U,{2}{U}{R}{W},5,3,3,0,0.07,Jeskai,URW
+Creature — Human Warrior,U,{1}{R},2,2,1,0,0.09,Mardu,R
+Creature — Bird Soldier,U,{2}{W},3,2,1,0,0.05,Abzan,W
+Instant,U,{4}{U}{U},6,0,0,0,0.06,0,U
+Instant,C,{3}{U},4,0,0,0,0.06,0,U
+Creature — Elk,C,{1}{U},2,2,1,0,0.03,0,U
+Creature — Djinn Monk,C,{4}{U},5,4,2,0,0.04,Jeskai,U
+Land,C,0,0,0,0,0,0.07,0,RW
+Instant,U,{X}{G},1,0,0,0,0.08,0,G
+Land,R,0,0,0,0,0,27.55,0,0
+Creature — Bird,M,{3}{W}{W},5,3,4,0,0.48,Mardu,W
+Instant,U,{1}{U}{R},3,0,0,0,0.08,0,UR
+Artifact Creature — Golem,U,{6},6,4,4,0,0.04,0,0
+Land,R,0,0,0,0,0,38.33,0,0
+Creature — Elephant Warrior,C,{5}{G}{G},7,6,7,0,0.06,Temur,G
+Legendary Creature — Orc Warrior,M,{2}{R}{W}{B},5,7,2,0,0.44,Mardu,RWB
+Basic Land — Forest,C,0,0,0,0,0,0.13,0,0
+Basic Land — Forest,C,0,0,0,0,0,0.18,0,0
+Basic Land — Forest,C,0,0,0,0,0,0.12,0,0
+Basic Land — Island,C,0,0,0,0,0,0.17,0,0
+Basic Land — Island,C,0,0,0,0,0,0.18,0,0
+Basic Land — Island,C,0,0,0,0,0,0.15,0,0
+Basic Land — Mountain,C,0,0,0,0,0,0.22,0,0
+Basic Land — Mountain,C,0,0,0,0,0,0.1,0,0
+Basic Land — Mountain,C,0,0,0,0,0,0.12,0,0
+Basic Land — Plains,C,0,0,0,0,0,0.12,0,0
+Basic Land — Plains,C,0,0,0,0,0,0.16,0,0
+Basic Land — Plains,C,0,0,0,0,0,0.17,0,0
+Basic Land — Swamp,C,0,0,0,0,0,0.11,0,0
+Basic Land — Swamp,C,0,0,0,0,0,0.15,0,0
+Basic Land — Swamp,C,0,0,0,0,0,0.17,0,0

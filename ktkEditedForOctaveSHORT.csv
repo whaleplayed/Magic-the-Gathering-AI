@@ -1,0 +1,7 @@
+Type,R,Mana cost,Mana value,P,T,L,Price (USD),Watermark,Color
+Creature — Horror,C,{3}{B}{G}{U},6,3,4,0,0.06,Sultai,BGU
+Enchantment,R,{W}{B}{G},3,0,0,0,0.17,Abzan,WBG
+Artifact,C,{3},3,0,0,0,0.11,Abzan,WBG
+Creature — Human Cleric,U,{3}{W},4,3,2,0,0.25,Abzan,W
+Instant,U,{W}{B}{G},3,0,0,0,0.2,Abzan,WBG
+Creature — Human Soldier,U,{2}{W},3,2,3,0,0.11,Abzan,W

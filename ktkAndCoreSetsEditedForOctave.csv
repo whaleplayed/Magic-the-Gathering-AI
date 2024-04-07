@@ -1,0 +1,2855 @@
+﻿Type,R,Mana cost,Mana value,P,T,L,Price (USD),Watermark,Color
+Creature — Dwarf Artificer,U,{3}{W},4,3,3,,0.14,,W
+Instant,C,{1}{B},2,,,,0.08,,B
+Sorcery,C,{2}{R},3,,,,0.03,,R
+Instant,U,{1}{W},2,,,,0.12,,W
+Creature — Human Artificer,U,{2}{W}{U},4,2,4,,0.04,,WU
+Enchantment — Aura,U,{1}{U},2,,,,0.23,,U
+Creature — Elephant,R,{3}{G}{G}{G},6,8,8,,0.47,,G
+Creature — Elemental,U,{3}{U}{U},5,4,4,,0.16,,U
+Legendary Planeswalker — Ajani,M,{2}{W}{W},4,,,4,3.74,,W
+Legendary Planeswalker — Ajani,M,{3}{W}{W},5,,,5,6.17,,W
+Sorcery,R,{2}{W}{W},4,,,,0.34,,W
+Enchantment,R,{2}{W}{W},4,,,,0.09,,W
+Creature — Cat Soldier,U,{1}{W},2,2,2,,0.17,,W
+Enchantment,U,{W},1,,,,1.59,,W
+Enchantment,R,{R},1,,,,1.77,,R
+Artifact,R,{2},2,,,,0.15,,
+Creature — Angel,C,{4}{W},5,3,3,,0.04,,W
+Instant,C,{1}{U},2,,,,0.03,,U
+Sorcery,M,{7}{R}{R}{R},10,,,,0.57,,R
+Legendary Creature — Elder Dragon,M,{1}{G}{W}{U},4,3,5,,3.97,,GWU
+Artifact,U,{3},3,,,,0.21,,
+Creature — Zombie Gorgon,U,{1}{B}{B},3,3,3,,0.32,,B
+Creature — Bird Wizard,C,{2}{U},3,2,2,,0.04,,U
+Creature — Human Artificer,C,{2}{U},3,1,2,,0.04,,U
+Sorcery,R,{X}{R},1,,,,0.64,,R
+Instant,C,{2}{U},3,,,,0.2,,U
+Enchantment — Aura,U,{2}{G},3,,,,0.15,,G
+Sorcery,U,{3}{B},4,,,,0.13,,B
+Creature — Goblin Warrior,C,{2}{R},3,3,2,,0.02,,R
+Creature — Beast,C,{4}{B}{B},6,6,5,,0.03,,B
+Creature — Dragon Skeleton,M,{3}{B}{B},5,5,4,,0.55,,B
+Instant,U,{2}{U}{U},4,,,,0.03,,U
+Creature — Ogre Warrior,U,{2}{B}{R},4,3,3,,0.02,,BR
+Creature — Boar,C,{3}{G},4,4,3,,0.05,,G
+Instant,C,{1}{U}{U},3,,,,0.04,,U
+Creature — Elemental,C,{2}{R},3,2,2,,0.03,,R
+Creature — Human Knight,C,{1}{W},2,2,1,,0.04,,W
+Creature — Centaur Warrior,C,{2}{G},3,3,3,,0.02,,G
+Artifact,R,{3},3,,,,0.56,,
+Creature — Vampire,C,{1}{B},2,2,1,,0.01,,B
+Legendary Creature — Elder Dragon,M,{4}{W}{U}{B},7,7,7,,0.72,,WUB
+Land,C,,0,,,,0.15,,BR
+Sorcery,R,{3}{W}{W},5,,,,1.81,,W
+Creature — Dinosaur,C,{4}{G}{G},6,6,6,,0.08,,G
+Enchantment,U,{2}{G},3,,,,0.46,,G
+Creature — Human Cleric,U,{W},1,1,1,,0.21,,W
+Sorcery,C,{R},1,,,,0.15,,R
+Artifact,M,{3},3,,,,20.45,,
+Creature — Basilisk,C,{2}{G},3,2,2,,0.05,,G
+Creature — Goblin Shaman,R,{1}{R},2,2,2,,0.19,,R
+Creature — Human Cleric,C,{1}{W},2,1,3,,0.03,,W
+Creature — Zombie Wizard,R,{1}{B}{B},3,2,2,,1.57,,B
+Sorcery,U,{3}{G}{G},5,,,,0.05,,G
+Creature — Dragon,R,{3}{R}{R},5,5,5,,0.28,,R
+Creature — Demon,R,{2}{B}{B},4,6,6,,0.36,,B
+Creature — Spirit Pirate,U,{1}{U},2,2,2,,0.11,,U
+Artifact,R,{3},3,,,,0.84,,
+Land,R,,0,,,,1.56,,
+Artifact Creature — Horse,U,{2},2,1,3,,0.1,,
+Creature — Zombie,U,{B},1,2,2,,0.09,,B
+Creature — Human Wizard,R,{1}{R},2,2,2,,0.16,,R
+Instant,C,{1}{U},2,,,,0.02,,U
+Sorcery,C,{2}{U},3,,,,0.06,,U
+Creature — Djinn,R,{3}{U}{U},5,4,4,,0.1,,U
+Creature — Human,C,{1}{B},2,1,1,,0.04,,B
+Sorcery,U,{R}{R},2,,,,0.2,,R
+Creature — Human Shaman,U,{1}{R}{G},3,2,2,,0.15,,GR
+Creature — Dragon Egg,U,{2}{R},3,0,2,,0.05,,R
+Artifact,R,{3},3,,,,0.95,,
+Creature — Human Druid,U,{3}{G},4,2,3,,0.04,,G
+Creature — Elf Druid,C,{1}{G},2,1,3,,0.07,,G
+Creature — Dryad,U,{1}{G},2,1,3,,0.16,,G
+Sorcery,C,{B},1,,,,0.04,,B
+Creature — Dwarf Cleric,C,{3}{W},4,2,4,,0.03,,W
+Enchantment — Aura,C,{2}{U},3,,,,0.03,,U
+Instant,C,{3}{R},4,,,,0.03,,R
+Creature — Elf Druid,R,{G}{G},2,1,1,,1.41,,G
+Creature — Elf Druid,C,{2}{G},3,1,1,,0.04,,G
+Creature — Drake,U,{1}{U}{R},3,*,4,,0.11,,UR
+Creature — Vampire,C,{4}{B},5,4,4,,0.1,,B
+Instant,C,{1}{U},2,,,,0.03,,U
+Creature — Human Wizard,U,{2}{U},3,2,2,,0.09,,U
+Artifact,C,{1},1,,,,0.03,,
+Creature — Specter,U,{3}{B},4,1,3,,0.26,,B
+Artifact Creature — Scarecrow,C,{2},2,2,1,,0.04,,
+Sorcery,U,{4}{R}{R},6,,,,0.04,,R
+Creature — Elemental,C,{3}{R}{R},5,5,4,,0.01,,R
+Basic Land — Forest,C,,0,,,,0.09,,
+Land,C,,0,,,,0.16,,WB
+Land,C,,0,,,,0.1,,BG
+Artifact,U,{1},1,,,,0.6,,
+Sorcery,R,{3}{B}{B},5,,,,0.5,,B
+Creature — Serpent,C,{4}{U}{U},6,4,6,,0.06,,U
+Creature — Human Knight,C,{3}{W},4,2,2,,0.05,,W
+Artifact Creature — Gargoyle,U,{3},3,3,3,,0.04,,
+Artifact Creature — Construct,C,{5},5,3,5,,0.02,,
+Creature — Human Artificer,C,{U},1,1,2,,0.05,,U
+Creature — Treefolk,U,{5}{G}{G},7,7,7,,0.09,,G
+Creature — Elf Scout,U,{2}{G},3,3,2,,0.05,,G
+Sorcery,C,{1}{U},2,,,,0.04,,U
+Creature — Spider,C,{3}{G},4,2,4,,0.02,,G
+Enchantment — Aura,U,{2}{G},3,,,,0.05,,G
+Creature — Dinosaur,R,{G}{G}{G}{G}{G},5,10,10,,2.99,,G
+Creature — Goblin Rogue,C,{1}{R},2,1,1,,0.21,,R
+Creature — Goblin Warrior,C,{R},1,1,1,,0.14,,R
+Creature — Goblin Warrior,R,{2}{R}{R},4,3,3,,3.44,,R
+Legendary Creature — Bear,R,{3}{G},4,4,3,,5.98,,G
+Creature — Human Pirate,C,{B},1,1,1,,0.3,,B
+Creature — Zombie,U,{3}{B},4,2,2,,0.05,,B
+Creature — Bird Spirit,R,{4}{B}{B},6,5,5,,0.11,,B
+Creature — Zombie Soldier,R,{B}{B},2,3,2,,0.18,,B
+Creature — Elf Scout,C,{1}{G},2,2,2,,0.03,,G
+Creature — Goblin Shaman,U,{2}{R},3,2,2,,0.24,,R
+Creature — Devil,C,{2}{R}{R},4,4,3,,0.04,,R
+Creature — Angel,U,{3}{W}{W},5,4,3,,0.09,,W
+Sorcery,U,{2}{R}{W},4,,,,0.08,,RW
+Enchantment,U,{3}{W},4,,,,0.07,,W
+Creature — Elk,C,{1}{G},2,2,1,,0.04,,G
+Land,C,,0,,,,0.12,,UR
+Creature — Human Assassin,C,{2}{B},3,3,2,,0.04,,B
+Creature — Sphinx,U,{5}{U},6,4,4,,0.1,,U
+Creature — Minotaur,C,{3}{R},4,3,3,,0.04,,R
+Creature — Hydra,R,{X}{G},1,0,0,,1.75,,G
+Creature — Zombie Horror,C,{3}{B},4,2,2,,0.03,,B
+Instant,R,{B},1,,,,0.16,,B
+Enchantment — Aura,C,{1}{B},2,,,,0.02,,B
+Creature — Hellion,U,{3}{R},4,7,3,,0.04,,R
+Instant,C,{2}{W}{W},4,,,,0.03,,W
+Instant,C,{2}{W},3,,,,0.03,,W
+Legendary Creature — Human Wizard,R,{1}{B}{B},3,3,3,,0.26,,B
+Basic Land — Island,C,,0,,,,0.15,,
+Instant,R,{W},1,,,,0.14,,W
+Creature — Human Warrior,C,{1}{R},2,2,2,,0.18,,R
+Creature — Human Knight,C,{4}{W}{W},6,3,7,,0.01,,W
+Enchantment — Aura,U,{4}{W},5,,,,0.02,,W
+Enchantment — Aura,C,{1}{W},2,,,,0.03,,W
+Legendary Creature — Dragon,R,{4}{R}{R},6,6,6,,4.49,,R
+Sorcery,C,{4}{R},5,,,,0.09,,R
+Legendary Creature — Human Knight,R,{4}{W}{W},6,3,3,,0.2,,W
+Creature — Cat Soldier,U,{W},1,1,1,,0.11,,W
+Creature — Cat Soldier,R,{2}{W}{W},4,4,4,,5.94,,W
+Sorcery,C,{3}{B}{B},5,,,,0.06,,B
+Creature — Elemental Horse,U,{R}{R},2,3,1,,0.05,,R
+Instant,U,{1}{R},2,,,,0.09,,R
+Legendary Planeswalker — Liliana,M,{3}{B}{B},5,,,4,8.16,,B
+Legendary Planeswalker — Liliana,M,{2}{B}{B},4,,,4,4.45,,B
+Enchantment,R,{3}{B}{B},5,,,,2.74,,B
+Sorcery,R,{3}{B},4,,,,0.3,,B
+Creature — Elf Druid,C,{G},1,1,1,,0.9,,G
+Creature — Elephant Soldier,C,{2}{W},3,3,2,,0.03,,W
+Enchantment — Aura,C,{2}{W},3,,,,0.02,,W
+Sorcery,C,{1}{B},2,,,,0.03,,B
+Artifact,R,{3},3,,,,0.51,,
+Instant,U,{2}{W},3,,,,0.19,,W
+Artifact,C,{3},3,,,,0.09,,
+Artifact — Equipment,C,{2},2,,,,0.06,,
+Land,C,,0,,,,0.07,,WU
+Creature — Human Soldier,R,{2}{W},3,2,2,,0.37,,W
+Enchantment — Aura,R,{1}{U},2,,,,0.22,,U
+Artifact Creature — Golem,U,{7},7,3,3,,0.1,,
+Instant,C,{1}{W},2,,,,0.02,,W
+Creature — Human Soldier,U,{2}{W},3,2,3,,0.08,,W
+Artifact,U,{2},2,,,,0.08,,
+Sorcery,C,{2}{B},3,,,,0.01,,B
+Creature — Shapeshifter,U,{2}{U},3,0,0,,0.8,,U
+Creature — Merfolk Wizard,R,{U},1,1,1,,0.28,,U
+Creature — Merfolk Warrior,C,{U},1,1,1,,1.64,,U
+Basic Land — Mountain,C,,0,,,,0.1,,
+Instant,U,{1}{B}{B},3,,,,0.08,,B
+Creature — Human Wizard,R,{1}{U},2,2,1,,0.1,,U
+Instant,C,{1}{G},2,,,,0.04,,G
+Instant,M,{5}{U}{U},7,,,,N/A,,U
+Legendary Planeswalker — Bolas,M,,4,,,7,20.9,,UBR
+Legendary Creature — Elder Dragon,M,{1}{U}{B}{R},4,4,4,,20.9,,UBR
+Instant,U,{B},1,,,,0.08,,B
+Creature — Human Knight,U,{W},1,2,3,,0.12,,W
+Enchantment — Aura,C,{2}{G},3,,,,0.03,,G
+Creature — Human Wizard,C,{1}{U},2,1,3,,0.03,,U
+Enchantment,M,{7}{U}{U}{U},10,,,,10.55,,U
+Creature — Ogre Warrior,C,{2}{R},3,4,2,,0.03,,R
+Sorcery,R,{3}{U},4,,,,0.36,,U
+Enchantment,R,{3}{B}{B},5,,,,0.59,,B
+Creature — Cat Warrior,C,{1}{W},2,3,1,,0.02,,W
+Legendary Creature — Elder Dragon,M,{3}{R}{G}{W},6,6,6,,0.81,,WGR
+Enchantment,R,{3}{U}{U},5,,,,0.7,,U
+Creature — Pegasus,C,{2}{W},3,1,3,,0.03,,W
+Creature — Wurm,R,{4}{G}{G}{G},7,7,7,,0.19,,G
+Artifact,C,{2},2,,,,0.1,,
+Creature — Zombie,R,{B}{B}{B},3,5,5,,0.21,,B
+Creature — Nightmare Horse,U,{1}{B}{B},3,2,2,,0.08,,B
+Basic Land — Plains,C,,0,,,,0.06,,
+Instant,C,{1}{G},2,,,,0.02,,G
+Creature — Elf Archer,U,{2}{B}{G},4,2,3,,1.05,,BG
+Enchantment — Aura,R,{4}{G}{G},6,,,,0.22,,G
+Enchantment,U,{2}{U},3,,,,3.09,,U
+Creature — Nightmare Horror,U,{4}{U}{B},6,3,3,,0.04,,UB
+Sorcery,C,{1}{G},2,,,,0.05,,G
+Instant,C,{3}{R},4,,,,0.2,,R
+Creature — Harpy,U,{2}{B},3,1,2,,0.05,,B
+Creature — Skeleton Warrior,U,{1}{B},2,1,1,,0.25,,B
+Creature — Elf Shaman,U,{2}{G},3,2,1,,0.23,,G
+Sorcery,U,{2}{G},3,,,,0.09,,G
+Creature — Vampire Soldier,U,{3}{W}{B},5,2,4,,0.12,,WB
+Land,U,,0,,,,2.77,,
+Creature — Spirit Cleric,R,{1}{W},2,2,1,,0.34,,W
+Creature — Angel,M,{1}{W}{W},3,3,3,,28.88,,W
+Instant,C,{1}{W},2,,,,0.03,,W
+Creature — Rhino Monk,C,{4}{G},5,4,2,,0.02,,G
+Creature — Sphinx,R,{4}{U}{U},6,5,5,,0.1,,U
+Sorcery,U,{4}{B},5,,,,0.1,,B
+Artifact — Equipment,U,{2},2,,,,0.18,,
+Instant,C,{1}{G},2,,,,0.04,,G
+Creature — Dinosaur,R,{1}{G}{G},3,2,5,,2.97,,G
+Land,U,,0,,,,0.12,,
+Creature — Bird,C,{W},1,1,2,,0.06,,W
+Legendary Creature — Human Artificer,R,{2}{U},3,1,4,,2.08,,U
+Creature — Merfolk Wizard,C,{3}{U}{U},5,2,2,,0.06,,U
+Legendary Planeswalker — Sarkhan,M,{4}{R}{R},6,,,5,21.69,,R
+Legendary Planeswalker — Sarkhan,M,{1}{R}{R},3,,,3,10.03,,R
+Sorcery,R,{3}{R}{R},5,,,,0.16,,R
+Enchantment,R,{3}{R},4,,,,0.65,,R
+Creature — Dragon,U,{2}{R},3,2,2,,0.49,,R
+Creature — Satyr Druid,U,{1}{G}{W},3,2,2,,0.9,,GW
+Sorcery,M,{2}{G}{G},4,,,,20.92,,G
+Creature — Human Artificer,C,{3}{U},4,3,2,,0.02,,U
+Creature — Angel,R,{4}{W}{W},6,5,5,,0.29,,W
+Creature — Horse,U,{1}{W}{W},3,2,3,,0.09,,W
+Creature — Dragon,R,{4}{R}{R},6,5,5,,0.12,,R
+Instant,C,{R},1,,,,0.06,,R
+Creature — Giant Warrior,U,{3}{R}{R},5,6,3,,0.08,,R
+Sorcery,U,{3}{U},4,,,,0.05,,U
+Artifact — Equipment,R,{3},3,,,,0.61,,
+Creature — Griffin,C,{W}{W},2,2,2,,0.25,,W
+Creature — Wolf Spirit,R,{3}{G}{G},5,3,3,,0.84,,G
+Creature — Skeleton Archer,C,{3}{B},4,3,3,,0.03,,B
+Creature — Human Artificer,U,{2}{U},3,1,3,,0.06,,U
+Creature — Vampire Soldier,C,{2}{B},3,2,2,,0.04,,B
+Creature — Elf Scout,U,{2}{G}{U},4,2,3,,0.06,,GU
+Artifact Creature — Thopter,C,{3},3,1,1,,0.12,,
+Sorcery,U,{2}{U}{U},4,,,,0.14,,U
+Instant,C,{R},1,,,,0.04,,R
+Creature — Drake,C,{3}{U},4,3,2,,0.02,,U
+Sorcery,C,{1}{B},2,,,,0.13,,B
+Creature — Dragon,C,{3}{R}{R},5,3,3,,0.04,,R
+Instant,R,{2}{R},3,,,,0.47,,R
+Creature — Elk,C,{3}{W},4,3,3,,0.01,,W
+Creature — Zombie,U,{B},1,1,1,,4.05,,B
+Land,C,,0,,,,0.06,,RW
+Instant,C,{3}{B},4,,,,0.02,,B
+Land,C,,0,,,,0.14,,UB
+Creature — Human Soldier,C,{1}{W},2,2,2,,0.26,,W
+Creature — Human Cleric,R,{1}{W},2,1,4,,0.16,,W
+Creature — Spirit,R,{1}{U},2,1,3,,0.45,,U
+Instant,C,{1}{R},2,,,,0.03,,R
+Creature — Horse Fish,U,{U}{U},2,0,5,,0.06,,U
+Artifact Creature — Wall,U,{2},2,0,4,,0.11,,
+Basic Land — Swamp,C,,0,,,,0.07,,
+Sorcery,U,{4}{U},5,,,,0.06,,U
+Sorcery,C,{1}{W},2,,,,0.03,,W
+Enchantment — Aura,C,{1}{G},2,,,,0.06,,G
+Creature — Zombie Jackal,C,{1}{B},2,1,2,,0.21,,B
+Sorcery,U,{3}{R},4,,,,0.05,,R
+Legendary Planeswalker — Tezzeret,M,{3}{U}{U},5,,,5,3.14,,U
+Legendary Planeswalker — Tezzeret,M,{4}{U}{U},6,,,4,1.34,,U
+Artifact,R,{4},4,,,,0.28,,U
+Artifact Creature — Golem,U,{3},3,3,1,,0.14,,
+Creature — Elf Warrior,R,{1}{G},2,2,3,,0.13,,G
+Creature — Wolf,C,{4}{G},5,4,5,,0.01,,G
+Sorcery,U,{R},1,,,,0.29,,R
+Land,C,,0,,,,0.09,,GR
+Instant,C,{1}{G},2,,,,0.02,,G
+Creature — Human Wizard,C,{2}{U},3,2,3,,0.04,,U
+Sorcery,C,{1}{R},2,,,,0.04,,R
+Instant,C,{4}{U},5,,,,0.01,,U
+Land,C,,0,,,,0.11,,GW
+Artifact,R,{3},3,,,,0.28,,
+Instant,C,{2}{R},3,,,,0.02,,R
+Creature — Beast,C,{2}{W},3,2,3,,0.02,,W
+Creature — Zombie,C,{3}{B},4,4,2,,0.03,,B
+Instant,C,{2}{U},3,,,,0.02,,U
+Creature — Human Berserker,C,{1}{G},2,2,2,,0.19,,G
+Legendary Creature — Elder Dragon,M,{3}{B}{R}{G},6,6,6,,1.32,,BGR
+Creature — Human Knight,R,{3}{W},4,3,4,,0.33,,W
+Creature — Vampire,C,{B},1,0,3,,0.09,,B
+Creature — Vampire Noble,U,{3}{B}{B},5,3,4,,0.1,,B
+Creature — Viashino Wizard,C,{1}{R},2,2,1,,0.11,,R
+Creature — Beast,U,{3}{G}{G},5,5,5,,0.08,,G
+Creature — Elemental Horse,U,{2}{G}{G},4,5,3,,0.15,,G
+Legendary Planeswalker — Vivien,M,{4}{G}{G},6,,,5,2.29,,G
+Legendary Planeswalker — Vivien,M,{3}{G}{G},5,,,5,1.84,,G
+Sorcery,R,{5}{G}{G},7,,,,0.08,,G
+Creature — Cat Spirit,U,{2}{G},3,3,2,,0.22,,G
+Creature — Dragon,U,{4}{R}{R},6,4,4,,0.06,,R
+Creature — Goblin Warrior,U,{3}{R},4,4,2,,0.17,,R
+Creature — Zombie,C,{1}{B},2,2,2,,0.03,,B
+Creature — Wall,C,{1}{U},2,0,5,,0.03,,U
+Creature — Plant Wall,C,{G},1,0,3,,0.05,,G
+Enchantment — Aura,C,{1}{U}{U},3,,,,0.31,,U
+Creature — Sphinx,R,{5}{U}{U},7,3,7,,0.42,,U
+Land,C,,0,,,,0.08,,GU
+Sorcery,C,{2}{R},3,,,,0.02,,R
+Sorcery,C,{2}{W},3,,,,0.02,,W
+Instant,U,{1}{U},2,,,,0.48,,U
+Creature — Human Rogue,R,{5}{U}{U},7,2,3,,5.7,,U
+Creature — Elephant,R,{3}{G}{G}{G},6,8,8,,0.41,,G
+Sorcery,C,{3}{B},4,,,,0.03,,B
+Creature — Elemental,U,{3}{U}{U},5,4,4,,0.02,,U
+Legendary Planeswalker — Ajani,M,{4}{W}{W},6,,,5,N/A,,W
+Legendary Planeswalker — Ajani,M,{2}{W}{W},4,,,5,9.11,,W
+Artifact — Equipment,U,{1}{W},2,,,,0.04,,W
+Creature — Angel,U,{2}{W},3,2,2,,1.69,,W
+Enchantment — Aura,C,{1}{W},2,,,,0.02,,W
+Creature — Angel,R,{4}{W}{W},6,5,5,,6.52,,W
+Instant,C,{1}{U},2,,,,0.03,,U
+Artifact Creature — Bird,C,{4},4,2,1,,0.02,,
+Creature — Human Cleric,U,{1}{W},2,2,1,,0.06,,W
+Legendary Creature — Sphinx,R,{3}{U}{U}{U},6,4,5,,0.22,,U
+Creature — Human Rogue,C,{2}{B},3,2,2,,0.14,,B
+Artifact,R,{1},1,,,,0.16,,
+Creature — Troll,U,{G}{G},2,2,2,,0.13,,G
+Creature — Vampire,C,{2}{B},3,3,2,,0.03,,B
+Creature — Bat,C,{3}{B},4,3,1,,0.23,,B
+Creature — Dwarf Soldier,C,{2}{W},3,3,2,,0.13,,W
+Creature — Human Soldier,C,{2}{W},3,2,2,,0.02,,W
+Instant,C,{2}{U},3,,,,0.04,,U
+Creature — Human Cleric,R,{W}{W},2,1,4,,5.43,,W
+Instant,C,{1}{B},2,,,,0.02,,B
+Creature — Insect,U,{1}{B},2,1,1,,0.36,,B
+Creature — Vampire Rogue,C,{1}{B},2,2,2,,0.04,,B
+Sorcery,U,{3}{B},4,,,,0.47,,B
+Land,C,,0,,,,0.09,,BR
+Artifact,U,{4}{B}{B},6,,,,0.05,,B
+Creature — Vampire Rogue,U,{1}{B}{B},3,2,3,,0.25,,B
+Land,C,,0,,,,0.07,,GW
+Creature — Beast,C,{4}{B}{B},6,6,5,,0.38,,B
+Sorcery,C,{B},1,,,,0.05,,B
+Instant,C,{2}{U}{U},4,,,,0.03,,U
+Creature — Human Wizard,C,{3}{B}{B},5,3,3,,0.02,,B
+Creature — Elemental,C,{4}{U},5,3,4,,0.02,,U
+Creature — Elf Scout,C,{3}{G},4,2,4,,0.02,,G
+Creature — Merfolk Pirate,U,{1}{U},2,2,1,,0.1,,U
+Creature — Boar,C,{3}{G},4,4,3,,0.18,,G
+Instant,R,{W}{W},2,,,,1.91,,W
+Creature — Spider,C,{1}{G},2,1,3,,0.24,,G
+Sorcery,U,{4}{U}{U},6,,,,0.03,,U
+Creature — Elemental Knight,M,{2}{W}{W}{W},5,4,6,,2.69,,W
+Creature — Elemental Knight,M,{2}{R}{R}{R},5,6,5,,6.98,,R
+Creature — Elemental Knight,M,{2}{U}{U}{U},5,5,5,,1.7,,U
+Creature — Elemental Knight,M,{2}{B}{B}{B},5,4,5,,1.27,,B
+Creature — Elemental Knight,M,{2}{G}{G}{G},5,5,6,,13.65,,G
+Creature — Bird Spirit,C,{2}{U}{U},4,3,2,,0.16,,U
+Creature — Centaur Warrior,C,{2}{G},3,3,3,,0.01,,G
+Creature — Drake,U,{1}{U},2,1,1,,0.15,,U
+Legendary Planeswalker — Chandra,R,{1}{R}{R},3,,,4,1.05,,R
+Legendary Planeswalker — Chandra,M,{4}{R}{R},6,,,6,11.91,,R
+Legendary Planeswalker — Chandra,M,{4}{R}{R},6,,,4,N/A,,R
+Legendary Planeswalker — Chandra,U,{3}{R},4,,,5,0.24,,R
+Creature — Elemental Cat,C,{1}{R},2,2,2,,0.05,,R
+Sorcery,R,{3}{R}{R},5,,,,0.29,,R
+Instant,C,{2}{R}{R},4,,,,0.02,,R
+Legendary Artifact,R,{1}{R},2,,,,0.21,,R
+Creature — Elemental,U,{2}{R},3,1,3,,0.1,,R
+Creature — Elemental Wizard,C,{2}{U},3,2,1,,0.08,,U
+Artifact — Equipment,U,{1},1,,,,1.24,,
+Creature — Pegasus,C,{1}{W},2,1,3,,0.12,,W
+Instant,C,{2}{U},3,,,,0.02,,U
+Creature — Merfolk,C,{1}{U},2,2,1,,0.3,,U
+Creature — Zombie Knight,U,{W}{B},2,2,2,,1.39,,WB
+Creature — Elemental,U,{R}{G},2,2,2,,0.11,,GR
+Land,U,,0,,,,0.14,,
+Creature — Goblin,C,{3}{R},4,3,2,,0.02,,R
+Instant,C,{1}{B},2,,,,0.14,,B
+Creature — Angel,C,{4}{W},5,3,2,,0.07,,W
+Creature — Human Cleric,C,{1}{W},2,1,3,,0.03,,W
+Creature — Goblin,C,{2}{R},3,3,2,,0.02,,R
+Sorcery,U,{1}{W},2,,,,0.04,,W
+Artifact Creature — Knight,U,{3},3,1,1,,0.1,,
+Instant,C,{1}{W},2,,,,0.06,,W
+Sorcery,C,{B},1,,,,1.24,,B
+Instant,U,{B},1,,,,0.04,,B
+Land,C,,0,,,,0.11,,UB
+Artifact,U,{4},4,,,,0.03,,
+Creature — Dragon Wizard,U,{5}{R}{R},7,5,5,,0.32,,R
+Legendary Creature — Dragon,R,{4}{R}{R}{R},7,7,7,,0.96,,R
+Sorcery,R,{2}{U}{U},4,,,,0.11,,U
+Creature — Nightmare,R,{3}{B},4,3,3,,3.86,,B
+Creature — Spirit,R,{2}{U}{U},4,3,3,,0.13,,U
+Sorcery,C,{B},1,,,,0.04,,B
+Creature — Elf Warrior,R,{G},1,1,2,,8.18,,G
+Creature — Goblin,U,{R}{R},2,2,2,,0.03,,R
+Creature — Demon,R,{1}{B}{B},3,0,0,,0.36,,B
+Creature — Bird Spirit,U,{1}{W}{U},3,2,3,,0.27,,WU
+Sorcery,C,{2}{R}{R},4,,,,0.28,,R
+Creature — Vampire,C,{4}{B},5,4,4,,0.08,,B
+Sorcery,U,{1}{W},2,,,,0.04,,W
+Creature — Elk Spirit,R,{3}{G}{G},5,3,3,,0.25,,G
+Land,C,,0,,,,0.1,,
+Creature — Faerie Rogue,C,{U},1,1,1,,0.09,,U
+Creature — Human Pirate,C,{3}{B},4,3,3,,0.01,,B
+Creature — Human Warrior,C,{2}{R},3,3,2,,0.71,,R
+Creature — Human Soldier,U,{1}{W},2,1,1,,0.02,,W
+Creature — Thrull,C,{5}{B},6,5,5,,0.02,,B
+Enchantment — Aura,C,{2}{G},3,,,,0.02,,G
+Creature — Wolf,C,{2}{G},3,0,1,,0.06,,G
+Land,R,,0,,,,19.96,,
+Creature — Elemental,C,{3}{R}{R},5,5,4,,0.01,,R
+Instant,U,{2}{R},3,,,,0.08,,R
+Sorcery,R,{4}{U}{U},6,,,,0.88,,U
+Basic Land — Forest,C,,0,,,,0.07,,
+Creature — Crab,C,{3}{U},4,1,6,,0.02,,U
+Creature — Lizard,C,{G},1,1,1,,0.47,,G
+Creature — Serpent,C,{4}{U}{U},6,4,6,,0.01,,U
+Creature — Elemental Cat,C,{2}{U},3,2,2,,0.01,,U
+Instant,U,{1}{R},2,,,,0.18,,R
+Legendary Creature — Hydra,R,{3}{G}{G}{G},6,8,7,,0.58,,G
+Enchantment — Aura,U,{2}{W},3,,,,0.11,,W
+Enchantment — Aura,C,{2}{G},3,,,,0.02,,G
+Enchantment — Aura,C,{W},1,,,,0.03,,W
+Creature — Minotaur Pirate,R,{1}{R}{R},3,2,4,,1.88,,R
+Creature — Rhino,U,{2}{G}{G},4,4,4,,0.33,,G
+Creature — Goblin Warrior,C,{1}{R},2,2,2,,0.31,,R
+Creature — Goblin,C,{1}{R},2,2,1,,0.02,,R
+Creature — Goblin,U,{3}{R},4,2,2,,0.29,,R
+Creature — Goblin Rogue,C,{2}{R},3,2,2,,0.04,,R
+Instant,U,{W},1,,,,0.11,,W
+Creature — Griffin,R,{3}{W}{W},5,3,2,,0.22,,W
+Legendary Artifact Creature — Scout,R,{5},5,3,5,,1.31,,WUBGR
+Creature — Bird,C,{2}{B},3,2,2,,0.04,,B
+Artifact,R,{1},1,,,,1.93,,
+Creature — Zombie,U,{3}{B},4,2,2,,0.08,,B
+Creature — Bird Spirit,R,{4}{B}{B},6,5,5,,0.15,,B
+Creature — Elf Scout,C,{1}{G},2,2,2,,0.01,,G
+Creature — Griffin,C,{3}{W},4,2,3,,0.03,,W
+Creature — Griffin,C,{2}{W},3,1,3,,0.03,,W
+Instant,C,{1}{G},2,,,,0.02,,G
+Creature — Orc Warrior,U,{3}{B}{B},5,3,3,,0.03,,B
+Creature — Human Soldier,C,{2}{W},3,3,2,,0.16,,W
+Creature — Spirit,R,{2}{W},3,1,1,,0.15,,W
+Enchantment — Aura,U,{U},1,,,,0.03,,U
+Creature — Elemental,C,{G},1,1,2,,0.05,,G
+Artifact — Equipment,C,{2},2,,,,0.04,,
+Creature — Angel,U,{4}{W}{W},6,4,4,,0.04,,W
+Creature — Minotaur,C,{3}{R},4,3,3,,0.23,,R
+Creature — Giant Druid,U,{5}{G}{G},7,5,5,,0.02,,G
+Artifact,R,{3},3,,,,1.43,,
+Creature — Phoenix,R,{4}{R}{R},6,5,3,,2.25,,R
+Creature — Human Cleric,C,{1}{W},2,2,2,,1.46,,W
+Creature — Human Knight,C,{3}{W},4,1,5,,0.33,,W
+Instant,C,{R},1,,,,0.04,,R
+Instant,C,{2}{W}{W},4,,,,0.01,,W
+Creature — Human Knight,C,{3}{W},4,3,3,,0.02,,W
+Creature — Beast,C,{3}{W},4,2,5,,0.16,,W
+Creature — Treefolk Soldier,U,{1}{G}{W},3,*,5,,0.07,,GW
+Basic Land — Island,C,,0,,,,0.08,,
+Land,C,,0,,,,0.09,,BG
+Legendary Creature — Human Cleric,M,{R}{W}{B},3,3,3,,4.04,,RWB
+Creature — Human Warrior,C,{2}{R}{R},4,4,3,,0.03,,R
+Legendary Creature — Elf Advisor,M,{W}{B}{G},3,3,4,,6.8,,WBG
+Creature — Vampire Knight,R,{B},1,1,2,,1.76,,B
+Legendary Creature — Bird Wizard,M,{1}{U}{R}{W},4,3,3,,4.65,,URW
+Creature — Elemental Warrior,C,{3}{R},4,2,4,,0.02,,R
+Creature — Elemental Druid,C,{1}{G},2,0,3,,0.06,,G
+Sorcery,R,{1}{B},2,,,,0.23,,B
+Enchantment,R,{2}{G}{G},4,,,,1.82,,G
+Enchantment,R,{2}{U}{U},4,,,,2.71,,U
+Enchantment,R,{2}{R}{R},4,,,,0.68,,R
+Enchantment,R,{2}{W}{W},4,,,,4.9,,W
+Enchantment,R,{2}{B}{B},4,,,,8.08,,B
+Creature — Elemental Wizard,U,{U}{R},2,2,2,,0.04,,UR
+Creature — Centaur Shaman,U,{2}{G},3,3,2,,0.07,,G
+Land,R,,0,,,,2.77,,
+Creature — Elephant Cleric,R,{5}{W},6,4,6,,0.1,,W
+Creature — Pegasus,U,{W},1,2,1,,0.07,,W
+Creature — Spider,C,{4}{G},5,3,5,,0.02,,G
+Enchantment — Aura,C,{1}{R},2,,,,0.02,,R
+Artifact,U,{1},1,,,,0.66,,
+Artifact — Equipment,C,{2},2,,,,0.04,,
+Creature — Dinosaur,R,{1}{R},2,2,3,,1.59,,R
+Artifact — Equipment,U,{1}{R},2,,,,0.03,,R
+Creature — Phyrexian Human Artificer,U,{3}{W},4,1,1,,0.05,,W
+Instant,R,{5}{U},6,,,,0.26,,U
+Artifact Creature — Golem,U,{7},7,3,3,,0.09,,
+Creature — Faerie Rogue,C,{1}{U},2,1,2,,0.04,,U
+Instant,U,{G},1,,,,0.04,,G
+Sorcery,C,{2}{B},3,,,,0.02,,B
+Creature — Fish,C,{1}{U},2,3,3,,0.02,,U
+Enchantment,U,{3}{B}{G},5,,,,0.27,,BG
+Instant,C,{1}{W},2,,,,0.02,,W
+Creature — Human Soldier,C,{1}{W},2,2,2,,0.01,,W
+Basic Land — Mountain,C,,0,,,,0.1,,
+Legendary Planeswalker — Yanling,M,{4}{U}{U},6,,,5,N/A,,U
+Legendary Planeswalker — Yanling,M,{1}{U}{U},3,,,2,1.48,,U
+Instant,C,{1}{B}{B},3,,,,0.03,,B
+Artifact,R,{4},4,,,,3.51,,
+Instant,C,{2}{G},3,,,,0.03,,G
+Instant,C,{1}{U},2,,,,0.11,,U
+Creature — Spider,C,{2}{G},3,2,3,,0.05,,G
+Creature — Wolf,R,{2}{G}{G},4,4,4,,0.45,,G
+Creature — Goblin,C,{2}{R},3,2,3,,0.27,,R
+Instant,U,{1}{B},2,,,,0.09,,B
+Enchantment — Aura,C,{2}{G},3,,,,0.33,,G
+Creature — Octopus,C,{3}{U},4,3,3,,0.04,,U
+Creature — Ogre Berserker,U,{2}{B}{R},4,4,3,,0.04,,BR
+Legendary Creature — Elemental,M,{1}{G}{U}{R},4,3,3,,5.48,,UGR
+Sorcery,U,{3}{G}{G},5,,,,0.03,,G
+Creature — Elemental,U,{2}{G},3,3,2,,0.1,,G
+Enchantment — Aura,C,{1}{W},2,,,,0.03,,W
+Creature — Dog,C,{1}{R},2,2,2,,0.03,,R
+Artifact Creature — Golem,U,{4},4,3,3,,0.04,,
+Creature — Illusion Warrior,C,{1}{U}{U},3,2,2,,0.59,,U
+Basic Land — Plains,C,,0,,,,0.07,,
+Sorcery,R,{3}{W}{W}{W},6,,,,0.25,,W
+Instant,C,{1}{G},2,,,,0.01,,G
+Artifact,U,{2}{U},3,,,,0.07,,U
+Artifact Creature — Golem,C,{2},2,2,1,,0.04,,
+Creature — Unicorn,C,{3}{G},4,2,2,,2.38,,G
+Creature — Cat,C,{1}{W},2,3,1,,0.1,,W
+Instant,U,{2}{G},3,,,,0.11,,G
+Creature — Elemental,U,{3}{R}{R},5,5,4,,0.12,,R
+Sorcery,C,{1}{G},2,,,,0.02,,G
+Instant,C,{1}{W},2,,,,0.03,,W
+Creature — Dragon,U,{4}{R},5,3,3,,0.16,,R
+Sorcery,C,{R},1,,,,0.04,,R
+Sorcery,C,{4}{R},5,,,,0.03,,R
+Creature — Human Artificer,U,{1}{U},2,1,3,,0.06,,U
+Instant,R,{2}{R}{R},4,,,,0.49,,R
+Artifact,U,{3},3,,,,0.07,,
+Creature — Sphinx,R,{4}{U}{U},6,5,5,,0.16,,U
+Legendary Creature — Angel,M,{2}{R}{G}{W},5,5,4,,N/A,,WGR
+Creature — Dinosaur,C,{4}{R}{R},6,6,5,,0.01,,R
+Creature — Elemental,U,{1}{G}{U},3,1,1,,1.46,,GU
+Creature — Zombie Dinosaur,R,{2}{B},3,7,6,,3.75,,B
+Creature — Ogre Berserker,C,{4}{R},5,6,5,,0.37,,R
+Land,C,,0,,,,0.09,,GR
+Enchantment,U,{2}{W},3,,,,0.35,,W
+Creature — Vedalken Wizard,C,{2}{U},3,2,3,,0.03,,U
+Artifact Creature — Construct,U,{3},3,2,1,,0.09,,
+Creature — Skeleton,C,{B},1,1,2,,0.02,,B
+Creature — Vampire,C,{1}{B}{B},3,1,1,,0.92,,B
+Creature — Cat Cleric,C,{1}{W},2,2,2,,0.16,,W
+Creature — Elemental,U,{3}{R},4,1,1,,0.11,,R
+Sorcery,R,{B},1,,,,5.58,,B
+Creature — Human Wizard,U,{5}{U}{U},7,3,3,,0.07,,U
+Creature — Elemental Lizard,C,{R},1,1,1,,0.05,,R
+Land,C,,0,,,,0.09,,WB
+Artifact Creature — Scarecrow,U,{3},3,2,2,,0.14,,
+Enchantment,U,{1}{G},2,,,,1.41,,G
+Creature — Scorpion,C,{G},1,1,1,,0.05,,G
+Legendary Creature — Angel,R,{4}{W}{W}{W},7,7,7,,3.36,,W
+Creature — Angel,R,{4}{W}{W},6,5,5,,0.42,,W
+Instant,R,{3}{G}{G},5,,,,2.86,,G
+Creature — Dinosaur,R,{2}{G}{G},4,5,4,,0.22,,G
+Creature — Dragon,R,{4}{R}{R},6,5,5,,0.13,,R
+Instant,C,{R},1,,,,0.03,,R
+Instant,C,{1}{W},2,,,,0.18,,W
+Creature — Elephant,C,{4}{W},5,3,5,,0.28,,W
+Creature — Ape Shaman,C,{3}{G}{G},5,5,4,,0.04,,G
+Creature — Skeleton Archer,C,{3}{B},4,3,3,,0.59,,B
+Creature — Human Knight,U,{R}{W},2,1,2,,0.44,,RW
+Enchantment — Aura,C,{3}{U},4,,,,0.01,,U
+Creature — Drake,C,{3}{U},4,3,2,,0.33,,U
+Creature — Human Wizard,C,{1}{B},2,1,3,,0.01,,B
+Legendary Planeswalker — Sorin,M,{2}{B},3,,,4,14.22,,B
+Legendary Planeswalker — Sorin,M,{4}{B}{B},6,,,4,N/A,,B
+Creature — Vampire,R,{3}{B}{B},5,4,2,,0.25,,B
+Instant,C,{B}{B},2,,,,0.13,,B
+Sorcery,C,{2}{B},3,,,,0.02,,B
+Creature — Human Cleric,C,{W},1,1,1,,0.04,,W
+Creature — Spirit Pirate,U,{U},1,1,1,,0.24,,U
+Creature — Human Soldier,C,{4}{W},5,2,2,,0.01,,W
+Creature — Human Cleric,R,{1}{W},2,2,2,,3.19,,W
+Creature — Human Soldier,C,{2}{W},3,3,2,,0.03,,W
+Artifact Creature — Construct,R,{2},2,1,1,,0.99,,
+Artifact Creature — Golem,C,{5},5,4,4,,0.01,,
+Basic Land — Swamp,C,,0,,,,0.08,,
+Land,C,,0,,,,0.05,,UR
+Sorcery,C,{1}{W},2,,,,0.17,,W
+Instant,R,{1}{U},2,,,,1.75,,U
+Sorcery,C,{3}{R},4,,,,0.02,,R
+Land,R,,0,,,,0.24,,UR
+Land,R,,0,,,,0.25,,BG
+Land,R,,0,,,,0.24,,GU
+Land,R,,0,,,,0.26,,WB
+Land,R,,0,,,,0.22,,RW
+Creature — Elemental Rhino,C,{3}{G},4,4,3,,0.06,,G
+Creature — Vampire,U,{2}{B}{B},4,3,3,,3.96,,B
+Land,C,,0,,,,0.07,,GU
+Sorcery,U,{4}{B}{B},6,,,,0.09,,B
+Creature — Dinosaur,U,{1}{G}{G},3,3,4,,0.07,,G
+Creature — Elemental Shaman,R,{1}{R},2,1,2,,0.32,,R
+Instant,C,{1}{G},2,,,,0.12,,G
+Creature — Zombie Wizard,U,{1}{U}{B},3,1,3,,0.2,,UB
+Land,C,,0,,,,0.06,,WU
+Creature — Pegasus,C,{2}{W},3,2,2,,0.16,,W
+Creature — Human Knight,U,{3}{W},4,3,3,,0.6,,W
+Instant,U,{2}{R},3,,,,0.03,,R
+Creature — Human Berserker,U,{1}{R},2,1,1,,0.11,,R
+Creature — Zombie,C,{3}{B},4,3,2,,0.01,,B
+Enchantment — Aura,C,{2}{B},3,,,,0.01,,B
+Instant,C,{U},1,,,,0.02,,U
+Creature — Vampire,U,{B},1,1,1,,1.88,,B
+Creature — Vampire,C,{1}{B},2,2,1,,0.2,,B
+Instant,U,{G},1,,,,6.35,,G
+Creature — Orc Warrior,U,{4}{B},5,4,4,,0.04,,B
+Artifact,C,{2},2,,,,0.03,,
+Legendary Creature — Demon,R,{5}{B}{B}{B},8,8,8,,6.58,,B
+Legendary Planeswalker — Vivien,M,{1}{G}{G}{G},4,,,4,3,,G
+Legendary Planeswalker — Vivien,M,{4}{G}{G},6,,,3,N/A,,G
+Creature — Crocodile Spirit,C,{2}{G},3,3,3,,0.11,,G
+Creature — Dragon,U,{4}{R}{R},6,4,4,,0.29,,R
+Creature — Hydra,R,{X}{G}{G},2,0,1,,3.37,,G
+Creature — Elemental Horror,C,{4}{G}{G},6,7,7,,0.03,,G
+Creature — Elemental,R,{4}{G}{G},6,5,5,,0.08,,G
+Creature — Zombie,C,{1}{B},2,2,2,,0.24,,B
+Creature — Bird Wizard,U,{2}{U},3,2,2,,0.09,,U
+Creature — Elemental Shaman,U,{1}{U},2,2,1,,0.2,,U
+Creature — Elemental,C,{2}{R}{R},4,3,3,,0.19,,R
+Land,C,,0,,,,0.06,,RW
+Sorcery,C,{2}{U},3,,,,0.11,,U
+Enchantment — Aura,C,{4}{G},5,,,,0.02,,G
+Artifact — Equipment,U,{3}{G},4,,,,0.05,,G
+Creature — Elf Scout,U,{1}{G},2,2,2,,0.07,,G
+Creature — Elf Druid,C,{1}{G},2,1,1,,4.53,,G
+Creature — Bird,R,{3}{U}{U},5,2,4,,0.25,,U
+Legendary Creature — Elemental Horror,M,{2}{B}{G}{U},5,3,5,,11.31,,BGU
+Creature — Horror,U,{B}{B},2,1,1,,0.28,,B
+Creature — Elemental,U,{3}{U},4,4,4,,0.02,,U
+Creature — Ox,C,{W},1,0,4,,0.02,,W
+Enchantment,C,{1}{U},2,,,,0.13,,U
+Creature — Human Soldier,C,{1}{W},2,2,1,,0.11,,W
+Instant,C,{B},1,,,,0.03,,B
+Creature — Human Warrior,U,{R}{W},2,2,2,,0.11,,RW
+Creature — Dog,C,{1}{W},2,2,2,,0.07,,W
+Instant,U,{1}{W},2,,,,0.08,,W
+Land,R,,0,,,,0.93,,
+Creature — Human Cleric,C,{W},1,1,1,,0.01,,W
+Creature — Human Cleric,U,{B},1,1,1,,0.17,,B
+Creature — Bird Warrior,U,{3}{W}{W},5,4,3,,0.01,,W
+Legendary Creature — Human Monk,R,{2}{G},3,1,2,,9.41,,G
+Sorcery,U,{4}{B}{B},6,,,,0.06,,B
+Creature — Angel,M,{3}{W}{W},5,5,5,,1.76,,W
+Legendary Creature — Human Wizard,R,{1}{U}{U},3,2,2,,0.22,,U
+Legendary Planeswalker — Basri,M,{1}{W}{W},3,,,3,1.61,,W
+Legendary Planeswalker — Basri,M,{4}{W}{W},6,,,4,N/A,,W
+Creature — Cat Cleric,C,{2}{W}{W},4,2,3,,0.02,,W
+Sorcery,R,{2}{W}{W},4,,,,0.22,,W
+Creature — Human Knight,R,{3}{W},4,3,4,,0.22,,W
+Sorcery,U,{1}{W},2,,,,0.09,,W
+Creature — Goblin Shaman,U,{3}{R},4,2,2,,0.01,,R
+Creature — Vampire,C,{4}{B},5,4,3,,0.02,,B
+Land,C,,0,,,,0.07,,BR
+Land,C,,0,,,,0.11,,GW
+Creature — Elemental Dog,U,{2}{R},3,2,2,,0.38,,R
+Creature — Cyclops,C,{4}{R}{R},6,4,5,,0.01,,R
+Creature — Goblin,R,{4}{R},5,1,1,,0.64,,R
+Creature — Treefolk,U,{2}{G}{G},4,2,3,,0.02,,G
+Instant,C,{2}{R},3,,,,0.02,,R
+Creature — Zombie,C,{2}{B},3,2,3,,0.02,,B
+Instant,C,{1}{U}{U},3,,,,0.04,,U
+Creature — Cat,U,{3}{G},4,4,2,,0.04,,G
+Enchantment — Aura,C,{3}{U},4,,,,0.01,,U
+Creature — Insect,U,{3}{B},4,0,5,,0.07,,B
+Creature — Human Cleric,C,{2}{W},3,2,3,,0.02,,W
+Legendary Planeswalker — Chandra,M,{4}{R}{R},6,,,5,N/A,,R
+Legendary Planeswalker — Chandra,M,{3}{R}{R},5,,,5,0.41,,R
+Creature — Hellion,R,{3}{R}{R},5,4,2,,0.29,,R
+Creature — Elemental,R,{5}{R},6,6,6,,0.76,,R
+Creature — Elemental Dog,C,{1}{R},2,2,2,,0.06,,R
+Creature — Elemental Lizard,U,{1}{R},2,1,3,,0.03,,R
+Legendary Artifact,M,{7},7,,,,26.65,,
+Artifact Creature — Construct,U,{5},5,4,4,,0.02,,
+Creature — Dinosaur,C,{4}{G}{G},6,6,6,,0.06,,G
+Creature — Centaur Cleric,U,{G}{W},2,2,2,,0.34,,GW
+Creature — Pegasus,C,{1}{W},2,1,3,,0.01,,W
+Creature — Goblin Rogue,R,{R}{R},2,2,2,,5.08,,R
+Creature — Human Cleric,R,{1}{W},2,2,2,,0.25,,W
+Sorcery,C,{R},1,,,,0.08,,R
+Creature — Horror,C,{3}{B},4,3,4,,0.01,,B
+Sorcery,U,{2}{G},3,,,,0.54,,G
+Creature — Unicorn,C,{1}{W},2,3,1,,0.02,,W
+Creature — Fungus,C,{2}{B},3,3,2,,0.05,,B
+Instant,C,{W},1,,,,0.05,,W
+Enchantment — Aura,R,{1}{B}{B},3,,,,0.16,,B
+Sorcery,C,{2}{R},3,,,,0.02,,R
+Creature — Orc Pirate,U,{1}{B}{R},3,3,3,,0.05,,BR
+Instant,M,{3}{U}{U}{U},6,,,,1.39,,U
+Land,C,,0,,,,0.09,,UB
+Enchantment,R,{3}{R}{R},5,,,,0.22,,R
+Creature — Dinosaur,C,{1}{G},2,3,3,,0.02,,G
+Enchantment — Aura,C,{2}{W},3,,,,0.02,,W
+Sorcery,C,{B},1,,,,0.06,,B
+Creature — Beast,M,{3}{G}{G},5,6,6,,13.34,,G
+Instant,U,{1}{B},2,,,,0.04,,B
+Enchantment — Aura,U,{3}{U}{U},5,,,,0.02,,U
+Artifact Creature — Golem,U,{5},5,3,5,,0.05,,
+Sorcery,U,{2}{U}{R},4,,,,0.1,,UR
+Land,R,,0,,,,5.22,,
+Enchantment — Aura,U,{3}{W},4,,,,0.04,,W
+Creature — Human Soldier,U,{3}{W},4,2,3,,0.01,,W
+Instant,C,{1}{W},2,,,,0.03,,W
+Creature — Cat,R,{2}{G},3,2,3,,0.31,,G
+Creature — Imp,C,{1}{B},2,1,2,,0.01,,B
+Creature — Elf,U,{2}{G},3,1,1,,0.16,,G
+Enchantment,M,{3}{R}{R}{R},6,,,,23.28,,R
+Instant,C,{4}{B},5,,,,0.02,,B
+Basic Land — Forest,C,,0,,,,0.05,,
+Artifact Creature — Golem,C,{4},4,4,3,,0.01,,
+Instant,C,{1}{U},2,,,,0.09,,U
+Instant,C,{2}{U},3,,,,0.01,,U
+Instant,U,{2}{G},3,,,,0.08,,G
+Enchantment,U,{2}{R},3,,,,0.04,,R
+Enchantment — Aura,C,{R},1,,,,0.01,,R
+Legendary Creature — Dragon,R,{2}{R},3,5,4,,0.73,,R
+Creature — Griffin,C,{3}{W},4,3,2,,0.01,,W
+Legendary Planeswalker — Garruk,M,{4}{G}{G},6,,,5,N/A,,G
+Legendary Planeswalker — Garruk,M,{2}{G}{G},4,,,4,0.66,,G
+Creature — Beast,C,{4}{G},5,7,3,,0.03,,G
+Creature — Beast,R,{1}{G}{G},3,4,3,,0.2,,G
+Enchantment,U,{2}{G},3,,,,1.95,,G
+Creature — Rhino,R,{3}{G}{G},5,3,5,,0.16,,G
+Creature — Spirit Rogue,R,{1}{U},2,2,1,,0.17,,U
+Creature — Horror,C,{5}{B}{B},7,8,6,,0.02,,B
+Enchantment,R,{1}{W}{W},3,,,,0.2,,W
+Creature — Treefolk Druid,C,{3}{G}{G},5,4,4,,0.02,,G
+Creature — Goblin Shaman,C,{R},1,1,1,,0.04,,R
+Instant,C,{3}{R},4,,,,0.04,,R
+Creature — Demon,U,{4}{B}{B},6,5,5,,0.04,,B
+Instant,C,{B}{B},2,,,,0.03,,B
+Enchantment,U,{1}{W},2,,,,0.12,,W
+Sorcery,M,{1}{B}{B},3,,,,17.35,,B
+Creature — Devil,U,{4}{R},5,5,5,,0.03,,R
+Creature — Human Wizard,U,{1}{R},2,2,2,,0.02,,R
+Creature — Dragon,U,{5}{R}{R},7,6,6,,0.03,,R
+Instant,R,{1}{G},2,,,,14.53,,G
+Creature — Human Wizard,U,{2}{U}{U},4,3,3,,0.12,,U
+Creature — Devil,C,{1}{R},2,2,1,,0.04,,R
+Creature — Snake,R,{2}{B},3,1,4,,0.52,,B
+Sorcery,C,{3}{G},4,,,,0.02,,G
+Artifact,R,{2}{W},3,,,,0.11,,W
+Creature — Elemental Dog,C,{1}{R},2,1,2,,0.07,,R
+Creature — Vampire Noble,U,{1}{W}{B},3,1,4,,0.66,,WB
+Enchantment — Aura,C,{1}{B},2,,,,0.02,,B
+Instant,U,{2}{G},3,,,,0.22,,G
+Basic Land — Island,C,,0,,,,0.05,,
+Creature — Human Monk,U,{1}{U},2,1,2,,0.05,,U
+Legendary Creature — Human Druid,R,{1}{G},2,1,2,,0.2,,G
+Land,C,,0,,,,0.07,,BG
+Legendary Creature — Human Warlock,R,{2}{B}{B},4,3,2,,0.15,,B
+Creature — Human Soldier,C,{1}{U},2,2,1,,0.02,,U
+Creature — Human Monk,U,{2}{R}{R},4,4,3,,0.28,,R
+Creature — Human Shaman,U,{3}{R},4,*,4,,0.03,,R
+Creature — Human Pirate,U,{1}{B},2,1,2,,0.14,,B
+Creature — Elemental Druid,U,{2}{R}{G},4,4,3,,0.13,,GR
+Sorcery,C,{2}{W},3,,,,0.01,,W
+Creature — Merfolk Rogue,C,{2}{U},3,1,2,,0.04,,U
+Instant,C,{G},1,,,,0.04,,G
+Enchantment — Aura,U,{2}{W},3,,,,0.22,,W
+Legendary Planeswalker — Liliana,M,{4}{B}{B},6,,,4,N/A,,B
+Legendary Planeswalker — Liliana,M,{2}{B}{B},4,,,4,2.16,,B
+Creature — Human Warlock,U,{2}{B},3,2,3,,0.04,,B
+Sorcery,R,{3}{B}{B},5,,,,0.25,,B
+Creature — Human Wizard,U,{2}{B},3,3,2,,0.35,,B
+Creature — Zombie Knight,R,{2}{B},3,3,1,,0.23,,B
+Creature — Zombie,C,{B},1,1,2,,0.03,,B
+Creature — Elf Druid,C,{2}{G},3,2,2,,0.11,,G
+Instant,C,{1}{U},2,,,,0.11,,U
+Creature — Snake,U,{1}{G}{U},3,2,2,,0.07,,GU
+Creature — Human Soldier,C,{2}{W},3,3,2,,0.04,,W
+Artifact — Equipment,U,{1}{B},2,,,,0.03,,B
+Legendary Creature — Human Cleric,M,{3}{W},4,2,4,,11.78,,W
+Creature — Human Rogue,C,{1}{B},2,2,1,,0.03,,B
+Creature — Phyrexian Wurm,M,{3}{B}{B}{B},6,6,5,,6.06,,B
+Artifact,R,{2},2,,,,0.51,,
+Artifact,U,{5},5,,,,0.05,,
+Sorcery,C,{2}{B},3,,,,0.02,,B
+Instant,U,{U},1,,,,1.7,,U
+Creature — Siren,C,{2}{U},3,2,2,,0.02,,U
+Basic Land — Mountain,C,,0,,,,0.06,,
+Creature — Fish,C,{2}{U},3,3,1,,0.07,,U
+Sorcery,R,{1}{B}{B},3,,,,2.69,,B
+Legendary Creature — Human Cleric,R,{W}{U},2,2,1,,0.26,,WU
+Enchantment,R,{1}{W}{W},3,,,,0.33,,W
+Creature — Human Wizard,U,{1}{U}{B},3,0,3,,0.06,,UB
+Creature — Ogre Warrior,C,{2}{R},3,4,2,,0.01,,R
+Instant,C,{U},1,,,,0.05,,U
+Creature — Dinosaur,C,{3}{G},4,2,2,,0.02,,G
+Creature — Dog,R,{1}{W},2,2,2,,0.24,,W
+Artifact Creature — Myr,U,{3},3,2,2,,0.3,,
+Sorcery,R,{4}{B}{B}{B},7,,,,1.84,,B
+Sorcery,U,{1}{B}{B},3,,,,0.03,,B
+Creature — Devil,C,{4}{R},5,3,3,,0.03,,R
+Basic Land — Plains,C,,0,,,,0.05,,
+Creature — Plant Wall,C,{G},1,0,3,,0.02,,G
+Creature — Wurm,U,{3}{G},4,4,4,,0.26,,G
+Creature — Cat,C,{2}{G},3,2,1,,0.06,,G
+Sorcery,R,{X}{G},1,,,,0.21,,G
+Artifact Creature — Golem,C,{2},2,2,1,,0.03,,
+Creature — Whale,R,{5}{U}{U},7,8,8,,0.09,,U
+Creature — Dryad,U,{1}{G},2,1,1,,0.05,,G
+Legendary Creature — Elf Warrior,R,{1}{R}{G},3,3,3,,0.75,,GR
+Land,C,,0,,,,0.17,,
+Instant,U,{3}{U},4,,,,0.04,,U
+Creature — Dog,C,{3}{W}{W},5,3,4,,0.06,,W
+Instant,C,{G},1,,,,0.05,,G
+Sorcery,C,{5}{U},6,,,,0.02,,U
+Instant,C,{1}{G},2,,,,0.09,,G
+Instant,C,{1}{W},2,,,,0.06,,W
+Instant,U,{2}{U}{U},4,,,,0.21,,U
+Enchantment,U,{1}{U},2,,,,0.05,,U
+Legendary Creature — Dog Cat,M,{1}{R}{G}{W},4,4,4,,14.28,,WGR
+Sorcery,C,{4}{B},5,,,,0.01,,B
+Creature — Spirit,C,{3}{U}{U},5,3,2,,0.02,,U
+Instant,C,{U},1,,,,0.01,,U
+Enchantment — Aura,C,{2}{U},3,,,,0.03,,U
+Land,C,,0,,,,0.06,,GR
+Instant,C,{G},1,,,,0.05,,G
+Enchantment,R,{W}{W},2,,,,0.08,,W
+Creature — Cat,C,{3}{G},4,3,3,,0.02,,G
+Legendary Enchantment — Shrine,R,{W}{U}{B}{R}{G},5,,,,0.79,,WUBGR
+Legendary Enchantment — Shrine,U,{3}{U},4,,,,0.33,,U
+Legendary Enchantment — Shrine,U,{2}{G},3,,,,0.33,,G
+Legendary Enchantment — Shrine,U,{2}{R},3,,,,0.28,,R
+Legendary Enchantment — Shrine,U,{1}{B},2,,,,1.03,,B
+Legendary Enchantment — Shrine,U,{W},1,,,,0.4,,W
+Sorcery,C,{3}{B},4,,,,0.1,,B
+Creature — Ooze,R,{1}{G},2,2,2,,0.25,,G
+Instant,C,{1}{R},2,,,,0.03,,R
+Land,C,,0,,,,0.11,,WB
+Creature — Human Warrior,U,{1}{W},2,3,1,,0.16,,W
+Sorcery,C,{4}{W},5,,,,0.01,,W
+Sorcery,R,{1}{U},2,,,,0.72,,U
+Creature — Dog,U,{W},1,1,1,,0.2,,W
+Enchantment — Aura,C,{1}{G},2,,,,0.04,,G
+Creature — Spirit,R,{1}{U},2,2,2,,0.16,,U
+Creature — Merfolk Wizard,U,{3}{U}{U},5,3,3,,0.1,,U
+Instant,C,{R},1,,,,0.04,,R
+Artifact — Equipment,C,{1},1,,,,0.02,,
+Creature — Human Soldier,U,{2}{W},3,1,1,,0.02,,W
+Creature — Human Warrior,U,{3}{W},4,3,3,,0.11,,W
+Artifact,C,{1},1,,,,0.07,,
+Creature — Zombie Vampire,U,{2}{B},3,3,1,,0.15,,B
+Creature — Skeleton Archer,C,{3}{B},4,3,3,,0.02,,B
+Artifact Creature — Thopter,C,{3},3,1,1,,0.06,,
+Creature — Elf Archer,U,{G},1,1,2,,0.04,,G
+Creature — Spider,C,{1}{G},2,1,3,,0.01,,G
+Artifact Creature — Golem,R,{4},4,2,2,,0.82,,
+Instant,U,{2}{R},3,,,,0.06,,R
+Artifact Creature — Masticore,R,{3},3,3,4,,0.11,,
+Creature — Human Cleric,R,{W},1,1,1,,0.66,,W
+Creature — Weird,C,{2}{R},3,2,2,,0.04,,R
+Creature — Shark,C,{5}{U}{U},7,5,7,,0.03,,U
+Creature — Spirit,C,{1}{B},2,2,1,,0.17,,B
+Creature — Spider,R,{2}{G},3,1,4,,0.21,,G
+Creature — Dwarf Soldier,C,{W},1,1,3,,0.01,,W
+Creature — Ogre Shaman,C,{2}{R},3,3,2,,0.17,,R
+Creature — Elemental,R,{3}{U}{U},5,3,3,,0.45,,U
+Legendary Creature — Human Shaman,R,{2}{R},3,2,3,,0.17,,R
+Instant,R,{4}{U}{U},6,,,,3.03,,U
+Instant,C,{1}{R},2,,,,0.01,,R
+Basic Land — Swamp,C,,0,,,,0.06,,
+Instant,C,{1}{W},2,,,,0.01,,W
+Land,C,,0,,,,0.07,,UR
+Creature — Human Rogue,U,{1}{B},2,2,2,,0.05,,B
+Legendary Planeswalker — Teferi,M,{2}{U}{U},4,,,3,6,,U
+Legendary Planeswalker — Teferi,M,{4}{U}{U},6,,,4,N/A,,U
+Legendary Enchantment,R,{2}{U}{U},4,,,,3.92,,U
+Creature — Human Wizard,C,{2}{U},3,2,3,,0.01,,U
+Enchantment,U,{2}{U},3,,,,0.21,,U
+Creature — Merfolk Wizard,R,{3}{U}{U},5,3,3,,0.15,,U
+Creature — Human Knight,U,{1}{W},2,1,2,,0.02,,W
+Land,R,,0,,,,0.25,,UR
+Land,R,,0,,,,0.28,,BG
+Land,R,,0,,,,0.27,,GU
+Land,R,,0,,,,0.3,,WB
+Land,R,,0,,,,0.28,,RW
+Creature — Dragon,M,{3}{R}{R},5,5,4,,33.64,,R
+Creature — Human Rogue,R,{B},1,1,1,,0.19,,B
+Land,C,,0,,,,0.07,,GU
+Creature — Dinosaur,U,{1}{G}{G},3,3,4,,0.07,,G
+Instant,C,{1}{R},2,,,,0.07,,R
+Creature — Drake,U,{3}{U},4,2,3,,0.03,,U
+Instant,C,{1}{G},2,,,,0.02,,G
+Creature — Kraken,U,{4}{U}{U},6,4,6,,0.08,,U
+Creature — Spirit,C,{3}{U},4,3,3,,0.02,,U
+Artifact,U,{0},0,,,,0.35,,
+Sorcery,C,{1}{G},2,,,,0.04,,G
+Sorcery,U,{3}{R},4,,,,0.08,,R
+Land,C,,0,,,,0.06,,WU
+Sorcery,R,{3}{R},4,,,,0.52,,R
+Creature — Boar,C,{2}{G},3,2,2,,0.02,,G
+Sorcery,C,{3}{R}{R},5,,,,0.01,,R
+Creature — Ogre Warrior,C,{3}{R},4,4,3,,0.02,,R
+Creature — Elf Assassin,U,{3}{B}{G},5,5,4,,0.07,,BG
+Legendary Planeswalker — Ugin,M,{8},8,,,7,18.71,,
+Instant,U,{1}{R},2,,,,0.2,,R
+Instant,U,{1}{U},2,,,,0.14,,U
+Creature — Unicorn,C,{4}{W},5,3,3,,0.02,,W
+Instant,C,{B},1,,,,0.19,,B
+Legendary Creature — Vampire Cleric,R,{2}{B},3,1,3,,3.63,,B
+Creature — Merfolk Wizard,C,{1}{U},2,1,3,,0.02,,U
+Instant,U,{X}{R}{R},2,,,,0.05,,R
+Sorcery,R,{10}{R}{R},12,,,,0.09,,R
+Creature — Pegasus,U,{2}{W},3,2,1,,0.16,,W
+Creature — Whale,U,{5}{U}{U},7,7,7,,0.24,,U
+Creature — Zombie,C,{1}{B},2,2,2,,0.02,,B
+Creature — Wall,C,{U},1,0,4,,0.06,,U
+Creature — Wall,C,{2}{W},3,0,3,,0.02,,W
+Creature — Treefolk,U,{4}{G}{G},6,5,7,,0.04,,G
+Creature — Bird Wizard,U,{W}{U},2,2,2,,0.21,,WU
+Creature — Centaur Scout,C,{2}{G},3,4,2,,0.14,,G
+Creature — Hydra,U,{X}{G},1,0,0,,0.07,,G
+Land,C,,0,,,,0.08,,RW
+Creature — Crab,C,{3}{U},4,2,5,,0.04,,U
+Artifact,U,{B},1,,,,0.05,,B
+Creature — Horror,C,{3}{B}{G}{U},6,3,4,,0.09,Sultai,BGU
+Enchantment,R,{W}{B}{G},3,,,,0.17,Abzan,WBG
+Artifact,C,{3},3,,,,0.08,Abzan,WBG
+Creature — Human Cleric,U,{3}{W},4,3,2,,0.31,Abzan,W
+Instant,U,{W}{B}{G},3,,,,0.12,Abzan,WBG
+Creature — Human Soldier,U,{2}{W},3,2,3,,0.14,Abzan,W
+Creature — Human Warrior,C,{3}{W}{B}{G},6,4,4,,0.03,Abzan,WBG
+Sorcery,C,{2}{R},3,,,,0.02,,R
+Creature — Dog Soldier,C,{1}{W},2,2,1,,0.08,Abzan,W
+Creature — Dog Scout,C,{5}{R},6,3,3,,0.02,Temur,R
+Creature — Kirin,C,{3}{W},4,2,3,,0.04,,W
+Creature — Bear,C,{2}{G},3,4,2,,0.14,,G
+Artifact,R,{1},1,,,,5,,
+Legendary Creature — Human Soldier,M,{W}{B}{G},3,4,4,,1.08,Abzan,WBG
+Creature — Goblin Berserker,R,{2}{R}{W}{B},5,2,2,,0.25,Mardu,RWB
+Sorcery,U,{2}{R},3,,,,0.09,,R
+Creature — Wall,C,{1}{G},2,0,5,,0.06,Abzan,BG
+Creature — Human Soldier,U,{2}{W}{B}{G},5,4,4,,0.04,Abzan,WBG
+Sorcery,C,{3}{R}{R},5,,,,0.03,Mardu,R
+Creature — Phoenix,M,{2}{R}{R},4,4,1,,0.37,,R
+Creature — Elephant Warrior,R,{2}{G}{U}{R},5,6,4,,0.1,Temur,UGR
+Instant,C,{2}{G},3,,,,0.07,,G
+Sorcery,C,{2}{R},3,,,,0.08,Temur,R
+Creature — Human Warrior,U,{2}{G}{U}{R},5,2,2,,0.09,Temur,UGR
+Instant,U,{5}{G},6,,,,0.17,Sultai,G
+Creature — Orc Warrior,U,{3}{B},4,4,5,,0.08,Mardu,B
+Sorcery,C,{3}{B},4,,,,0.02,,B
+Instant,U,{4}{U},5,,,,0.03,,U
+Land,C,,0,,,,0.12,,BR
+Creature — Efreet Monk,C,{2}{R},3,3,1,,0.03,Jeskai,R
+Creature — Efreet Shaman,C,{2}{R},3,0,5,,0.02,Jeskai,UR
+Creature — Human Warrior,R,{B},1,2,1,,0.13,Mardu,B
+Land,R,,0,,,,31.24,,
+Land,C,,0,,,,0.1,,GW
+Enchantment,U,{1}{W},2,,,,1.58,,W
+Artifact,U,{X},0,,,,0.1,,
+Instant,C,{3}{R},4,,,,0.02,,R
+Instant,U,{4}{R},5,,,,0.06,,R
+Creature — Demon,R,{1}{R}{W}{B},4,5,4,,0.14,Mardu,RWB
+Instant,C,{1}{U}{U},3,,,,0.05,,U
+Creature — Human Rogue,C,{4}{R},5,5,2,,0.02,Mardu,R
+Creature — Human Warrior,U,{W}{B},2,3,2,,0.08,Mardu,WB
+Creature — Human Warrior,U,{W}{B},2,2,3,,0.06,Abzan,WB
+Creature — Shapeshifter,M,{2}{U}{U},4,0,0,,3.23,,U
+Instant,R,{R}{W}{B},3,,,,0.25,Mardu,RWB
+Artifact,U,{2},2,,,,0.12,,
+Sorcery,R,{X}{R},1,,,,0.17,Temur,R
+Instant,C,{2}{U},3,,,,0.04,,U
+Creature — Wall,U,{4}{W},5,0,7,,0.07,Abzan,W
+Sorcery,U,{9}{B},10,,,,0.08,Sultai,B
+Sorcery,U,{3}{B}{G},5,,,,0.09,Sultai,BG
+Enchantment — Aura,C,{1}{B},2,,,,0.03,,B
+Instant,C,{W},1,,,,0.06,,W
+Instant,R,{R}{W},2,,,,3.06,,RW
+Sorcery,U,{B},1,,,,0.11,,B
+Instant,R,{6}{U}{U},8,,,,0.45,Sultai,U
+Instant,C,{1}{U},2,,,,0.07,,U
+Land,C,,0,,,,0.09,,UB
+Creature — Spirit Warrior,C,{B},1,0,4,,0.06,Abzan,B
+Enchantment — Aura,U,{2}{R},3,,,,0.11,Temur,R
+Legendary Artifact — Equipment,R,{4},4,,,,0.39,,
+Creature — Human Wizard,U,{1}{U},2,0,6,,0.06,Jeskai,U
+Instant,C,{3}{G},4,,,,0.03,,G
+Creature — Human Monk,R,{3}{R}{R},5,3,3,,0.17,Jeskai,R
+Sorcery,R,{4}{W}{B}{G},7,,,,0.24,Abzan,WBG
+Sorcery,C,{3}{B},4,,,,0.04,,B
+Creature — Efreet Monk,C,{3}{U}{R}{W},6,4,3,,0.03,Jeskai,URW
+Creature — Elemental,C,{U},1,0,3,,0.06,Temur,GU
+Instant,M,{X}{X}{B}{B}{B}{B},4,,,,0.35,Sultai,B
+Sorcery,R,{3}{W}{W},5,,,,0.31,,W
+Instant,C,{W},1,,,,0.05,,W
+Instant,C,{1}{W},2,,,,0.03,,W
+Instant,C,{1}{G},2,,,,0.1,Temur,G
+Creature — Human Berserker,C,{W},1,1,1,,0.01,Mardu,RW
+Land,R,,0,,,,29.61,,
+Instant,R,{3}{U}{R}{W},6,,,,0.14,Jeskai,URW
+Instant,C,{1}{U},2,,,,0.04,Temur,U
+Basic Land — Forest,C,,0,,,,0.13,,
+Land,U,,0,,,,0.36,Temur,UGR
+Artifact — Equipment,R,{1},1,,,,0.26,,
+Creature — Elemental,C,{5}{U},6,4,5,,0.01,Temur,U
+Enchantment,U,{2}{R},3,,,,0.22,,R
+Creature — Human Wizard,R,{2}{B},3,3,2,,0.67,Sultai,B
+Creature — Bat,U,{1}{B},2,1,2,,0.14,,B
+Enchantment,R,{G},1,,,,3.01,Abzan,G
+Artifact — Equipment,U,{2},2,,,,0.05,,
+Creature — Human Warrior,U,{1}{G},2,2,2,,0.1,Temur,G
+Creature — Human Soldier,R,{W},1,1,2,,0.15,Abzan,W
+Creature — Bird Soldier,R,{3}{W},4,3,4,,0.14,Abzan,W
+Creature — Elk,C,{1}{G},2,2,1,,0.03,,G
+Creature — Insect,U,{2}{R}{W},4,3,3,,0.04,Jeskai,RW
+Creature — Snake Hydra,M,{X}{G}{G},2,0,0,,0.9,Sultai,G
+Creature — Ape,C,{5}{G},6,4,4,,0.09,Sultai,G
+Creature — Human Berserker,U,{1}{R},2,2,2,,0.04,Mardu,R
+Sorcery,U,{1}{R}{R},3,,,,0.23,,R
+Sorcery,R,{2}{R},3,,,,0.23,Mardu,R
+Creature — Bird Shaman,U,{G}{U},2,2,2,,0.09,Temur,GU
+Instant,R,{X}{U},1,,,,0.41,Temur,U
+Sorcery,U,{3}{G}{G},5,,,,0.07,,G
+Basic Land — Island,C,,0,,,,0.14,,
+Creature — Elephant,R,{2}{W}{B}{G},5,5,7,,0.16,Abzan,WBG
+Creature — Goblin Rogue,R,{1}{R},2,2,1,,0.16,Mardu,R
+Enchantment,R,{U}{R}{W},3,,,,0.26,Jeskai,URW
+Artifact,C,{3},3,,,,0.06,Jeskai,URW
+Instant,U,{U}{R}{W},3,,,,0.13,Jeskai,URW
+Creature — Human Monk,U,{1}{U},2,1,2,,0.08,Jeskai,U
+Creature — Human Monk,C,{1}{W},2,1,3,,0.05,Jeskai,W
+Creature — Bird Scout,C,{2}{U},3,2,1,,0.05,Jeskai,U
+Land,C,,0,,,,0.08,,BG
+Creature — Vampire,U,{2}{B},3,2,2,,0.1,Sultai,B
+Creature — Zombie Crocodile,C,{4}{B},5,4,4,,0.06,Sultai,BG
+Creature — Zombie Wizard,R,{3}{B}{G}{U},6,4,4,,0.13,Sultai,BGU
+Creature — Naga Wizard,R,{3}{U},4,3,3,,0.16,Sultai,U
+Instant,C,{2}{W},3,,,,0.07,,W
+Sorcery,U,{B}{G},2,,,,0.1,,BG
+Creature — Human Warrior,C,{G},1,1,1,,0.04,Abzan,G
+Creature — Orc Warrior,C,{3}{B}{B},5,5,3,,0.03,Abzan,B
+Creature — Human Monk,C,{1}{R},2,2,1,,0.03,Jeskai,RW
+Artifact,C,{1},1,,,,0.06,,
+Creature — Dog Archer,C,{3}{G},4,3,3,,0.12,Abzan,G
+Creature — Human Monk,R,{U}{R}{W},3,3,3,,0.45,Jeskai,URW
+Enchantment,R,{R}{W}{B},3,,,,0.38,Mardu,RWB
+Artifact,C,{3},3,,,,0.13,Mardu,RWB
+Creature — Ogre Warrior,U,{2}{R},3,4,4,,0.03,Mardu,R
+Instant,U,{R}{W}{B},3,,,,0.11,Mardu,RWB
+Creature — Human Warrior,C,{W},1,1,1,,0.07,Mardu,WB
+Creature — Human Archer,U,{3}{R},4,2,3,,0.03,Mardu,R
+Creature — Human Warrior,C,{2}{W},3,2,3,,0.05,Mardu,W
+Creature — Orc Warrior,U,{2}{R}{W}{B},5,5,4,,0.05,Mardu,RWB
+Creature — Human Warrior,C,{1}{B},2,2,1,,0.03,Mardu,B
+Creature — Orc Shaman,C,{3}{R},4,3,3,,0.03,Mardu,RWB
+Creature — Human Monk,R,{1}{W},2,2,2,,0.07,Jeskai,W
+Sorcery,U,{3}{U}{R},5,,,,0.05,,UR
+Creature — Turtle,R,{3}{G}{G},5,5,9,,0.13,Sultai,G
+Creature — Orc Assassin,U,{3}{B},4,2,3,,0.11,Abzan,B
+Instant,R,{X}{U}{R},2,,,,0.23,,UR
+Creature — Djinn Wizard,U,{3}{U},4,3,1,,0.13,Jeskai,U
+Enchantment — Aura,C,{B},1,,,,0.03,,B
+Creature — Bird,C,{2}{U},3,0,5,,0.1,,U
+Creature — Human Monk,U,{R},1,1,2,,0.45,Jeskai,R
+Basic Land — Mountain,C,,0,,,,0.2,,
+Instant,U,{4}{B},5,,,,0.24,Sultai,B
+Land,U,,0,,,,0.36,Jeskai,URW
+Creature — Human Monk,C,{4}{U},5,3,2,,0.07,Jeskai,U
+Legendary Creature — Human Monk,M,{3}{U}{R}{W},6,3,2,,1.32,Jeskai,URW
+Instant,C,{1}{G},2,,,,0.05,,G
+Creature — Demon,R,{7}{B}{B},9,4,5,,0.12,Sultai,B
+Land,U,,0,,,,0.85,Mardu,RWB
+Land,U,,0,,,,0.32,Sultai,BGU
+Creature — Leviathan,M,{5}{U}{U},7,6,7,,0.29,Jeskai,U
+Creature — Elemental,U,{3}{G}{G},5,5,5,,0.06,Temur,G
+Basic Land — Plains,C,,0,,,,0.08,,
+Land,R,,0,,,,32.31,,
+Creature — Goblin Warrior,C,{3}{R}{W}{B},6,2,2,,0.06,Mardu,RWB
+Enchantment,U,{2}{U},3,,,,0.09,Jeskai,U
+Enchantment,U,{3}{B},4,,,,0.1,,B
+Creature — Cat Demon,R,{B}{G},2,2,2,,0.11,Sultai,BG
+Creature — Cat Demon,R,{2}{B}{G}{U},5,4,4,,0.13,Sultai,BGU
+Sorcery,C,{2}{B},3,,,,0.07,,B
+Creature — Human Shaman,R,{1}{G},2,2,1,,0.62,Temur,UGR
+Enchantment,R,{B},1,,,,0.35,Abzan,B
+Instant,U,{R}{W},2,,,,0.06,,RW
+Sorcery,C,{4}{B}{B},6,,,,0.06,,B
+Creature — Djinn Monk,U,{5}{U},6,4,5,,0.04,Jeskai,U
+Sorcery,U,{2}{G},3,,,,0.18,Temur,G
+Creature — Zombie Elephant,C,{4}{B},5,2,8,,0.03,,B
+Land,C,,0,,,,0.1,,GR
+Sorcery,C,{3}{W},4,,,,0.06,,W
+Creature — Human Assassin,U,{B},1,1,1,,0.11,Sultai,B
+Creature — Djinn Wizard,R,{2}{U}{R}{W},5,3,4,,0.14,Jeskai,URW
+Creature — Bird Warrior,C,{4}{W},5,1,5,,0.04,Jeskai,W
+Creature — Naga Archer,C,{4}{G},5,2,5,,0.03,Sultai,G
+Creature — Beast,R,{4}{G}{U},6,6,6,,0.16,,GU
+Creature — Human Scout,C,{3}{W},4,2,5,,0.03,Abzan,W
+Land,U,,0,,,,0.64,Abzan,WBG
+Legendary Planeswalker — Sarkhan,M,{3}{R}{R},5,,,4,0.9,,R
+Creature — Ogre Warrior,R,{G}{U}{R},3,4,4,,0.15,Temur,UGR
+Sorcery,C,{1}{G},2,,,,0.11,Temur,G
+Creature — Elemental,C,{3}{U},4,2,2,,0.02,Temur,UR
+Creature — Elemental,U,{2}{U}{U},4,2,5,,0.05,Temur,U
+Land,C,,0,,,,0.11,,WB
+Sorcery,C,{2}{G},3,,,,0.08,Sultai,G
+Enchantment,U,{G}{U},2,,,,0.07,,GU
+Sorcery,M,{4}{G}{G},6,,,,0.53,Temur,G
+Sorcery,U,{3}{G},4,,,,0.06,,G
+Creature — Human Warrior,U,{1}{W},2,2,2,,0.14,Jeskai,W
+Sorcery,U,{5}{U},6,,,,0.08,Sultai,U
+Creature — Zombie,C,{7}{B},8,3,5,,0.08,Sultai,B
+Instant,C,{1}{R},2,,,,0.02,,R
+Legendary Creature — Naga Shaman,M,{1}{B}{G}{U},4,3,3,,0.44,Sultai,BGU
+Creature — Zombie Ape,C,{3}{B},4,1,4,,0.04,Sultai,B
+Creature — Rhino,R,{1}{W}{B}{G},4,4,5,,0.47,Abzan,WBG
+Enchantment — Aura,C,{3}{W},4,,,,0.05,,W
+Enchantment — Aura,C,{1}{U},2,,,,0.05,,U
+Instant,C,{3}{W},4,,,,0.04,,W
+Creature — Human Shaman,C,{1}{G},2,2,2,,0.05,Sultai,GU
+Creature — Human Warrior,C,{3}{G}{U}{R},6,5,5,,0.04,Temur,UGR
+Legendary Planeswalker — Sorin,M,{2}{W}{B},4,,,4,2.11,,WB
+Instant,U,{U},1,,,,1.28,Temur,U
+Enchantment,R,{B}{G}{U},3,,,,0.21,Sultai,BGU
+Artifact,C,{3},3,,,,0.06,Sultai,BGU
+Instant,U,{B}{G}{U},3,,,,0.11,Sultai,BGU
+Creature — Naga Shaman,U,{3}{G},4,3,4,,0.05,Sultai,G
+Creature — Bird Warrior,C,{5}{B},6,3,3,,0.06,Sultai,B
+Creature — Naga Shaman,U,{2}{B}{G}{U},5,2,5,,0.05,Sultai,BGU
+Creature — Yeti,C,{2}{R}{R},4,4,3,,0.01,,R
+Legendary Creature — Human Warrior,M,{2}{G}{U}{R},5,6,6,,3.25,Temur,UGR
+Enchantment,U,{1}{W},2,,,,0.05,,W
+Basic Land — Swamp,C,,0,,,,0.12,,
+Creature — Insect,U,{4}{B},5,0,0,,0.11,,B
+Instant,C,{3}{R},4,,,,0.03,,R
+Land,C,,0,,,,0.07,,UR
+Sorcery,C,{1}{U},2,,,,0.12,Sultai,U
+Instant,U,{4}{W},5,,,,0.03,,W
+Enchantment,R,{G}{U}{R},3,,,,4.52,Temur,UGR
+Artifact,C,{3},3,,,,0.1,Temur,UGR
+Creature — Horse,U,{1}{G},2,3,1,,0.08,Temur,G
+Instant,U,{G}{U}{R},3,,,,0.08,Temur,UGR
+Land,C,,0,,,,0.09,,GU
+Creature — Elemental,R,{4}{U}{U},6,5,6,,0.14,Jeskai,U
+Instant,C,{4}{B},5,,,,0.04,,B
+Creature — Human Warrior,U,{3}{W},4,3,2,,0.02,Mardu,W
+Land,U,,0,,,,0.35,,
+Sorcery,C,{1}{R},2,,,,0.1,,R
+Enchantment,R,{1}{G},2,,,,0.11,,G
+Land,C,,0,,,,0.08,,WU
+Instant,R,{G}{U}{R},3,,,,0.2,Temur,UGR
+Sorcery,C,{7}{U},8,,,,0.19,Sultai,U
+Instant,C,{2}{R},3,,,,0.02,,R
+Creature — Beast,C,{4}{G}{G},6,6,5,,0.03,,G
+Creature — Human Warrior,U,{2}{G},3,2,3,,0.15,Abzan,G
+Legendary Artifact,M,{5},5,,,,2.8,,
+Creature — Orc Warrior,C,{3}{B},4,3,3,,0.03,Abzan,WB
+Instant,R,{2}{W}{B},4,,,,0.26,,WB
+Creature — Human Berserker,C,{1}{R},2,2,2,,0.04,Mardu,R
+Creature — Lammasu,U,{6}{W},7,5,4,,0.03,,W
+Sorcery,R,{X}{B}{G}{U},3,,,,0.29,Sultai,BGU
+Creature — Beast,C,{5}{W},6,3,6,,0.03,Abzan,W
+Creature — Djinn Wizard,U,{2}{U}{R}{W},5,3,3,,0.07,Jeskai,URW
+Creature — Human Warrior,U,{1}{R},2,2,1,,0.08,Mardu,R
+Creature — Bird Soldier,U,{2}{W},3,2,1,,0.05,Abzan,W
+Instant,U,{4}{U}{U},6,,,,0.04,,U
+Instant,C,{3}{U},4,,,,0.02,,U
+Creature — Elk,C,{1}{U},2,2,1,,0.02,,U
+Creature — Djinn Monk,C,{4}{U},5,4,2,,0.04,Jeskai,U
+Land,C,,0,,,,0.08,,RW
+Instant,U,{X}{G},1,,,,0.08,,G
+Land,R,,0,,,,18.69,,
+Creature — Bird,M,{3}{W}{W},5,3,4,,0.33,Mardu,W
+Instant,U,{1}{U}{R},3,,,,0.01,,UR
+Artifact Creature — Golem,U,{6},6,4,4,,0.02,,
+Land,R,,0,,,,29.72,,
+Creature — Elephant Warrior,C,{5}{G}{G},7,6,7,,0.05,Temur,G
+Legendary Creature — Orc Warrior,M,{2}{R}{W}{B},5,7,2,,0.42,Mardu,RWB
+Creature — Ooze,U,{3}{G}{G},5,2,2,,0.21,,G
+Creature — Human Cleric,C,{B},1,0,1,,0.12,,B
+Sorcery,U,{2}{R},3,,,,0.09,,R
+Creature — Elemental,U,{3}{U}{U},5,4,4,,0.03,,U
+Legendary Planeswalker — Ajani,M,{2}{W}{W},4,,,4,7.18,,W
+Creature — Siren,U,{1}{U},2,1,1,,0.12,,U
+Artifact,U,{2},2,,,,0.11,,
+Instant,C,{2}{W}{W},4,,,,0.16,,W
+Creature — Insect,R,{3}{G}{G},5,5,5,,1.08,,G
+Enchantment — Aura,U,{3}{W},4,,,,0.2,,W
+Sorcery,C,{2}{B},3,,,,0.09,,B
+Creature — Human Druid,U,{2}{G},3,1,1,,0.03,,G
+Creature — Elemental,R,{R}{R}{R},3,6,1,,1.32,,R
+Creature — Angel,M,{3}{W}{W},5,5,5,,3.13,,W
+Creature — Human Berserker,C,{4}{R},5,4,4,,0.03,,R
+Creature — Bird,R,{G},1,0,1,,12.72,,G
+Creature — Human Knight,U,{B}{B},2,2,2,,0.2,,B
+Creature — Human Wizard,C,{1}{W},2,1,2,,0.06,,W
+Creature — Wraith,U,{3}{B},4,3,3,,0.35,,B
+Creature — Dragon,M,{6}{R}{R},8,5,5,,0.56,,R
+Creature — Human Scout Ranger,C,{2}{G},3,2,2,,0.1,,G
+Sorcery,C,{4}{G},5,,,,0.08,,G
+Creature — Elemental,C,{4}{G},5,0,3,,0.06,,G
+Sorcery,C,{R},1,,,,1.54,,R
+Sorcery,C,{R},1,,,,0.11,,R
+Instant,C,{1}{U}{U},3,,,,0.06,,U
+Creature — Minotaur Warrior,C,{3}{R},4,3,3,,0.1,,R
+Creature — Efreet,R,{4}{R}{R},6,6,4,,0.18,,R
+Creature — Human Soldier,R,{4}{W}{W},6,3,3,,0.54,,W
+Instant,U,{1}{W},2,,,,0.07,,W
+Creature — Zombie,R,{1}{B}{B},3,2,2,,0.72,,B
+Creature — Centaur Warrior,C,{2}{G},3,3,3,,0.08,,G
+Legendary Planeswalker — Chandra,M,{3}{R}{R},5,,,6,0.9,,R
+Creature — Vampire,C,{1}{B},2,2,1,,0.05,,B
+Creature — Shapeshifter,R,{3}{U},4,0,0,,0.33,,U
+Artifact,R,{5},5,,,,16.21,,
+Sorcery,U,{X}{1}{B},2,,,,0.13,,B
+Enchantment — Aura,C,{1}{U},2,,,,0.11,,U
+Creature — Merfolk,C,{1}{U},2,2,1,,0.04,,U
+Creature — Wurm,C,{4}{G}{G},6,6,4,,0.07,,G
+Creature — Troll,U,{2}{G}{G},4,4,3,,0.03,,G
+Artifact Creature — Golem,M,{11},11,11,11,,11.57,,
+Creature — Spider,C,{1}{G},2,1,2,,0.15,,G
+Sorcery,U,{B},1,,,,0.08,,B
+Artifact,U,{2},2,,,,0.15,,
+Sorcery,U,{2}{B}{B},4,,,,0.69,,B
+Sorcery,C,{B},1,,,,0.08,,B
+Instant,C,{3}{U},4,,,,0.04,,U
+Sorcery,C,{2}{U},3,,,,0.1,,U
+Instant,C,{3}{W},4,,,,0.08,,W
+Creature — Djinn,R,{3}{U}{U},5,4,4,,0.25,,U
+Instant,C,{1}{B},2,,,,0.2,,B
+Creature — Dragon,U,{2}{R}{R},4,2,3,,0.07,,R
+Artifact,U,{2},2,,,,0.2,,
+Land,R,,0,,,,4.66,,BR
+Creature — Human Wizard Warlock,C,{1}{B}{B},3,2,2,,0.08,,B
+Land,R,,0,,,,7.64,,UB
+Creature — Skeleton,C,{1}{B},2,1,1,,0.09,,B
+Sorcery,C,{B},1,,,,0.18,,B
+Sorcery,R,{X}{R},1,,,,1.17,,R
+Creature — Human Soldier,U,{W},1,2,1,,0.14,,W
+Creature — Elf Druid,R,{1}{G}{G},3,2,2,,1.17,,G
+Creature — Elf Shaman,R,{3}{G},4,1,1,,6.8,,G
+Creature — Elf Shaman,C,{1}{G},2,1,1,,0.11,,G
+Creature — Antelope,C,{3}{G},4,2,3,,0.07,,G
+Creature — Beast,U,{6}{G},7,7,7,,0.09,,G
+Enchantment — Aura,C,{3}{G},4,,,,0.06,,G
+Instant,C,{1}{U},2,,,,0.09,,U
+Sorcery,C,{2}{W},3,,,,0.05,,W
+Sorcery,U,{2}{U},3,,,,6.08,,U
+Creature — Elemental Dog,C,{1}{R}{R},3,2,2,,0.03,,R
+Sorcery,U,{X}{R},1,,,,0.13,,R
+Enchantment — Aura,C,{R},1,,,,0.05,,R
+Instant,U,{1}{U},2,,,,0.04,,U
+Instant,C,{G},1,,,,0.14,,G
+Basic Land — Forest,C,,0,,,,0.17,,
+Land,R,,0,,,,0.21,,
+Legendary Planeswalker — Garruk,M,{2}{G}{G},4,,,3,6.22,,G
+Instant,C,{G},1,,,,0.07,,G
+Creature — Spider,C,{3}{G},4,2,4,,0.04,,G
+Land,R,,0,,,,4.86,,WU
+Instant,C,{1}{W},2,,,,0.05,,W
+Creature — Goblin Warrior,U,{1}{R}{R},3,1,3,,0.12,,R
+Creature — Goblin,R,{1}{R}{R},3,2,2,,2.58,,R
+Creature — Goblin Warrior,C,{1}{R},2,2,1,,0.1,,R
+Artifact — Equipment,U,{2},2,,,,1.94,,
+Creature — Zombie,C,{3}{B},4,2,2,,0.04,,B
+Creature — Elk,R,{1}{G}{G},3,3,3,,0.42,,G
+Creature — Griffin,C,{2}{W},3,1,3,,0.03,,W
+Creature — Angel,R,{2}{W}{W},4,3,4,,0.87,,W
+Instant,U,{W},1,,,,0.14,,W
+Sorcery,R,{3}{B}{B},5,,,,0.25,,B
+Enchantment,R,{5}{U},6,,,,6.56,,U
+Enchantment — Aura,C,{W},1,,,,0.04,,W
+Enchantment,R,{1}{W},2,,,,0.77,,W
+Creature — Turtle,C,{2}{U},3,1,4,,0.05,,U
+Sorcery,U,{6}{G},7,,,,0.17,,G
+Creature — Spirit,U,{2}{B}{B},4,3,3,,0.08,,B
+Artifact,R,{2},2,,,,4.45,,
+Creature — Specter,R,{1}{B}{B},3,2,2,,1.45,,B
+Enchantment — Aura,C,{1}{U},2,,,,0.04,,U
+Instant,U,{1}{R},2,,,,0.06,,R
+Creature — Illusion,C,{1}{U}{U},3,3,4,,0.11,,U
+Enchantment — Aura,R,{3}{W},4,,,,1.5,,W
+Creature — Elemental,U,{4}{R}{R},6,4,4,,0.09,,R
+Basic Land — Island,C,,0,,,,0.1,,
+Legendary Planeswalker — Jace,M,{1}{U}{U},3,,,3,3.96,,U
+Creature — Jackal,C,{R},1,2,2,,0.14,,R
+Instant,C,{U},1,,,,0.12,,U
+Creature — Beast,R,{5}{G}{G},7,9,9,,0.26,,G
+Creature — Bat,C,{2}{B},3,2,1,,0.2,,B
+Instant,C,{R},1,,,,0.03,,R
+Artifact,U,{2},2,,,,0.09,,
+Sorcery,C,{4}{R},5,,,,0.03,,R
+Enchantment,U,{2}{U}{U},4,,,,0.17,,U
+Enchantment — Aura,C,{W},1,,,,0.25,,W
+Instant,C,{R},1,,,,0.73,,R
+Creature — Elemental,C,{3}{R},4,4,1,,0.06,,R
+Creature — Human Knight,R,{3}{W}{W},5,4,4,,0.2,,W
+Legendary Planeswalker — Liliana,M,{3}{B}{B},5,,,5,8.1,,B
+Creature — Elf Druid,C,{G},1,1,1,,0.24,,G
+Creature — Shade,C,{2}{B},3,1,1,,0.03,,B
+Enchantment,R,{4}{G}{G},6,,,,6.77,,G
+Artifact — Equipment,R,{3},3,,,,2.53,,
+Creature — Phoenix,R,{3}{R}{R},5,3,3,,0.22,,R
+Enchantment,R,{3}{R},4,,,,0.63,,R
+Creature — Human Shaman,M,{2}{G}{G},4,3,3,,3.63,,G
+Enchantment,U,{2}{B},3,,,,0.27,,B
+Creature — Merfolk Rogue,C,{1}{U},2,1,1,,0.1,,U
+Creature — Merfolk Noble,R,{1}{U}{U},3,2,2,,0.65,,U
+Creature — Human Druid,R,{1}{W}{W},3,0,2,,1.91,,W
+Instant,R,{3}{G},4,,,,0.25,,G
+Enchantment — Aura,U,{3}{U}{U},5,,,,0.18,,U
+Sorcery,C,{2}{B},3,,,,0.06,,B
+Sorcery,R,{X}{B}{B},2,,,,0.23,,B
+Sorcery,R,{X}{U}{U},2,,,,0.27,,U
+Artifact,R,{5},5,,,,0.45,,
+Creature — Cat,C,{3}{G},4,3,2,,0.12,,G
+Creature — Fungus Snake,U,{G},1,1,1,,0.17,,G
+Basic Land — Mountain,C,,0,,,,0.14,,
+Instant,C,{1}{G},2,,,,0.06,,G
+Sorcery,U,{1}{G},2,,,,0.09,,G
+Instant,C,{1}{U},2,,,,0.14,,U
+Creature — Nightmare Horse,R,{5}{B},6,*,*,,0.25,,B
+Enchantment — Aura,C,{2}{G},3,,,,0.1,,G
+Sorcery,R,{4}{W}{W},6,,,,2.05,,W
+Artifact Creature — Thopter,U,{0},0,0,2,,0.29,,
+Sorcery,U,{2}{G}{G}{G},5,,,,0.3,,G
+Enchantment — Aura,C,{1}{W},2,,,,0.05,,W
+Creature — Human Soldier,C,{2}{W},3,1,4,,0.09,,W
+Sorcery,C,{2}{R},3,,,,0.03,,R
+Creature — Illusion Warrior,U,{1}{U}{U},3,2,2,,0.06,,U
+Artifact,R,{1},1,,,,1.32,,
+Basic Land — Plains,C,,0,,,,0.23,,
+Sorcery,R,{3}{W}{W}{W},6,,,,0.24,,W
+Artifact Creature — Angel,M,{7},7,4,4,,9.24,,
+Sorcery,R,{3}{U},4,,,,1.82,,U
+Sorcery,C,{U},1,,,,2.3,,U
+Creature — Unicorn,U,{3}{G},4,2,2,,0.12,,G
+Creature — Human Wizard,U,{2}{R},3,1,1,,0.07,,R
+Creature — Hydra,M,{X}{G},1,0,0,,5.1,,G
+Sorcery,U,{1}{R},2,,,,0.16,,R
+Creature — Goblin Berserker,C,{R},1,1,1,,0.1,,R
+Sorcery,C,{1}{G},2,,,,0.25,,G
+Creature — Griffin,C,{3}{W},4,2,2,,0.02,,W
+Instant,C,{1}{G},2,,,,0.13,,G
+Creature — Rat,U,{1}{B}{B},3,2,2,,1.66,,B
+Creature — Rhino Soldier,U,{2}{W}{W},4,3,3,,0.16,,W
+Instant,U,{W},1,,,,0.1,,W
+Sorcery,U,{4}{B},5,,,,0.07,,B
+Artifact,U,{4},4,,,,0.03,,
+Land,R,,0,,,,4.71,,GR
+Creature — Human Assassin,R,{1}{B}{B},3,1,1,,1.37,,B
+Creature — Bear,C,{1}{G},2,2,2,,0.12,,G
+Instant,C,{2}{W},3,,,,0.08,,W
+Creature — Bird,C,{1}{U},2,1,1,,0.13,,U
+Enchantment,R,{3}{B}{B},5,,,,2.78,,B
+Instant,C,{2}{R},3,,,,0.09,,R
+Creature — Serpent,C,{4}{U},5,*,*,,0.11,,U
+Creature — Angel,U,{3}{W}{W},5,4,4,,0.11,,W
+Instant,C,{1}{R},2,,,,0.03,,R
+Creature — Dragon,R,{4}{R}{R},6,5,5,,0.15,,R
+Creature — Elephant,C,{4}{W},5,3,5,,0.04,,W
+Creature — Goblin,R,{3}{R}{R},5,2,2,,1.25,,R
+Sorcery,C,{B}{B},2,,,,0.27,,B
+Instant,R,{W},1,,,,6.18,,W
+Creature — Cat,C,{1}{W},2,2,2,,0.06,,W
+Sorcery,U,{2}{U}{U},4,,,,0.21,,U
+Creature — Drake,C,{3}{U},4,3,2,,0.02,,U
+Sorcery,C,{2}{W},3,,,,0.03,,W
+Enchantment — Aura,C,{2}{B},3,,,,0.07,,B
+Creature — Human Cleric,C,{W},1,1,1,,1.48,,W
+Creature — Human Wizard,C,{1}{R},2,1,1,,0.07,,R
+Artifact,U,{0},0,,,,1.44,,
+Creature — Sphinx,M,{5}{U}{U},7,5,5,,10.3,,U
+Creature — Rhino,C,{4}{G},5,4,4,,0.07,,G
+Creature — Giant,U,{2}{R}{R},4,3,4,,0.05,,R
+Creature — Pegasus,C,{1}{W},2,2,1,,0.1,,W
+Land,R,,0,,,,4.29,,GW
+Basic Land — Swamp,C,,0,,,,0.09,,
+Enchantment,U,{U},1,,,,0.19,,U
+Instant,U,{2}{W},3,,,,0.09,,W
+Instant,C,{3}{B},4,,,,0.11,,B
+Land,C,,0,,,,0.25,,
+Sorcery,M,{3}{U}{U},5,,,,13.23,,U
+Sorcery,C,{U},1,,,,0.21,,U
+Sorcery,R,{3}{U}{U},5,,,,3.92,,U
+Instant,C,{2}{R},3,,,,0.04,,R
+Instant,R,{U}{U},2,,,,5.82,,U
+Creature — Human Cleric,U,{2}{W},3,2,2,,0.07,,W
+Enchantment,R,{B}{B}{B},3,,,,2.69,,B
+Enchantment — Aura,C,{B},1,,,,0.06,,B
+Instant,C,{U},1,,,,0.06,,U
+Creature — Vampire Rogue Noble,C,{2}{B},3,2,2,,0.1,,B
+Creature — Vampire,M,{1}{B}{B}{B},4,3,3,,6.36,,B
+Creature — Human Soldier,C,{W}{W},2,2,3,,0.12,,W
+Creature — Human Soldier,C,{2}{W},3,3,2,,0.22,,W
+Creature — Viashino Warrior,C,{2}{R},3,2,1,,0.05,,R
+Creature — Skeleton Wall,U,{2}{B},3,1,4,,0.19,,B
+Creature — Wall,C,{3}{W},4,0,5,,0.13,,W
+Creature — Wall,U,{1}{R}{R},3,0,5,,0.1,,R
+Creature — Wall,U,{1}{U}{U},3,0,7,,0.19,,U
+Sorcery,R,{5}{R}{R}{R},8,,,,0.52,,R
+Creature — Zombie,C,{2}{B},3,3,2,,0.05,,B
+Enchantment — Aura,C,{B},1,,,,0.07,,B
+Artifact — Equipment,U,{3},3,,,,3.09,,
+Creature — Human Knight,U,{W}{W},2,2,2,,0.12,,W
+Creature — Drake,C,{2}{U},3,2,2,,0.02,,U
+Instant,U,{X}{G},1,,,,0.09,,G
+Artifact,U,{2},2,,,,0.1,,
+Creature — Demon,M,{3}{B}{B}{B},6,7,7,,0.55,,B
+Sorcery,C,{4}{R},5,,,,0.05,,R
+Creature — Faerie,C,{U},1,1,1,,0.14,,U
+Creature — Zombie Giant,C,{4}{B},5,4,3,,0.02,,B
+Creature — Ooze,U,{3}{G}{G},5,2,2,,0.16,,G
+Sorcery,C,{2}{R},3,,,,0.02,,R
+Creature — Human Wizard,C,{1}{U}{U},3,2,2,,0.09,,U
+Creature — Elemental,U,{4}{U},5,4,3,,0.04,,U
+Legendary Planeswalker — Ajani,M,{2}{W}{W},4,,,4,6.2,,W
+Enchantment,C,{1}{W},2,,,,0.22,,W
+Creature — Cat Soldier,U,{1}{W},2,2,2,,0.21,,W
+Creature — Siren,U,{1}{U},2,1,1,,0.04,,U
+Creature — Dragon,R,{4}{R}{R}{R},7,6,6,,0.27,,R
+Creature — Angel,R,{5}{W}{W},7,5,6,,1.32,,W
+Artifact,U,{2},2,,,,0.08,,
+Creature — Elemental Ox,C,{2}{R},3,5,1,,0.13,,R
+Enchantment — Aura,U,{3}{W},4,,,,0.29,,W
+Creature — Crab,C,{4}{U},5,2,5,,0.03,,U
+Sorcery,C,{2}{B},3,,,,0.04,,B
+Creature — Griffin,C,{3}{W},4,3,2,,0.04,,W
+Creature — Bird,C,{1}{U},2,1,1,,0.22,,U
+Instant,U,{G},1,,,,0.43,,G
+Creature — Human Druid,U,{2}{G},3,1,1,,0.07,,G
+Creature — Drake,C,{3}{U},4,2,4,,0.04,,U
+Instant,U,{1}{G},2,,,,0.2,,G
+Creature — Angel,M,{3}{W}{W},5,5,5,,2.15,,W
+Creature — Vampire,C,{2}{B},3,3,2,,0.09,,B
+Creature — Human Berserker,C,{4}{R},5,4,4,,0.03,,R
+Creature — Bird,R,{G},1,0,1,,11.62,,G
+Creature — Human Knight,U,{B}{B},2,2,2,,0.12,,B
+Creature — Human Wizard,C,{1}{W},2,1,2,,0.07,,W
+Sorcery,C,{3}{B},4,,,,0.23,,B
+Creature — Goblin Berserker,C,{R},1,2,2,,0.1,,R
+Creature — Vampire,C,{1}{B},2,1,1,,0.17,,B
+Creature — Zombie,C,{2}{B},3,2,2,,0.07,,B
+Creature — Boar,C,{2}{G},3,2,2,,0.04,,G
+Artifact,R,{1},1,,,,0.26,,
+Sorcery,U,{2}{U},3,,,,0.21,,U
+Instant,C,{1}{U}{U},3,,,,0.05,,U
+Creature — Minotaur Warrior,C,{3}{R},4,3,3,,0.03,,R
+Creature — Vampire,R,{1}{B}{B},3,2,2,,6.92,,B
+Instant,U,{1}{W},2,,,,0.14,,W
+Legendary Planeswalker — Chandra,M,{3}{R}{R},5,,,6,1.21,,R
+Instant,C,{2}{R}{R},4,,,,0.07,,R
+Creature — Elemental,U,{2}{R},3,1,3,,0.12,,R
+Creature — Vampire,C,{1}{B},2,2,1,,0.03,,B
+Creature — Shapeshifter,R,{3}{U},4,0,0,,0.4,,U
+Creature — Human Knight,C,{2}{W}{W},4,2,3,,0.08,,W
+Creature — Elemental,C,{2}{U},3,2,3,,0.02,,U
+Instant,U,{1}{R},2,,,,0.05,,R
+Instant,U,{W},1,,,,0.11,,W
+Creature — Sphinx,R,{2}{U}{U},4,4,4,,0.13,,U
+Sorcery,U,{5}{B},6,,,,0.1,,B
+Artifact,U,{3},3,,,,0.29,,
+Creature — Troll,U,{2}{G}{G},4,4,3,,0.06,,G
+Sorcery,C,{2}{G},3,,,,0.59,,G
+Creature — Cyclops Warrior,R,{1}{R}{R}{R},4,4,4,,0.12,,R
+Enchantment,R,{2}{B},3,,,,0.54,,B
+Sorcery,R,{2}{W}{W},4,,,,2.16,,W
+Sorcery,U,{B},1,,,,0.04,,B
+Sorcery,C,{3}{R},4,,,,0.03,,R
+Creature — Demon,M,{6}{B}{B}{B},9,9,9,,6.75,,B
+Artifact,U,{2},2,,,,0.16,,
+Sorcery,R,{5}{R}{R},7,,,,0.34,,R
+Sorcery,U,{2}{B}{B},4,,,,0.8,,B
+Instant,C,{U},1,,,,0.06,,U
+Sorcery,C,{B},1,,,,0.05,,B
+Instant,C,{1}{B},2,,,,0.21,,B
+Artifact,U,{2},2,,,,0.19,,
+Land,R,,0,,,,4.17,,BR
+Land,R,,0,,,,6.97,,UB
+Enchantment — Aura,C,{G},1,,,,0.09,,G
+Sorcery,C,{B},1,,,,0.08,,B
+Creature — Wurm,U,{5}{G}{G},7,7,7,,0.07,,G
+Creature — Elemental,U,{5}{R},6,4,4,,0.04,,R
+Creature — Human Soldier,U,{W},1,2,1,,0.07,,W
+Artifact,U,{1},1,,,,0.55,,
+Creature — Elf Druid,R,{1}{G}{G},3,2,2,,0.86,,G
+Creature — Goblin,U,{R}{R},2,2,2,,0.05,,R
+Sorcery,C,{2}{W},3,,,,0.02,,W
+Creature — Elf Shaman,R,{1}{G},2,2,2,,11,,G
+Creature — Elemental Dog,C,{1}{R}{R},3,2,2,,0.03,,R
+Creature — Elemental,U,{3}{R}{R},5,4,3,,0.25,,R
+Sorcery,U,{X}{R},1,,,,0.11,,R
+Instant,U,{1}{U},2,,,,0.02,,U
+Instant,C,{1}{R},2,,,,0.08,,R
+Instant,C,{G},1,,,,0.12,,G
+Sorcery,C,{3}{U},4,,,,0.12,,U
+Basic Land — Forest,C,,0,,,,0.17,,
+Creature — Giant,M,{4}{U}{U},6,6,6,,0.51,,U
+Creature — Elemental,M,{5}{G}{G},7,8,5,,0.34,,G
+Artifact Creature — Gargoyle,U,{3},3,3,3,,0.02,,
+Legendary Planeswalker — Garruk,M,{2}{G}{G},4,,,3,5.52,,G
+Creature — Beast,C,{G}{G},2,3,2,,0.07,,G
+Creature — Beast,U,{4}{G},5,4,4,,0.22,,G
+Instant,C,{G},1,,,,0.05,,G
+Creature — Spider,C,{3}{G},4,2,4,,0.04,,G
+Land,R,,0,,,,4.3,,WU
+Creature — Goblin Warrior,C,{R},1,1,1,,0.06,,R
+Creature — Goblin,R,{1}{R}{R},3,2,2,,3.65,,R
+Creature — Goblin Warrior,C,{1}{R},2,2,1,,0.02,,R
+Creature — Goblin Rogue,C,{1}{R},2,1,1,,0.06,,R
+Creature — Insect,C,{W},1,0,1,,0.06,,W
+Creature — Giant,M,{4}{B}{B},6,6,6,,9.86,,B
+Creature — Zombie,C,{3}{B},4,2,2,,0.04,,B
+Creature — Basilisk,C,{3}{G}{G},5,3,5,,0.04,,G
+Creature — Serpent,C,{4}{U}{U},6,5,5,,0.05,,U
+Sorcery,R,{3}{B}{B},5,,,,0.17,,B
+Creature — Dragon,R,{3}{R}{R},5,4,4,,0.25,,R
+Enchantment — Aura,C,{W},1,,,,0.06,,W
+Enchantment,R,{1}{W},2,,,,1.07,,W
+Instant,C,{G},1,,,,0.05,,G
+Creature — Spirit,U,{2}{B}{B},4,3,3,,0.11,,B
+Sorcery,C,{3}{G},4,,,,0.04,,G
+Enchantment — Aura,C,{1}{U},2,,,,0.08,,U
+Instant,C,{R},1,,,,0.05,,R
+Creature — Human Soldier,C,{W},1,1,1,,0.05,,W
+Creature — Giant,M,{4}{R}{R},6,6,6,,2.13,,R
+Instant,C,{2}{W}{W},4,,,,0.03,,W
+Basic Land — Island,C,,0,,,,0.16,,
+Legendary Planeswalker — Jace,M,{1}{U}{U},3,,,3,2.72,,U
+Enchantment,C,{1}{U},2,,,,0.24,,U
+Instant,U,{3}{U}{U},5,,,,0.08,,U
+Artifact,R,{2},2,,,,0.5,,
+Artifact Creature — Juggernaut,U,{4},4,5,3,,0.05,,
+Creature — Human Knight,R,{1}{W}{W},3,2,2,,6.85,,W
+Artifact,U,{2},2,,,,0.08,,
+Sorcery,C,{4}{R},5,,,,0.11,,R
+Enchantment,R,{2}{U}{U},4,,,,3.92,,U
+Enchantment,R,{2}{R}{R},4,,,,1.93,,R
+Enchantment,R,{2}{W}{W},4,,,,7.74,,W
+Enchantment,R,{2}{B}{B},4,,,,8.24,,B
+Enchantment,R,{2}{G}{G},4,,,,1.98,,G
+Instant,C,{R},1,,,,0.88,,R
+Legendary Planeswalker — Liliana,M,{3}{B}{B},5,,,5,8.11,,B
+Enchantment,U,{1}{B},2,,,,5.15,,B
+Creature — Specter,C,{1}{B}{B},3,2,1,,0.21,,B
+Creature — Elf Druid,C,{G},1,1,1,,0.24,,G
+Creature — Phoenix,R,{3}{R}{R},5,3,3,,0.2,,R
+Instant,C,{1}{U},2,,,,0.2,,U
+Creature — Human Warrior,C,{2}{R},3,2,2,,0.06,,R
+Creature — Merfolk Soldier,C,{1}{U},2,1,3,,0.02,,U
+Sorcery,R,{5}{U},6,,,,0.61,,U
+Creature — Merfolk Noble,R,{1}{U}{U},3,2,2,,0.64,,U
+Creature — Merfolk Rogue,C,{U},1,1,1,,0.1,,U
+Instant,C,{1}{W},2,,,,0.05,,W
+Enchantment — Aura,U,{3}{U}{U},5,,,,0.15,,U
+Sorcery,C,{2}{B},3,,,,0.02,,B
+Creature — Ooze,R,{4}{G},5,4,4,,0.2,,G
+Basic Land — Mountain,C,,0,,,,0.09,,
+Land,R,,0,,,,1.19,,
+Creature — Insect Shade,R,{B}{B},2,2,1,,0.24,,B
+Instant,C,{1}{G},2,,,,0.04,,G
+Sorcery,U,{1}{G},2,,,,0.12,,G
+Enchantment — Aura,R,{2}{B}{B},4,,,,0.21,,B
+Instant,C,{1}{U},2,,,,0.17,,U
+Creature — Horror,C,{3}{B},4,4,2,,0.05,,B
+Creature — Shade,C,{4}{B},5,2,2,,0.1,,B
+Creature — Beast,R,{2}{G}{G},4,4,4,,0.35,,G
+Artifact Creature — Thopter,U,{0},0,0,2,,0.3,,
+Sorcery,R,{3}{G}{G},5,,,,3.79,,G
+Enchantment — Aura,C,{1}{W},2,,,,0.06,,W
+Creature — Human Soldier,C,{2}{W},3,1,4,,0.09,,W
+Creature — Illusion Beast,C,{3}{U},4,4,5,,0.06,,U
+Creature — Zombie,R,{B}{B}{B},3,5,5,,0.26,,B
+Basic Land — Plains,C,,0,,,,0.14,,
+Artifact Creature — Angel,M,{7},7,4,4,,13.16,,
+Instant,C,{1}{G},2,,,,0.07,,G
+Sorcery,C,{U},1,,,,0.38,,U
+Enchantment — Aura,C,{G},1,,,,0.12,,G
+Creature — Giant,M,{4}{G}{G},6,6,6,,5.92,,G
+Creature — Unicorn,U,{3}{G},4,2,2,,0.1,,G
+Creature — Human Wizard,U,{2}{R},3,1,1,,0.08,,R
+Creature — Hydra,R,{X}{G},1,0,0,,3.38,,G
+Instant,C,{1}{R},2,,,,1.6,,R
+Sorcery,U,{1}{R},2,,,,0.18,,R
+Enchantment — Aura,C,{2}{B},3,,,,0.04,,B
+Creature — Skeleton Warrior,U,{1}{B},2,1,1,,0.24,,B
+Instant,R,{U}{U},2,,,,0.25,,U
+Creature — Rat,U,{1}{B}{B},3,2,2,,2.41,,B
+Instant,R,{R}{R},2,,,,2.22,,R
+Sorcery,U,{4}{B},5,,,,0.08,,B
+Creature — Bird Egg,U,{2}{W},3,0,3,,0.1,,W
+Land,R,,0,,,,4.1,,GR
+Creature — Zombie,C,{4}{B},5,4,5,,0.05,,B
+Creature — Human Assassin,R,{1}{B}{B},3,1,1,,2.01,,B
+Creature — Bear,C,{1}{G},2,2,2,,0.08,,G
+Creature — Wolf,C,{2}{G},3,3,1,,0.12,,G
+Instant,C,{2}{W},3,,,,0.05,,W
+Creature — Merfolk Rogue,C,{2}{U},3,1,3,,0.06,,U
+Creature — Angel,U,{3}{W}{W},5,4,4,,0.09,,W
+Creature — Human Monk,R,{W},1,1,1,,24.48,,W
+Enchantment — Aura,U,{2}{R}{R},4,,,,0.08,,R
+Creature — Elephant,C,{4}{W},5,3,5,,0.02,,W
+Sorcery,C,{B}{B},2,,,,0.28,,B
+Instant,R,{W},1,,,,6.07,,W
+Creature — Cat,C,{1}{W},2,2,2,,0.03,,W
+Sorcery,U,{2}{U}{U},4,,,,0.15,,U
+Sorcery,C,{2}{W},3,,,,0.12,,W
+Artifact,U,{4},4,,,,0.17,,
+Creature — Wurm,C,{4}{G},5,5,4,,0.07,,G
+Creature — Bird,C,{1}{W},2,1,1,,0.23,,W
+Instant,C,{B},1,,,,0.05,,B
+Artifact Creature — Construct,R,{2},2,1,1,,1.1,,
+Artifact Creature — Golem,U,{5},5,4,4,,0.03,,
+Creature — Pegasus,C,{1}{W},2,2,1,,0.07,,W
+Creature — Leviathan,R,{5}{U}{U}{U},8,8,8,,0.38,,U
+Creature — Giant,M,{4}{W}{W},6,6,6,,2.24,,W
+Land,R,,0,,,,3.94,,GW
+Basic Land — Swamp,C,,0,,,,0.24,,
+Artifact — Equipment,R,{3},3,,,,0.57,,
+Creature — Elf Scout Ranger,C,{1}{G},2,1,1,,0.17,,G
+Artifact,R,{3},3,,,,4.22,,
+Land,C,,0,,,,0.23,,
+Instant,C,{1}{R},2,,,,0.05,,R
+Sorcery,M,{3}{U}{U},5,,,,2.7,,U
+Creature — Human Cleric,C,{4}{W},5,2,3,,0.04,,W
+Sorcery,C,{U},1,,,,0.17,,U
+Sorcery,R,{3}{U}{U},5,,,,3.07,,U
+Artifact Creature — Construct,R,{6},6,1,1,,1.26,,
+Enchantment — Aura,C,{B},1,,,,0.05,,B
+Instant,C,{U},1,,,,0.06,,U
+Creature — Archon,R,{4}{W}{W}{W},7,7,7,,0.21,,W
+Creature — Vampire Wizard,C,{B},1,1,1,,0.31,,B
+Enchantment — Aura,C,{1}{R},2,,,,0.05,,R
+Artifact,U,{1},1,,,,2.12,,
+Creature — Human Berserker,C,{3}{R},4,3,2,,0.02,,R
+Creature — Wall,U,{1}{U}{U},3,0,7,,0.19,,U
+Creature — Plant Wall,C,{G},1,0,3,,0.07,,G
+Creature — Human Cleric,U,{1}{W},2,2,2,,0.16,,W
+Artifact — Equipment,U,{3},3,,,,0.06,,
+Creature — Elemental,U,{2}{U}{U},4,3,4,,0.1,,U
+Artifact — Equipment,U,{3},3,,,,3.31,,
+Creature — Human Knight,U,{W}{W},2,2,2,,0.16,,W
+Enchantment,R,{5}{R},6,,,,0.52,,R
+Creature — Griffin,C,{2}{W},3,2,2,,0.08,,W
+Artifact,U,{2},2,,,,0.07,,
+Creature — Wurm,C,{4}{G}{G},6,6,4,,0.08,,G
+Creature — Ooze,U,{3}{G}{G},5,2,2,,0.15,,G
+Sorcery,C,{2}{R},3,,,,0.06,,R
+Artifact Creature — Construct,R,{3},3,2,2,,3.84,,
+Creature — Angel,R,{4}{W}{W},6,5,5,,0.41,,W
+Creature — Human Wizard,C,{1}{U}{U},3,2,2,,0.16,,U
+Creature — Human Wizard,U,{1}{W},2,2,1,,0.07,,W
+Creature — Siren,U,{1}{U},2,1,1,,0.05,,U
+Creature — Salamander Rogue,C,{3}{U},4,2,4,,0.01,,U
+Enchantment — Aura,M,{2}{W}{W},4,,,,4.03,,W
+Artifact,U,{2},2,,,,0.13,,
+Instant,C,{2}{W}{W},4,,,,0.05,,W
+Creature — Spider,R,{5}{G},6,5,7,,0.21,,G
+Enchantment — Aura,C,{2}{G},3,,,,0.1,,G
+Creature — Human Archer,U,{2}{W}{W},4,2,3,,0.08,,W
+Creature — Archon,R,{3}{W}{W},5,4,4,,0.22,,W
+Creature — Horse,C,{W}{W},2,2,3,,0.08,,W
+Creature — Griffin,C,{3}{W},4,3,2,,0.03,,W
+Creature — Human Wizard,C,{2}{W},3,2,2,,0.15,,W
+Instant,U,{G},1,,,,0.43,,G
+Creature — Bird Soldier,C,{3}{U},4,2,2,,0.09,,U
+Creature — Human Wizard,U,{1}{U},2,2,1,,0.08,,U
+Creature — Sphinx,U,{4}{U},5,2,5,,0.07,,U
+Creature — Human Soldier,C,{2}{W},3,2,2,,0.02,,W
+Creature — Bird,R,{G},1,0,1,,13.38,,G
+Creature — Ogre Warrior,C,{2}{R},3,2,2,,0.06,,R
+Creature — Vampire Shaman,C,{1}{B},2,1,1,,0.22,,B
+Creature — Vampire Warrior,M,{3}{B}{B},5,3,3,,0.67,,B
+Creature — Vampire,C,{2}{B},3,3,1,,0.08,,B
+Creature — Giant,C,{4}{R},5,4,4,,0.04,,R
+Sorcery,C,{4}{G},5,,,,0.1,,G
+Creature — Boar,C,{2}{G},3,2,2,,0.08,,G
+Enchantment — Aura,C,{2}{B}{B},4,,,,0.06,,B
+Land,U,,0,,,,0.66,,
+Enchantment,R,{4}{B},5,,,,1.52,,B
+Instant,C,{1}{U}{U},3,,,,0.05,,U
+Creature — Wurm,U,{6}{G},7,6,6,,0.11,,G
+Instant,U,{1}{W},2,,,,0.09,,W
+Creature — Zombie,R,{1}{B}{B},3,2,2,,0.75,,B
+Legendary Planeswalker — Chandra,M,{3}{R},4,,,3,1.68,,R
+Instant,C,{2}{R}{R},4,,,,0.02,,R
+Creature — Phoenix,R,{1}{R}{R},3,2,2,,0.33,,R
+Creature — Drake,C,{4}{U},5,3,3,,0.02,,U
+Creature — Vampire,C,{1}{B},2,2,1,,0.03,,B
+Enchantment,U,{1}{R},2,,,,0.2,,R
+Instant,U,{1}{R},2,,,,0.1,,R
+Sorcery,U,{X}{1}{B},2,,,,0.12,,B
+Creature — Merfolk,C,{1}{U},2,2,1,,0.04,,U
+Creature — Human Shaman,U,{1}{R},2,2,1,,0.05,,R
+Artifact,U,{2},2,,,,0.11,,
+Artifact Creature — Golem,U,{5},5,7,4,,0.06,,
+Creature — Troll,U,{2}{G}{G},4,4,3,,0.07,,G
+Enchantment — Aura,C,{1}{B},2,,,,0.04,,B
+Sorcery,R,{2}{W}{W},4,,,,2.11,,W
+Sorcery,U,{B},1,,,,0.06,,B
+Artifact,U,{2},2,,,,0.18,,
+Instant,C,{W},1,,,,0.02,,W
+Creature — Insect,C,{1}{B}{B},3,2,1,,0.16,,B
+Sorcery,U,{2}{B}{B},4,,,,0.78,,B
+Sorcery,C,{B},1,,,,0.08,,B
+Sorcery,C,{B}{B},2,,,,0.24,,B
+Sorcery,C,{2}{U},3,,,,0.03,,U
+Enchantment — Aura,C,{1}{W},2,,,,0.02,,W
+Creature — Djinn,R,{3}{U}{U},5,4,4,,0.1,,U
+Instant,C,{1}{B},2,,,,0.21,,B
+Sorcery,R,{5}{G},6,,,,0.27,,G
+Artifact,U,{2},2,,,,0.21,,
+Land,R,,0,,,,3.83,,BR
+Creature — Shade,C,{3}{B},4,1,1,,0.04,,B
+Land,R,,0,,,,5.57,,UB
+Artifact,R,{3},3,,,,0.19,,
+Creature — Treefolk,R,{2}{G},3,*,*,,0.86,,G
+Creature — Bat,C,{1}{B},2,1,1,,0.04,,B
+Creature — Human Soldier,U,{W},1,2,1,,0.05,,W
+Artifact,U,{1},1,,,,0.59,,
+Creature — Elf Druid,R,{1}{G}{G},3,2,2,,1.08,,G
+Creature — Elemental Dog,C,{1}{R}{R},3,2,2,,0.01,,R
+Sorcery,U,{X}{R},1,,,,0.11,,R
+Enchantment — Aura,C,{R},1,,,,0.04,,R
+Creature — Dragon,R,{4}{R}{R},6,5,5,,0.37,,R
+Instant,U,{1}{U},2,,,,0.03,,U
+Enchantment — Aura,C,{U},1,,,,0.03,,U
+Instant,C,{1}{R},2,,,,0.1,,R
+Instant,C,{G},1,,,,0.17,,G
+Basic Land — Forest,C,,0,,,,0.19,,
+Instant,C,{2}{U},3,,,,0.03,,U
+Creature — Giant,M,{4}{U}{U},6,6,6,,0.48,,U
+Creature — Dragon,M,{4}{R}{R}{R},7,6,6,,2.53,,R
+Legendary Planeswalker — Garruk,M,{2}{G}{G}{G},5,,,3,1.76,,G
+Creature — Beast,C,{G}{G},2,3,2,,0.09,,G
+Creature — Beast,R,{5}{G}{G},7,7,7,,0.19,,G
+Creature — Spider,C,{3}{G},4,2,4,,0.02,,G
+Legendary Planeswalker — Gideon,M,{3}{W}{W},5,,,6,0.49,,W
+Creature — Human Soldier,R,{1}{W}{W},3,2,2,,0.39,,W
+Creature — Human Soldier,C,{W},1,1,1,,0.08,,W
+Land,R,,0,,,,3.36,,WU
+Creature — Elf Scout,C,{G},1,1,1,,0.22,,G
+Creature — Goblin Shaman,C,{R},1,1,1,,0.04,,R
+Creature — Goblin Warrior,U,{2}{R}{R},4,2,2,,0.15,,R
+Creature — Goblin,R,{1}{R}{R},3,2,2,,2.22,,R
+Creature — Goblin Warrior,C,{R},1,1,1,,0.2,,R
+Sorcery,U,{R},1,,,,0.66,,R
+Creature — Goblin Warrior,C,{1}{R},2,2,1,,0.02,,R
+Creature — Goblin Rogue,C,{1}{R},2,1,1,,0.08,,R
+Enchantment — Aura,C,{1}{R},2,,,,0.04,,R
+Creature — Minotaur Warrior,C,{2}{R}{R},4,3,3,,0.05,,R
+Creature — Human Cleric,R,{W}{W},2,2,2,,28.54,,W
+Creature — Giant,M,{4}{B}{B},6,6,6,,8.76,,B
+Creature — Zombie,C,{3}{B},4,2,2,,0.05,,B
+Creature — Basilisk,C,{3}{G}{G},5,3,5,,0.19,,G
+Artifact — Equipment,U,{3},3,,,,0.07,,
+Creature — Human Knight,C,{1}{W},2,1,1,,0.06,,W
+Creature — Griffin,C,{2}{W},3,1,3,,0.02,,W
+Creature — Human Wizard,R,{R},1,1,1,,0.24,,R
+Instant,C,{1}{W}{W},3,,,,0.16,,W
+Creature — Serpent,C,{4}{U}{U},6,5,5,,0.05,,U
+Sorcery,C,{2}{B},3,,,,0.09,,B
+Enchantment,R,{1}{W},2,,,,1.08,,W
+Instant,U,{2}{G},3,,,,0.24,,G
+Enchantment — Aura,C,{1}{U},2,,,,0.02,,U
+Instant,C,{1}{R},2,,,,0.12,,R
+Creature — Giant,M,{4}{R}{R},6,6,6,,1.37,,R
+Basic Land — Island,C,,0,,,,0.12,,
+Legendary Planeswalker — Jace,M,{3}{U}{U},5,,,4,7.55,,U
+Creature — Vedalken Wizard,R,{1}{U}{U},3,2,2,,3.62,,U
+Enchantment,C,{1}{U},2,,,,0.24,,U
+Creature — Human Shaman,U,{1}{G},2,2,1,,0.25,,G
+Artifact — Equipment,U,{0},0,,,,0.2,,
+Artifact,U,{2},2,,,,0.13,,
+Sorcery,C,{4}{R},5,,,,0.05,,R
+Enchantment,U,{2}{U}{U},4,,,,0.17,,U
+Enchantment — Aura,C,{W},1,,,,0.23,,W
+Creature — Elemental,C,{3}{R},4,4,1,,0.03,,R
+Creature — Elf Druid,C,{G},1,1,1,,0.28,,G
+Creature — Human Wizard,R,{U}{U},2,2,2,,0.85,,U
+Enchantment — Aura,U,{1}{G}{G},3,,,,0.09,,G
+Creature — Crocodile,C,{2}{G},3,2,2,,0.11,,G
+Instant,C,{1}{U},2,,,,0.18,,U
+Enchantment,R,{3}{R},4,,,,2.6,,R
+Artifact,C,{3},3,,,,0.11,,
+Creature — Human Warrior,C,{2}{R},3,2,2,,0.03,,R
+Creature — Human Rogue,U,{2}{U}{U},4,2,2,,0.12,,U
+Creature — Merfolk Rogue,C,{1}{U},2,1,1,,0.08,,U
+Creature — Merfolk Wizard,C,{1}{U},2,1,2,,0.12,,U
+Creature — Human Druid,R,{1}{W}{W},3,0,2,,2.04,,W
+Instant,C,{1}{W},2,,,,0.09,,W
+Enchantment — Aura,U,{3}{U}{U},5,,,,0.1,,U
+Sorcery,C,{2}{B},3,,,,0.06,,B
+Enchantment,R,{4}{U}{U},6,,,,0.52,,U
+Sorcery,R,{3}{B}{B},5,,,,0.18,,B
+Basic Land — Mountain,C,,0,,,,0.13,,
+Instant,C,{1}{G},2,,,,0.06,,G
+Instant,C,{1}{U},2,,,,0.12,,U
+Enchantment,U,{2}{W},3,,,,0.21,,W
+Creature — Human Wizard,U,{1}{B},2,2,1,,0.15,,B
+Sorcery,U,{2}{G}{G}{G},5,,,,0.3,,G
+Enchantment — Aura,C,{1}{W},2,,,,0.11,,W
+Artifact Creature — Construct,R,{7},7,0,0,,0.13,,
+Creature — Griffin,C,{4}{W},5,2,4,,0.05,,W
+Enchantment,R,{2}{W},3,,,,0.24,,W
+Creature — Bear Illusion,C,{U},1,2,2,,0.07,,U
+Creature — Dragon Illusion,U,{2}{U}{U},4,5,5,,0.14,,U
+Creature — Illusion,R,{1}{U},2,0,0,,3.7,,U
+Basic Land — Plains,C,,0,,,,0.12,,
+Instant,C,{1}{G},2,,,,0.02,,G
+Sorcery,C,{U},1,,,,2,,U
+Creature — Cat Monk,C,{W},1,0,3,,0.13,,W
+Creature — Giant,M,{4}{G}{G},6,6,6,,5.77,,G
+Creature — Hydra,M,{X}{G}{G},2,0,0,,12.9,,G
+Artifact,R,{4},4,,,,7.71,,
+Sorcery,C,{1}{G},2,,,,0.26,,G
+Creature — Skeleton Warrior,U,{1}{B},2,1,1,,0.25,,B
+Instant,C,{G},1,,,,0.13,,G
+Instant,R,{U}{U},2,,,,0.23,,U
+Instant,R,{R}{R},2,,,,2.77,,R
+Enchantment,R,{2}{G},3,,,,1.47,,G
+Creature — Bird Egg,U,{2}{W},3,0,3,,0.11,,W
+Land,R,,0,,,,4.07,,GR
+Creature — Human Assassin,R,{1}{B}{B},3,1,1,,2.28,,B
+Creature — Bear,C,{1}{G},2,2,2,,0.09,,G
+Creature — Demon,R,{5}{B}{B},7,6,6,,7.42,,B
+Artifact Creature — Golem,U,{4},4,3,4,,0.04,,
+Creature — Wolf,C,{2}{G},3,3,1,,0.11,,G
+Artifact,U,{3},3,,,,0.24,,
+Sorcery,R,{6}{R}{R},8,,,,0.39,,R
+Creature — Vampire,U,{3}{B}{B},5,4,4,,0.13,,B
+Creature — Angel,U,{3}{W}{W},5,4,4,,0.07,,W
+Instant,C,{R},1,,,,0.05,,R
+Creature — Elephant,C,{4}{W},5,3,5,,0.03,,W
+Creature — Human Shaman,R,{1}{G},2,1,1,,0.23,,G
+Creature — Drake,C,{2}{U},3,3,1,,0.05,,U
+Instant,C,{2}{R},3,,,,0.02,,R
+Sorcery,U,{B}{B},2,,,,0.26,,B
+Artifact Creature — Golem,R,{4},4,2,2,,0.99,,
+Legendary Planeswalker — Sorin,M,{3}{B}{B}{B},6,,,4,9.51,,B
+Instant,C,{B}{B},2,,,,0.14,,B
+Sorcery,R,{4}{B}{B}{B},7,,,,0.71,,B
+Creature — Sphinx,R,{5}{U}{U},7,5,6,,0.09,,U
+Enchantment — Aura,U,{1}{W},2,,,,0.74,,W
+Creature — Rhino,C,{4}{G},5,4,4,,0.07,,G
+Instant,C,{W},1,,,,0.08,,W
+Creature — Spider,U,{4}{G},5,2,5,,0.06,,G
+Creature — Rhino Soldier,C,{3}{W},4,1,4,,0.26,,W
+Creature — Human Berserker,U,{1}{R},2,1,1,,0.07,,R
+Creature — Pegasus,C,{1}{W},2,2,1,,0.08,,W
+Creature — Giant,M,{4}{W}{W},6,6,6,,0.88,,W
+Artifact,R,{2},2,,,,7.46,,
+Land,R,,0,,,,3.16,,GW
+Creature — Zombie,R,{4}{B}{B}{B},7,*,*,,0.14,,B
+Basic Land — Swamp,C,,0,,,,0.11,,
+Artifact — Equipment,U,{2},2,,,,1.01,,
+Sorcery,C,{B},1,,,,0.11,,B
+Sorcery,U,{3}{R},4,,,,0.04,,R
+Artifact Creature — Golem,U,{5},5,3,3,,0.14,,
+Artifact,R,{4},4,,,,0.25,,
+Sorcery,M,{3}{U}{U},5,,,,2.65,,U
+Sorcery,U,{2}{W},3,,,,0.15,,W
+Instant,C,{1}{G},2,,,,0.05,,G
+Creature — Spirit,C,{B},1,1,1,,0.19,,B
+Enchantment — Aura,C,{2}{G},3,,,,0.05,,G
+Instant,U,{1}{U},2,,,,0.12,,U
+Instant,C,{U},1,,,,0.07,,U
+Creature — Vampire,U,{2}{B}{B},4,2,2,,0.08,,B
+Creature — Wurm,C,{5}{G},6,5,6,,0.03,,G
+Creature — Zombie,R,{2}{B}{B}{B},5,5,4,,1.65,,B
+Instant,R,{U},1,,,,6.1,,U
+Creature — Dragon,U,{4}{R}{R},6,4,4,,0.06,,R
+Creature — Wall,C,{1}{R},2,4,1,,0.04,,R
+Creature — Zombie,C,{2}{B},3,3,2,,0.03,,B
+Enchantment,R,{5}{R},6,,,,0.48,,R
+Artifact — Equipment,R,{5},5,,,,1.7,,
+Instant,C,{B},1,,,,0.02,,B
+Artifact,U,{2},2,,,,0.19,,
+Creature — Zombie Giant,C,{4}{B},5,4,3,,0.03,,B
+Enchantment,U,{1}{B},2,,,,0.11,,B
+Creature — Ooze,U,{3}{G}{G},5,2,2,,0.11,,G
+Legendary Planeswalker — Ajani,M,{1}{W}{W},3,,,4,3.12,,W
+Creature — Cat Cleric,C,{W}{W},2,2,2,,0.17,,W
+Legendary Artifact,M,{7},7,,,,13.98,,
+Enchantment,U,{3}{W},4,,,,0.11,,W
+Instant,C,{2}{W}{W},4,,,,0.04,,W
+Creature — Elf Druid,C,{G},1,1,1,,0.34,,G
+Creature — Human Wizard,C,{2}{U}{U},4,1,2,,0.23,,U
+Creature — Bird Wizard,U,{2}{U},3,2,1,,0.08,,WU
+Creature — Goblin Rogue,U,{2}{R},3,1,1,,0.24,,R
+Creature — Human Knight,C,{2}{W},3,2,2,,0.09,,W
+Creature — Merfolk Wizard,U,{1}{U},2,1,3,,0.19,,U
+Creature — Bird Soldier,C,{1}{W},2,1,1,,0.11,,W
+Enchantment,R,{3}{U}{U},5,,,,0.18,,U
+Creature — Bird,C,{4}{W},5,2,2,,0.06,,W
+Creature — Boar,C,{3}{R},4,3,2,,0.02,,R
+Enchantment,U,{3}{B},4,,,,0.2,,B
+Creature — Bat,C,{3}{B},4,2,2,,0.04,,B
+Creature — Vampire,C,{1}{B},2,1,1,,0.11,,B
+Creature — Insect,C,{G},1,0,1,,0.12,,G
+Sorcery,R,{6}{G},7,,,,2.13,,G
+Sorcery,C,{4}{G},5,,,,0.06,,G
+Creature — Minotaur Warrior,C,{3}{R},4,3,3,,0.01,,R
+Creature — Human Soldier,R,{4}{W}{W},6,3,3,,0.5,,W
+Sorcery,C,{3}{W},4,,,,0.09,,W
+Land,R,,0,,,,2.57,,
+Creature — Centaur Warrior,C,{2}{G},3,3,3,,0.01,,G
+Legendary Planeswalker — Chandra,M,{3}{R},4,,,3,1.76,,R
+Instant,C,{4}{R},5,,,,0.05,,R
+Artifact Creature — Golem,U,{1},1,1,1,,0.08,,
+Sorcery,U,{4}{R},5,,,,0.09,,R
+Artifact,U,{4},4,,,,1.34,,
+Creature — Shapeshifter,R,{3}{U},4,0,0,,0.3,,U
+Creature — Human Wizard,U,{2}{U},3,1,1,,0.13,,U
+Instant,U,{1}{B}{B},3,,,,0.08,,B
+Sorcery,C,{3}{R},4,,,,0.07,,R
+Creature — Lizard,U,{1}{R},2,2,1,,0.03,,BR
+Enchantment — Aura,C,{B},1,,,,0.02,,B
+Creature — Human Soldier,U,{2}{W},3,*,*,,0.07,,W
+Enchantment — Aura,C,{1}{B},2,,,,0.02,,B
+Creature — Spider,C,{1}{G},2,1,2,,0.17,,G
+Sorcery,R,{X}{3}{B}{B},5,,,,0.94,,B
+Creature — Human Wizard,R,{3}{B},4,2,1,,0.27,,B
+Sorcery,C,{B},1,,,,0.08,,B
+Sorcery,C,{2}{U},3,,,,0.03,,U
+Enchantment — Aura,C,{1}{W},2,,,,0.04,,W
+Instant,C,{3}{W},4,,,,0.08,,W
+Artifact,R,{5},5,,,,1.58,,WUBGR
+Instant,C,{1}{U},2,,,,0.06,,U
+Creature — Dragon,C,{1}{R},2,0,1,,0.1,,R
+Land,R,,0,,,,3.72,,BR
+Land,R,,0,,,,5.01,,UB
+Sorcery,C,{B},1,,,,0.06,,B
+Creature — Wurm,U,{5}{G}{G},7,7,7,,0.1,,G
+Creature — Vampire Rogue,U,{3}{B},4,2,2,,0.08,,B
+Creature — Skeleton,C,{B},1,0,2,,0.11,,B
+Creature — Wurm,M,{4}{G}{G}{G},7,7,7,,3.19,,G
+Artifact,U,{1},1,,,,0.47,,
+Creature — Elf Druid,R,{1}{G}{G},3,2,2,,1.04,,G
+Creature — Elf Shaman,C,{1}{G},2,1,1,,0.08,,G
+Enchantment — Aura,C,{1}{U}{U},3,,,,0.04,,U
+Instant,C,{W},1,,,,0.12,,W
+Sorcery,C,{4}{B},5,,,,0.05,,B
+Instant,C,{1}{U},2,,,,0.05,,U
+Land,C,,0,,,,0.1,,
+Creature — Faerie Rogue,C,{4}{U},5,3,3,,0.05,,U
+Instant,R,{3}{W},4,,,,2.15,,W
+Sorcery,C,{1}{G},2,,,,1.53,,G
+Enchantment,R,{2}{R},3,,,,5.31,,R
+Creature — Elemental,C,{3}{R}{R},5,5,4,,0.02,,R
+Creature — Phoenix,R,{3}{R},4,4,2,,0.22,,R
+Sorcery,U,{2}{R},3,,,,0.03,,R
+Creature — Boar,U,{1}{G},2,2,2,,0.21,,GR
+Instant,C,{G},1,,,,0.16,,G
+Creature — Wall,U,{1}{U},2,0,2,,0.25,,U
+Basic Land — Forest,C,,0,,,,0.06,,
+Sorcery,U,{3}{G},4,,,,0.29,,G
+Creature — Dragon,U,{2}{R}{R},4,2,2,,0.06,,R
+Legendary Planeswalker — Garruk,M,{2}{G}{G}{G},5,,,3,1.47,,G
+Creature — Beast,U,{4}{G},5,4,4,,0.21,,G
+Artifact,U,{3},3,,,,0.19,,
+Creature — Scorpion,C,{2}{B},3,1,3,,0.04,,B
+Artifact,R,{5},5,,,,4.36,,
+Land,R,,0,,,,3.27,,WU
+Instant,C,{1}{W},2,,,,0.04,,W
+Creature — Goblin Shaman,C,{R},1,1,1,,0.07,,R
+Creature — Goblin,C,{3}{R},4,2,2,,0.12,,R
+Creature — Griffin,C,{3}{W},4,2,3,,0.02,,W
+Enchantment,R,{1}{G},2,,,,0.25,,G
+Creature — Cat,C,{4}{W},5,1,6,,0.08,,W
+Creature — Human Soldier,C,{2}{W},3,0,4,,0.05,,W
+Creature — Giant Warrior,R,{6}{R},7,6,6,,0.18,,R
+Creature — Human Rogue,U,{2}{B},3,2,2,,0.08,,UB
+Creature — Serpent,C,{4}{U}{U},6,5,5,,0.06,,U
+Creature — Cat Cleric,U,{3}{W},4,2,3,,0.19,,W
+Land,R,,0,,,,0.16,,R
+Instant,C,{U},1,,,,0.01,,U
+Sorcery,C,{U},1,,,,0.09,,U
+Creature — Human Soldier,R,{2}{W},3,1,1,,0.9,,W
+Basic Land — Island,C,,0,,,,0.07,,
+Legendary Planeswalker — Jace,M,{3}{U}{U},5,,,4,6.9,,U
+Creature — Illusion,U,{U},1,1,1,,0.24,,U
+Artifact,U,{4},4,,,,0.05,,
+Instant,C,{R},1,,,,0.05,,R
+Artifact — Equipment,U,{2},2,,,,0.05,,
+Creature — Human Knight,U,{1}{W},2,2,1,,0.23,,W
+Creature — Human Knight,U,{1}{B},2,2,1,,0.11,,B
+Creature — Kraken,C,{U},1,0,4,,0.07,,U
+Legendary Creature — Goblin Warrior,R,{2}{R}{R},4,3,3,,5.77,,R
+Sorcery,C,{1}{R},2,,,,0.25,,R
+Legendary Planeswalker — Liliana,M,{2}{B}{B},4,,,3,16.44,,B
+Creature — Shade,C,{2}{B}{B},4,1,1,,0.08,,B
+Instant,R,{X}{R}{R},2,,,,0.17,,R
+Sorcery,U,{2}{R},3,,,,0.12,,R
+Enchantment — Aura,C,{3}{B},4,,,,0.03,,B
+Creature — Merfolk,R,{U}{U},2,2,2,,4.67,,U
+Creature — Merfolk,C,{U},1,1,1,,0.04,,U
+Sorcery,C,{2}{B},3,,,,0.02,,B
+Sorcery,C,{1}{U},2,,,,0.19,,U
+Creature — Viashino Shaman,U,{4}{R},5,2,2,,0.26,,R
+Creature — Goblin,C,{1}{R},2,3,3,,0.02,,R
+Basic Land — Mountain,C,,0,,,,0.06,,
+Instant,C,{1}{B}{B},3,,,,0.13,,B
+Sorcery,R,{2}{B}{B},4,,,,1.88,,B
+Creature — Human Scout,U,{1}{G}{G},3,2,1,,0.19,,G
+Instant,C,{1}{G},2,,,,0.05,,G
+Legendary Creature — Demon,R,{4}{B}{B},6,5,5,,0.58,,B
+Instant,C,{1}{U},2,,,,0.1,,U
+Legendary Planeswalker — Bolas,M,{4}{U}{B}{B}{R},8,,,5,3.42,,UBR
+Enchantment,U,{2}{W},3,,,,0.23,,W
+Legendary Creature — Human Soldier,R,{2}{W}{W},4,3,4,,0.4,,W
+Enchantment,M,{7}{U}{U}{U},10,,,,11.09,,U
+Enchantment — Aura,C,{1}{W},2,,,,0.03,,W
+Creature — Zombie,R,{B}{B}{B},3,5,5,,0.17,,B
+Artifact Creature — Phyrexian Golem,U,{6},6,5,4,,0.03,,
+Creature — Ox,C,{3}{W},4,2,4,,0.1,,W
+Basic Land — Plains,C,,0,,,,0.08,,
+Sorcery,R,{3}{W}{W}{W},6,,,,0.25,,W
+Instant,C,{1}{G},2,,,,0.03,,G
+Sorcery,R,{3}{G}{G},5,,,,0.24,,G
+Sorcery,C,{G},1,,,,0.07,,G
+Artifact Creature — Shapeshifter,U,{4},4,*,*,,0.07,,
+Creature — Beast,C,{3}{G},4,3,3,,0.09,,G
+Creature — Hydra,M,{X}{G}{G},2,0,0,,12.96,,G
+Creature — Elephant,U,{3}{W},4,3,3,,0.07,,GW
+Instant,U,{5}{B},6,,,,0.05,,B
+Creature — Dryad,R,{1}{G},2,1,1,,0.2,,G
+Instant,U,{W},1,,,,0.05,,W
+Enchantment — Aura,U,{G},1,,,,0.92,,G
+Sorcery,C,{3}{G},4,,,,0.2,,G
+Creature — Rat,C,{1}{B},2,1,1,,0.09,,B
+Creature — Ogre Warrior,C,{2}{R},3,3,1,,0.07,,R
+Instant,R,{U}{U},2,,,,0.25,,U
+Land,U,,0,,,,3.17,,
+Instant,R,{R}{R},2,,,,2.11,,R
+Sorcery,U,{1}{G},2,,,,0.1,,G
+Instant,U,{2}{U}{U},4,,,,0.27,,U
+Creature — Rhino Monk,R,{3}{W},4,1,5,,3.53,,W
+Artifact — Equipment,U,{2},2,,,,0.2,,
+Artifact — Equipment,U,{2},2,,,,0.33,,
+Artifact — Equipment,U,{2},2,,,,0.11,,
+Artifact — Equipment,U,{2},2,,,,0.15,,
+Artifact — Equipment,U,{2},2,,,,0.27,,
+Sorcery,U,{4}{B},5,,,,0.07,,B
+Creature — Beast,U,{3}{G},4,4,4,,0.04,,G
+Land,R,,0,,,,3.58,,GR
+Creature — Goblin Rogue,C,{2}{R},3,1,1,,0.12,,R
+Instant,C,{2}{W},3,,,,0.05,,W
+Artifact,R,{3},3,,,,0.56,,
+Creature — Merfolk Rogue,C,{2}{U},3,1,3,,0.04,,U
+Instant,C,{1}{R},2,,,,0.13,,R
+Creature — Spider,C,{3}{G}{G},5,4,4,,0.05,,G
+Instant,C,{2}{G},3,,,,0.04,,G
+Creature — Angel,U,{3}{W}{W},5,4,4,,0.09,,W
+Creature — Avatar,M,{4}{W}{W}{W},7,*,*,,0.49,,W
+Creature — Angel,R,{W}{W},2,3,3,,0.52,,W
+Creature — Human Cleric,C,{2}{B},3,3,1,,0.06,,B
+Creature — Specter,R,{2}{B}{B},4,2,2,,0.12,,B
+Instant,C,{1}{W},2,,,,0.05,,W
+Sorcery,C,{B}{B},2,,,,0.27,,B
+Creature — Spider,R,{3}{G}{G},5,2,7,,0.31,,G
+Creature — Cat,C,{1}{W},2,2,2,,0.03,,W
+Sorcery,U,{2}{U}{U},4,,,,0.14,,U
+Creature — Dragon,R,{R},1,3,3,,2.84,,R
+Instant,C,{R},1,,,,0.05,,R
+Sorcery,R,{5}{U},6,,,,0.29,,U
+Creature — Sphinx,R,{5}{U}{U},7,5,6,,0.07,,U
+Creature — Beast,C,{3}{G},4,4,2,,0.02,,G
+Artifact,R,{6},6,,,,1.38,,
+Creature — Leviathan,R,{5}{U}{U}{U},8,8,8,,0.27,,U
+Artifact Creature — Construct,R,{5},5,0,1,,1.34,,
+Creature — Angel,M,{2}{W}{W},4,4,3,,3.32,,W
+Land,R,,0,,,,3.79,,GW
+Basic Land — Swamp,C,,0,,,,0.15,,
+Sorcery,U,{4}{U},5,,,,0.08,,U
+Legendary Creature — Merfolk Wizard,R,{2}{U}{U},4,2,2,,0.42,,U
+Sorcery,U,{2}{U}{U},4,,,,0.06,,U
+Creature — Beast,R,{4}{G},5,5,3,,0.28,,G
+Creature — Dragon,M,{3}{R}{R},5,5,5,,4.17,,R
+Creature — Wolf,C,{1}{G},2,2,2,,0.07,,G
+Instant,C,{1}{G},2,,,,0.06,,G
+Creature — Devil,U,{1}{R},2,2,1,,0.07,,R
+Creature — Spirit,C,{B},1,1,1,,0.19,,B
+Artifact,U,{0},0,,,,0.3,,
+Enchantment,R,{5}{W}{W},7,,,,0.12,,W
+Artifact,R,{4},4,,,,0.7,,
+Enchantment — Aura,C,{3}{U},4,,,,0.08,,U
+Instant,C,{2}{R},3,,,,0.04,,R
+Sorcery,C,{3}{R}{R},5,,,,0.02,,R
+Instant,C,{U},1,,,,0.06,,U
+Creature — Vampire Shaman,U,{1}{B}{B},3,2,3,,0.23,,B
+Creature — Vampire,M,{1}{B}{B}{B},4,3,3,,6.42,,B
+Creature — Wurm,C,{5}{G},6,5,6,,0.03,,G
+Creature — Vedalken Wizard,C,{3}{U},4,1,4,,0.02,,U
+Creature — Zombie,U,{4}{B},5,4,1,,0.09,,B
+Instant,C,{B},1,,,,0.06,,B
+Creature — Elemental,R,{1}{U},2,2,1,,0.2,,U
+Instant,U,{X}{R}{R},2,,,,0.03,,R
+Enchantment — Aura,C,{1}{R},2,,,,0.06,,R
+Creature — Zombie,C,{1}{B},2,2,2,,0.03,,B
+Creature — Wall,C,{1}{R}{R},3,0,5,,0.06,,R
+Creature — Bird,C,{W},1,2,1,,0.07,,W
+Creature — Human Cleric,U,{1}{W},2,2,2,,0.12,,W
+Creature — Dog,C,{W},1,1,1,,0.08,,W
+Creature — Elemental,C,{2}{U},3,2,3,,0.03,,U
+Creature — Bird,C,{1}{U},2,2,1,,0.03,,U
+Sorcery,C,{R}{R},2,,,,0.17,,R
+Creature — Drake,C,{2}{U},3,2,2,,0.05,,U
+Sorcery,R,{5}{B}{B},7,,,,0.21,,B
+Sorcery,M,{6}{R}{R}{R},9,,,,5.31,,R
+Creature — Gorgon,R,{5}{B},6,3,6,,0.21,,B
+Legendary Creature — Elf Shaman,R,{2}{G}{G},4,4,4,,1.72,,G
+Creature — Elf Shaman,C,{2}{G},3,2,2,,0.03,,G
+Creature — Zombie Giant,C,{4}{B},5,4,3,,0.03,,B
+Creature — Human Warrior,C,{2}{R},3,1,1,,0.08,,R
+Artifact — Equipment,U,{0},0,,,,0.13,,
+Creature — Spirit,C,{3}{B},4,3,2,,0.02,,B
+Sorcery,C,{2}{R},3,,,,0.03,,R
+Creature — Elf Shaman,C,{2}{G},3,2,3,,0.06,,G
+Creature — Elemental,U,{4}{U},5,4,3,,0.02,,U
+Legendary Planeswalker — Ajani,M,{1}{W}{W},3,,,4,4.45,,W
+Creature — Cat Soldier,R,{2}{W}{W},4,3,3,,2.13,,W
+Instant,C,{1}{B},2,,,,0.17,,B
+Enchantment,U,{3}{W},4,,,,1.02,,W
+Creature — Wall,C,{1}{W},2,0,4,,0.11,,W
+Creature — Human Wizard,C,{2}{U}{U},4,1,2,,0.24,,U
+Creature — Angel,M,{3}{W}{W},5,3,4,,23.06,,W
+Creature — Crab,C,{4}{U},5,2,5,,0.03,,U
+Enchantment — Aura,U,{B},1,,,,0.08,,B
+Creature — Human Wizard,C,{2}{W},3,2,2,,0.08,,W
+Enchantment — Aura,R,{1}{R}{R}{R},4,,,,0.23,,R
+Creature — Human Cleric,U,{1}{W}{W},3,2,2,,0.07,,W
+Enchantment,U,{R},1,,,,0.13,,R
+Creature — Sliver,U,{4}{R},5,3,3,,0.25,,R
+Enchantment — Aura,U,{W}{W},2,,,,0.07,,W
+Creature — Human Wizard,U,{3}{B},4,2,3,,0.09,,B
+Creature — Vampire,C,{2}{B},3,2,2,,0.09,,B
+Creature — Sliver,C,{2}{R},3,2,2,,0.24,,R
+Creature — Human Wizard,R,{3}{B},4,1,3,,0.15,,B
+Creature — Sliver,R,{3}{W},4,2,2,,7,,W
+Sorcery,U,{2}{G}{G},4,,,,0.1,,G
+Instant,U,{W},1,,,,0.93,,W
+Creature — Wolf,U,{3}{G},4,3,3,,0.06,,G
+Creature — Boar,C,{2}{G},3,2,2,,0.03,,G
+Artifact,U,{2},2,,,,0.11,,
+Enchantment,R,{3}{R},4,,,,2.09,,R
+Instant,C,{1}{U}{U},3,,,,0.05,,U
+Creature — Minotaur Warrior,C,{3}{R},4,3,3,,0.03,,R
+Creature — Human Knight,C,{1}{W},2,1,1,,0.05,,W
+Instant,C,{W}{W},2,,,,0.1,,W
+Legendary Planeswalker — Chandra,M,{2}{R}{R},4,,,4,0.75,,R
+Instant,C,{2}{R}{R},4,,,,0.03,,R
+Creature — Phoenix,R,{1}{R}{R},3,2,2,,0.23,,R
+Creature — Griffin,C,{3}{W},4,2,2,,0.02,,W
+Creature — Vampire,C,{1}{B},2,2,1,,0.06,,B
+Enchantment — Aura,C,{1}{U}{U},3,,,,0.03,,U
+Creature — Shapeshifter,R,{3}{U},4,0,0,,0.28,,U
+Creature — Whale,R,{5}{U}{U},7,5,5,,0.24,,U
+Instant,U,{3}{W},4,,,,0.1,,W
+Creature — Merfolk,C,{1}{U},2,2,1,,0.02,,U
+Creature — Human Rogue,C,{1}{B},2,2,1,,0.03,,B
+Sorcery,U,{5}{B},6,,,,0.08,,B
+Creature — Cyclops,C,{5}{R},6,3,4,,0.12,,R
+Enchantment — Aura,C,{1}{B},2,,,,0.05,,B
+Enchantment,R,{B}{B}{B},3,,,,3.17,,B
+Artifact,M,{9},9,,,,24.56,,
+Artifact,U,{3},3,,,,0.28,,
+Creature — Human Knight,C,{3}{W}{W},5,2,4,,0.04,,W
+Creature — Spider,C,{1}{G},2,1,2,,0.12,,G
+Creature — Cockatrice,C,{2}{B}{B},4,2,2,,0.09,,B
+Sorcery,C,{3}{R},4,,,,0.03,,R
+Sorcery,M,{6}{W},7,,,,2.41,,W
+Sorcery,U,{2}{B}{B},4,,,,0.84,,B
+Enchantment,R,{6}{U},7,,,,1.21,,U
+Instant,C,{1}{U},2,,,,0.04,,U
+Sorcery,C,{2}{U},3,,,,0.03,,U
+Enchantment — Aura,C,{1}{W},2,,,,0.04,,W
+Enchantment — Aura,R,{2}{U}{U},4,,,,0.13,,U
+Instant,U,{1}{B},2,,,,0.22,,B
+Artifact,R,{4},4,,,,12.76,,
+Creature — Dragon Egg,U,{2}{R},3,0,2,,0.11,,R
+Creature — Dragon,C,{1}{R},2,0,1,,0.06,,R
+Sorcery,C,{B},1,,,,0.06,,B
+Creature — Human Wizard,R,{3}{U},4,1,1,,0.37,,U
+Artifact,U,{1},1,,,,0.71,,
+Creature — Elf Druid,C,{G},1,1,1,,0.32,,G
+Land,U,,0,,,,0.15,,
+Sorcery,U,{3}{G}{G},5,,,,0.13,,G
+Instant,C,{1}{U},2,,,,0.05,,U
+Creature — Salamander,C,{B},1,1,1,,0.06,,B
+Creature — Human Knight,R,{1}{W}{W},3,2,2,,1.45,,W
+Artifact — Equipment,U,{3},3,,,,0.21,,
+Sorcery,U,{2}{R},3,,,,0.07,,R
+Creature — Giant,U,{5}{R}{R},7,4,4,,0.07,,R
+Instant,C,{G},1,,,,0.12,,G
+Basic Land — Forest,C,,0,,,,0.1,,
+Instant,C,{2}{W},3,,,,0.02,,W
+Instant,C,{2}{U},3,,,,0.04,,U
+Creature — Sliver,R,{U},1,1,1,,8.75,,U
+Legendary Planeswalker — Garruk,M,{4}{G}{G},6,,,4,3.41,,G
+Creature — Beast,R,{5}{G}{G},7,7,7,,0.21,,G
+Instant,C,{G},1,,,,0.07,,G
+Creature — Spider,C,{3}{G},4,2,4,,0.03,,G
+Creature — Elf Scout,C,{G},1,1,1,,0.2,,G
+Sorcery,U,{2}{U},3,,,,0.04,,U
+Creature — Zombie,U,{1}{B},2,1,3,,0.09,,B
+Creature — Goblin,R,{1}{R},2,2,1,,0.31,,R
+Creature — Goblin Scout,C,{1}{R},2,2,1,,0.06,,R
+Creature — Griffin,C,{2}{W},3,1,3,,0.02,,W
+Instant,R,{2}{B},3,,,,0.36,,B
+Creature — Sliver,C,{6}{G},7,5,5,,0.16,,G
+Artifact Creature — Golem,R,{7},7,7,7,,0.19,,
+Artifact — Equipment,R,{4},4,,,,0.13,,
+Sorcery,C,{2}{W},3,,,,0.19,,W
+Sorcery,U,{6}{G},7,,,,0.17,,G
+Sorcery,C,{3}{G},4,,,,0.03,,G
+Enchantment — Aura,U,{4}{U},5,,,,0.02,,U
+Creature — Human Noble,R,{1}{W},2,2,1,,0.31,,W
+Enchantment — Aura,R,{3}{W},4,,,,1.23,,W
+Enchantment,R,{3}{G},4,,,,0.41,,G
+Basic Land — Island,C,,0,,,,0.11,,
+Legendary Planeswalker — Jace,M,{3}{U}{U},5,,,4,7.69,,U
+Creature — Fish Illusion,R,{4}{U}{U},6,4,4,,0.24,,U
+Creature — Hydra,M,{3}{G}{G},5,0,0,,14.4,,G
+Creature — Beast,U,{G}{G},2,3,3,,0.15,,G
+Sorcery,C,{4}{R},5,,,,0.04,,R
+Sorcery,C,{G},1,,,,0.05,,G
+Creature — Zombie Warrior,R,{1}{B}{B},3,3,1,,0.87,,B
+Enchantment — Aura,C,{2}{R},3,,,,0.06,,R
+Legendary Planeswalker — Liliana,M,{2}{B}{B},4,,,3,15.92,,B
+Creature — Zombie,R,{2}{B}{B},4,4,3,,0.33,,B
+Sorcery,C,{3}{B}{B},5,,,,0.06,,B
+Creature — Sliver,U,{1}{G},2,1,1,,1.34,,G
+Creature — Beast,C,{2}{R}{R},4,5,3,,0.02,,R
+Enchantment — Aura,C,{3}{B},4,,,,0.04,,B
+Creature — Human Scout,C,{2}{W},3,2,2,,0.04,,W
+Creature — Sliver,R,{5}{G},6,3,3,,1.27,,G
+Creature — Merfolk Rogue,C,{U},1,1,1,,0.08,,U
+Creature — Drake,C,{3}{U}{U},5,3,3,,0.03,,U
+Artifact,U,{2},2,,,,0.07,,
+Sorcery,C,{2}{B},3,,,,0.06,,B
+Creature — Elemental,R,{1}{R}{R},3,3,2,,0.12,,R
+Creature — Zombie Minotaur,C,{4}{B}{B},6,4,6,,0.03,,B
+Sorcery,U,{1}{R}{R},3,,,,0.12,,R
+Basic Land — Mountain,C,,0,,,,0.08,,
+Land,R,,0,,,,6.96,,
+Instant,C,{1}{G},2,,,,0.05,,G
+Instant,C,{1}{U},2,,,,0.1,,U
+Creature — Bird,C,{3}{U},4,2,3,,0.02,,U
+Creature — Nightmare Horse,R,{5}{B},6,*,*,,0.15,,B
+Creature — Shade,C,{4}{B},5,2,2,,0.03,,B
+Enchantment,R,{2}{G},3,,,,0.24,,G
+Creature — Ogre Warrior,R,{2}{R}{R},4,3,3,,0.66,,R
+Instant,U,{4}{U}{U},6,,,,0.09,,U
+Enchantment — Aura,C,{1}{W},2,,,,0.02,,W
+Enchantment,R,{2}{W},3,,,,0.23,,W
+Instant,C,{W},1,,,,0.04,,W
+Creature — Illusion Warrior,U,{1}{U}{U},3,2,2,,0.07,,U
+Creature — Ox,C,{3}{W},4,2,4,,0.02,,W
+Creature — Devil,C,{4}{R},5,3,3,,0.06,,R
+Basic Land — Plains,C,,0,,,,0.11,,
+Sorcery,R,{3}{W}{W}{W},6,,,,0.21,,W
+Instant,C,{1}{G},2,,,,0.04,,G
+Creature — Sliver,C,{1}{G},2,1,1,,0.26,,G
+Enchantment,M,{5}{G},6,,,,1.04,,G
+Artifact,R,{5},5,,,,0.28,,
+Enchantment — Aura,C,{2}{B},3,,,,0.04,,B
+Instant,R,{U},1,,,,0.53,,U
+Instant,C,{G},1,,,,0.06,,G
+Artifact,R,{2},2,,,,0.62,,
+Creature — Elemental Cat,C,{2}{R},3,4,1,,0.05,,R
+Artifact,M,{5},5,,,,6.01,,
+Sorcery,M,{7}{B}{B},9,,,,14.44,,B
+Artifact,U,{4},4,,,,0.02,,
+Creature — Lizard,C,{2}{G},3,2,2,,0.06,,G
+Creature — Beast,C,{2}{G}{G},4,4,4,,0.04,,G
+Enchantment,R,{3}{B}{B},5,,,,2.67,,B
+Instant,R,{G},1,,,,0.67,,G
+Creature — Ooze,R,{1}{G},2,2,2,,0.37,,G
+Creature — Dragon,M,{2}{R}{R}{R},5,4,4,,2.24,,R
+Creature — Merfolk Rogue,C,{2}{U},3,1,3,,0.05,,U
+Creature — Drake,C,{1}{U},2,1,3,,0.05,,U
+Sorcery,C,{1}{R},2,,,,0.04,,R
+Creature — Vampire,U,{3}{B}{B},5,4,4,,0.07,,B
+Enchantment — Aura,C,{U},1,,,,0.03,,U
+Creature — Sliver,C,{1}{W},2,2,2,,0.41,,W
+Creature — Angel,R,{3}{W},4,3,3,,0.4,,W
+Creature — Angel,U,{3}{W}{W},5,4,4,,0.09,,W
+Creature — Human Cleric,C,{B},1,1,1,,1.99,,B
+Creature — Demon,M,{3}{B}{B},5,5,6,,1.26,,B
+Land,U,,0,,,,0.11,,
+Creature — Dragon,R,{4}{R}{R},6,5,5,,0.11,,R
+Enchantment — Aura,U,{2}{R}{R},4,,,,0.07,,R
+Instant,C,{R},1,,,,0.05,,R
+Instant,C,{1}{W},2,,,,0.03,,W
+Sorcery,C,{1}{B},2,,,,0.06,,B
+Creature — Elephant,C,{4}{W},5,3,5,,0.04,,W
+Instant,R,{W},1,,,,6.03,,W
+Artifact Creature — Sliver Construct,C,{3},3,2,2,,0.24,,
+Instant,C,{R},1,,,,0.05,,R
+Sorcery,C,{2}{W},3,,,,0.04,,W
+Creature — Human Cleric,C,{W},1,1,1,,0.07,,W
+Instant,U,{X}{U},1,,,,0.05,,U
+Creature — Fungus,C,{3}{G}{G},5,3,3,,0.16,,G
+Artifact,U,{3},3,,,,0.18,,
+Artifact,U,{3},3,,,,0.08,,
+Artifact,U,{3},3,,,,0.12,,
+Artifact,U,{3},3,,,,0.14,,
+Artifact,U,{3},3,,,,0.11,,
+Creature — Sliver,U,{2}{W},3,2,2,,0.17,,W
+Creature — Rhino Cleric,U,{5}{W},6,4,4,,0.04,,W
+Creature — Sliver,C,{R},1,1,1,,0.27,,R
+Artifact,R,{2},2,,,,3.72,,
+Creature — Bird,C,{W},1,1,1,,0.05,,W
+Basic Land — Swamp,C,,0,,,,0.1,,
+Creature — Sliver,R,{2}{B},3,2,2,,7.78,,B
+Creature — Skeleton Warrior,U,{B},1,1,1,,0.11,,B
+Creature — Sliver,R,{4}{R},5,2,2,,2.17,,R
+Instant,C,{1}{R},2,,,,0.02,,R
+Creature — Merfolk Wizard,R,{U}{U},2,2,2,,0.26,,U
+Sorcery,C,{2}{U},3,,,,0.06,,U
+Sorcery,C,{U},1,,,,0.16,,U
+Artifact,R,{4},4,,,,0.6,,
+Creature — Bird,C,{2}{U},3,2,1,,0.05,,U
+Sorcery,R,{3}{U}{U},5,,,,3.2,,U
+Enchantment — Aura,C,{2}{G},3,,,,0.08,,G
+Creature — Zombie Minotaur,C,{2}{B},3,2,3,,0.04,,B
+Creature — Vampire Warrior,U,{4}{B},5,4,2,,0.09,,B
+Creature — Hydra,R,{X}{G}{G},2,0,0,,0.47,,G
+Enchantment — Aura,C,{2}{G},3,,,,0.05,,G
+Artifact,U,{1},1,,,,0.08,,
+Instant,C,{B},1,,,,0.05,,B
+Instant,U,{X}{R}{R},2,,,,0.03,,R
+Creature — Wurm,U,{1}{G},2,2,2,,0.11,,G
+Creature — Wall,U,{1}{U}{U},3,0,7,,0.16,,U
+Creature — Wall,U,{3}{W},4,3,5,,0.1,,W
+Creature — Bird Wizard,U,{2}{U},3,2,2,,0.09,,U
+Creature — Elemental,U,{2}{U}{U},4,3,4,,0.02,,U
+Sorcery,C,{R}{R},2,,,,0.19,,R
+Instant,R,{2}{R}{R},4,,,,0.21,,R
+Creature — Sphinx,M,{5}{U}{U},7,3,7,,0.27,,U
+Instant,U,{X}{G},1,,,,0.07,,G
+Creature — Wolf,R,{1}{G}{G},3,3,3,,0.31,,G
+Creature — Elemental,U,{3}{G}{G},5,4,4,,0.04,,G
+Instant,C,{B},1,,,,0.02,,B
+Creature — Human Wizard,R,{2}{B},3,2,2,,0.21,,B
+Creature — Human Shaman,U,{1}{R},2,2,1,,0.31,,R
+Enchantment,C,{1}{U},2,,,,0.03,,U
+Creature — Spirit,C,{3}{B},4,3,2,,0.04,,B
+Sorcery,U,{2}{R},3,,,,0.17,,R
+Creature — Angel,R,{4}{W}{W},6,5,5,,0.27,,W
+Creature — Human Artificer,C,{2}{U},3,2,3,,0.03,,U
+Instant,R,{3}{U}{U},5,,,,0.43,,U
+Enchantment,R,{3}{R},4,,,,0.42,,R
+Legendary Planeswalker — Ajani,M,{3}{W},4,,,4,7.36,,W
+Creature — Cat Soldier,U,{1}{W},2,2,2,,0.19,,W
+Creature — Human Berserker,U,{1}{R},2,2,1,,0.07,,R
+Creature — Salamander Wizard,C,{3}{U},4,3,2,,0.03,,U
+Creature — Ape,U,{4}{G}{G},6,6,5,,0.09,,G
+Legendary Creature — Angel,R,{2}{W}{W}{W},5,5,4,,0.54,,W
+Artifact — Equipment,R,{4},4,,,,0.23,,
+Instant,U,{1}{G},2,,,,0.23,,G
+Enchantment — Aura,U,{2}{W},3,,,,0.21,,W
+Land,R,,0,,,,1.24,,RW
+Creature — Sliver,U,{2}{R},3,2,2,,0.28,,R
+Creature — Zombie Cat,C,{1}{B},2,1,1,,0.09,,B
+Instant,C,{5}{R},6,,,,0.03,,R
+Creature — Vampire,U,{3}{B}{B},5,3,3,,0.09,,B
+Creature — Giant Monk,U,{6}{W},7,4,4,,0.21,,W
+Creature — Human Warrior,C,{1}{R},2,1,2,,0.01,,R
+Artifact — Equipment,U,{3},3,,,,0.09,,
+Artifact Creature — Sable,C,{2},2,2,1,,0.01,,
+Creature — Human Shaman,U,{3}{R},4,2,3,,0.08,,R
+Enchantment — Aura,R,{4}{R},5,,,,0.3,,R
+Instant,C,{1}{U}{U},3,,,,0.09,,U
+Creature — Plant Elemental Beast,C,{4}{G}{G},6,4,5,,0.03,,G
+Creature — Zombie Bird,C,{2}{B},3,2,2,,0.04,,B
+Enchantment — Aura,U,{4}{B}{B},6,,,,0.05,,B
+Land,R,,0,,,,0.63,,WB
+Creature — Centaur Warrior,C,{2}{G},3,3,3,,0.1,,G
+Legendary Planeswalker — Chandra,M,{2}{R}{R},4,,,4,0.86,,R
+Creature — Rhino,C,{3}{G}{G},5,4,4,,0.01,,G
+Creature — Squid Horror,R,{2}{U},3,1,1,,0.57,,U
+Creature — Vedalken Artificer,R,{1}{U},2,1,3,,0.91,,U
+Creature — Vampire,C,{1}{B},2,2,1,,0.05,,B
+Instant,R,{X}{G}{G}{G},3,,,,6.5,,G
+Instant,C,{5}{U},6,,,,0.07,,U
+Enchantment,U,{1}{R},2,,,,0.25,,R
+Sorcery,C,{R},1,,,,0.01,,R
+Sorcery,U,{3}{R}{R},5,,,,0.04,,R
+Instant,U,{3}{W},4,,,,0.15,,W
+Creature — Sliver,U,{5}{W},6,3,3,,0.57,,W
+Creature — Wall,C,{2}{U},3,1,3,,0.1,,U
+Sorcery,C,{6}{B},7,,,,0.04,,B
+Enchantment — Aura,C,{B},1,,,,0.06,,B
+Instant,C,{R},1,,,,0.05,,R
+Enchantment,R,{3}{R},4,,,,1.95,,R
+Creature — Human Assassin,R,{B},1,1,1,,0.21,,B
+Artifact Land,U,,0,,,,0.45,,
+Creature — Human Soldier,U,{1}{W},2,2,1,,0.05,,WU
+Instant,U,{1}{W}{W},3,,,,0.12,,W
+Creature — Sliver,U,{1}{U},2,1,1,,1.66,,U
+Instant,U,{1}{U}{U},3,,,,0.16,,U
+Sorcery,C,{2}{U},3,,,,0.06,,U
+Enchantment — Aura,C,{1}{W},2,,,,0.07,,W
+Instant,C,{3}{W},4,,,,0.03,,W
+Creature — Elf Druid,C,{G},1,1,1,,0.35,,G
+Enchantment — Aura,C,{1}{U}{U},3,,,,0.05,,U
+Sorcery,U,{4}{B}{B},6,,,,0.1,,B
+Enchantment — Aura,U,{1}{U},2,,,,0.37,,U
+Instant,C,{1}{W},2,,,,0.1,,W
+Enchantment — Aura,C,{1}{B},2,,,,0.17,,B
+Land,C,,0,,,,0.18,,
+Enchantment,U,{2}{B},3,,,,0.22,,B
+Sorcery,U,{8}{G},9,,,,0.06,,G
+Sorcery,C,{2}{B},3,,,,0.03,,B
+Enchantment,U,{3}{W},4,,,,0.09,,W
+Instant,C,{3}{B}{B},5,,,,0.03,,B
+Basic Land — Forest,C,,0,,,,0.09,,
+Creature — Devil,C,{R},1,1,1,,0.03,,R
+Creature — Goblin Warrior,C,{R},1,1,1,,0.19,,R
+Creature — Goblin Berserker,U,{R},1,1,1,,0.18,,R
+Creature — Elemental Cat,C,{2}{U},3,2,2,,0.02,,U
+Creature — Human Wizard,C,{U},1,1,1,,0.02,,U
+Creature — Dragon,U,{2}{R}{R},4,2,2,,0.02,,R
+Artifact Creature — Gargoyle,U,{3},3,3,3,,0.06,,
+Legendary Planeswalker — Garruk,M,{5}{B}{G},7,,,5,21.93,,BG
+Creature — Beast,U,{4}{G},5,4,4,,0.25,,G
+Instant,U,{G},1,,,,0.02,,G
+Creature — Spirit,U,{1}{W}{W},3,3,1,,0.03,,W
+Creature — Elemental,C,{1}{R},2,2,1,,0.09,,R
+Creature — Plant Hydra,R,{X}{G}{G},2,0,0,,0.29,,G
+Creature — Elemental,C,{4}{U}{U},6,5,5,,0.02,,U
+Creature — Goblin Warrior,R,{1}{R},2,1,2,,0.24,,R
+Creature — Goblin Warrior,R,{2}{R},3,2,2,,3.03,,R
+Creature — Goblin Knight,C,{2}{R},3,3,2,,0.07,,R
+Creature — Zombie,U,{3}{B},4,2,2,,0.08,,B
+Artifact,R,{2},2,,,,0.24,,
+Enchantment — Aura,C,{R},1,,,,0.05,,R
+Artifact — Equipment,R,{4},4,,,,0.14,,
+Instant,U,{X}{R},1,,,,0.06,,R
+Creature — Human Cleric,C,{2}{W},3,1,2,,0.11,,W
+Creature — Dragon,R,{3}{R}{R},5,4,4,,0.24,,R
+Creature — Insect,R,{2}{G},3,0,2,,0.76,,G
+Creature — Insect,R,{4}{G}{G}{G},7,2,2,,0.42,,G
+Artifact — Equipment,U,{1},1,,,,0.22,,
+Sorcery,C,{3}{G},4,,,,0.05,,G
+Instant,C,{2}{G},3,,,,0.06,,G
+Creature — Hippogriff,R,{2}{W},3,2,1,,0.36,,W
+Instant,C,{U},1,,,,0.04,,U
+Creature — Angel Illusion,U,{2}{U},3,4,4,,0.14,,U
+Sorcery,R,{7}{B}{B},9,,,,1.01,,B
+Creature — Demon,R,{3}{B}{B},5,5,3,,0.51,,B
+Enchantment — Aura,C,{1}{R},2,,,,0.07,,R
+Instant,C,{2}{W}{W},4,,,,0.05,,W
+Sorcery,U,{3}{U},4,,,,0.04,,U
+Creature — Insect,C,{2}{G},3,3,3,,0.07,,G
+Enchantment — Aura,C,{U}{U},2,,,,0.05,,U
+Basic Land — Island,C,,0,,,,0.07,,
+Legendary Planeswalker — Jace,M,{2}{U}{U},4,,,5,1.32,,U
+Instant,U,{3}{U}{U},5,,,,0.08,,U
+Legendary Creature — Human Wizard,R,{3}{U},4,2,2,,0.25,,U
+Creature — Leech,U,{2}{U},3,1,3,,0.05,,UB
+Artifact Creature — Juggernaut,U,{4},4,5,3,,0.03,,
+Creature — Treefolk Warrior,R,{5}{G},6,*,*,,0.29,,G
+Creature — Fish,U,{4}{U}{U},6,3,3,,0.12,,U
+Creature — Kithkin Soldier,C,{1}{W},2,2,2,,0.04,,W
+Creature — Ape,U,{3}{R},4,3,3,,0.11,,GR
+Creature — Goblin Warrior,C,{1}{R}{R},3,2,2,,0.09,,R
+Legendary Creature — Ogre Spirit,R,{2}{R}{R},4,4,3,,0.24,,R
+Sorcery,C,{4}{R},5,,,,0.05,,R
+Creature — Sliver,U,{1}{B},2,1,1,,0.75,,B
+Sorcery,R,{1}{G},2,,,,1.32,,G
+Instant,C,{1}{R},2,,,,0.09,,R
+Legendary Planeswalker — Liliana,M,{3}{B}{B},5,,,5,5.72,,B
+Creature — Plant Elemental,C,{3}{G},4,2,3,,0.04,,G
+Land,R,,0,,,,1.13,,BG
+Creature — Djinn,R,{4}{U}{U},6,5,6,,0.06,,U
+Enchantment — Aura,C,{3}{W},4,,,,0.05,,W
+Sorcery,R,{5}{W}{W},7,,,,2.79,,W
+Creature — Sphinx,R,{3}{U}{U},5,4,4,,0.25,,U
+Instant,C,{3}{W}{W},5,,,,0.04,,W
+Creature — Shapeshifter,R,{4}{U},5,0,0,,0.27,,U
+Artifact,U,{5},5,,,,0.04,,
+Creature — Human Soldier,C,{2}{W},3,2,3,,0.09,,W
+Enchantment,U,{5}{R},6,,,,0.12,,R
+Enchantment,U,{1}{U},2,,,,0.19,,U
+Sorcery,C,{2}{B},3,,,,0.02,,B
+Sorcery,C,{1}{U},2,,,,0.21,,U
+Creature — Elemental,C,{4}{R}{R},6,6,3,,0.02,,R
+Basic Land — Mountain,C,,0,,,,0.09,,
+Instant,C,{1}{G},2,,,,0.05,,G
+Instant,C,{2}{B},3,,,,0.05,,B
+Creature — Phyrexian Horror,U,{2}{B},3,3,3,,0.04,,B
+Creature — Zombie,C,{2}{B},3,3,1,,0.07,,B
+Enchantment,R,{1}{B},2,,,,0.26,,B
+Instant,C,{1}{U},2,,,,0.1,,U
+Creature — Spider,C,{2}{G},3,2,3,,0.02,,G
+Creature — Zombie Giant,U,{4}{B},5,4,3,,0.09,,BR
+Creature — Nightmare Horse,R,{5}{B},6,*,*,,0.12,,B
+Creature — Elemental,C,{4}{U},5,3,3,,0.04,,U
+Legendary Planeswalker — Nissa,M,{3}{G}{G},5,,,3,4.3,,G
+Sorcery,U,{4}{G},5,,,,0.13,,G
+Legendary Creature — Demon,R,{4}{B}{B},6,4,4,,1.72,,B
+Artifact,R,{6},6,,,,1.9,,
+Enchantment — Aura,C,{W},1,,,,0.07,,W
+Creature — Cat Warrior,C,{1}{W},2,3,1,,0.02,,W
+Artifact Creature — Thopter,C,{0},0,0,2,,0.21,,
+Sorcery,U,{5}{G}{G},7,,,,0.05,,G
+Creature — Human Druid,U,{3}{G},4,2,2,,0.19,,G
+Creature — Human Warrior,U,{3}{R},4,2,2,,0.16,,R
+Creature — Human Wizard,U,{3}{U},4,2,2,,0.18,,U
+Creature — Human Soldier,U,{3}{W},4,2,2,,0.2,,W
+Creature — Skeleton Warrior,U,{3}{B},4,2,2,,0.25,,B
+Instant,C,{1}{U},2,,,,0.03,,U
+Artifact,M,{4},4,,,,1.81,,
+Artifact Creature — Phyrexian Horror,R,{2},2,2,1,,0.43,,
+Creature — Plant Elemental,R,{4}{G}{G},6,7,2,,0.4,,G
+Instant,C,{2}{W},3,,,,0.05,,W
+Basic Land — Plains,C,,0,,,,0.06,,
+Instant,C,{1}{G},2,,,,0.02,,G
+Instant,R,{1}{U}{U},3,,,,3.17,,U
+Creature — Kithkin Soldier,R,{2}{W},3,2,2,,0.42,,W
+Artifact,U,{1},1,,,,0.42,,
+Creature — Faerie Rogue,U,{1}{U},2,2,2,,0.21,,U
+Land,C,,0,,,,0.21,,
+Instant,C,{1}{W},2,,,,0.03,,W
+Instant,C,{G},1,,,,0.08,,G
+Creature — Griffin,C,{3}{W},4,2,2,,0.01,,W
+Creature — Elf Shaman,U,{2}{G},3,2,1,,0.32,,G
+Creature — Human Wizard,C,{1}{U},2,1,3,,0.04,,U
+Creature — Angel,R,{5}{W}{W},7,4,4,,0.91,,W
+Sorcery,U,{3}{G}{G},5,,,,0.19,,G
+Sorcery,R,{X}{W}{W},2,,,,2.52,,W
+Creature — Beast,U,{3}{G},4,4,4,,0.06,,G
+Artifact — Equipment,U,{2},2,,,,0.22,,
+Creature — Insect,C,{4}{B},5,3,5,,0.03,,B
+Creature — Goblin Rogue,C,{2}{R},3,1,1,,0.05,,R
+Creature — Bear,C,{1}{G},2,2,2,,0.11,,G
+Artifact,U,{2},2,,,,0.17,,
+Instant,C,{4}{W},5,,,,0.02,,W
+Creature — Satyr,C,{1}{G},2,1,1,,0.11,,G
+Creature — Dog,C,{3}{R},4,3,3,,0.08,,R
+Artifact Creature — Construct,R,{6},6,6,6,,0.22,,
+Instant,C,{2}{R},3,,,,0.09,,R
+Creature — Human Cleric,C,{W},1,1,1,,0.04,,W
+Creature — Vampire,U,{3}{B}{B},5,4,4,,0.12,,B
+Creature — Angel,U,{5}{W}{W},7,*,*,,0.13,,W
+Creature — Angel,U,{3}{W}{W},5,4,4,,0.09,,W
+Creature — Vampire,C,{4}{B},5,4,3,,0.03,,B
+Creature — Elf Shaman,C,{3}{G},4,2,2,,0.09,,G
+Artifact — Equipment,R,{1},1,,,,0.21,,
+Creature — Dragon,R,{4}{R}{R},6,5,5,,0.11,,R
+Land,R,,0,,,,1.59,,UR
+Instant,U,{1}{R},2,,,,0.23,,R
+Creature — Dragon,R,{5}{R}{R},7,5,5,,0.29,,R
+Creature — Wurm,C,{5}{G}{G},7,5,5,,0.05,,G
+Sorcery,C,{B}{B},2,,,,0.34,,B
+Land,R,,0,,,,10.15,,
+Legendary Creature — Sliver,M,{W}{U}{B}{R}{G},5,5,5,,13.62,,WUBGR
+Sorcery,C,{2}{W},3,,,,0.06,,W
+Creature — Avatar,M,{4}{B}{B},6,6,6,,0.28,,B
+Artifact Creature — Phyrexian Avatar,M,{6},6,6,6,,2.27,,
+Creature — Avatar,M,{4}{U}{U},6,6,6,,0.29,,U
+Creature — Avatar,M,{4}{R}{R},6,6,6,,0.25,,R
+Creature — Avatar,M,{4}{W}{W},6,6,6,,0.37,,W
+Creature — Avatar,M,{4}{G}{G},6,6,6,,0.24,,G
+Creature — Human Cleric,C,{W},1,1,1,,0.05,,W
+Enchantment — Aura,R,{3}{W}{W},5,,,,2.21,,W
+Enchantment,R,{1}{W},2,,,,0.39,,W
+Enchantment — Aura,U,{2}{B},3,,,,0.09,,B
+Artifact,U,{3},3,,,,0.23,,
+Artifact,U,{3},3,,,,0.12,,
+Artifact,U,{3},3,,,,0.16,,
+Artifact,U,{3},3,,,,0.14,,
+Artifact,U,{3},3,,,,0.11,,
+Sorcery,R,{4}{B},5,,,,0.14,,B
+Instant,C,{2}{U}{U},4,,,,0.08,,U
+Instant,U,{2}{R}{R},4,,,,0.26,,R
+Creature — Leviathan,R,{5}{U}{U}{U},8,8,8,,0.36,,U
+Creature — Elf Warrior,U,{G},1,1,1,,0.09,,GW
+Creature — Pegasus,C,{1}{W},2,1,2,,0.11,,W
+Basic Land — Swamp,C,,0,,,,0.1,,
+Creature — Beast,R,{3}{G}{G}{G},6,8,8,,0.19,,G
+Legendary Artifact,M,{4},4,,,,23.35,,
+Creature — Giant,C,{3}{R}{R},5,4,3,,0.03,,R
+Creature — Human Cleric,C,{4}{W},5,2,3,,0.01,,W
+Instant,C,{1}{G},2,,,,0.04,,G
+Creature — Devil,C,{1}{R},2,2,1,,0.09,,R
+Artifact,U,{0},0,,,,0.39,,
+Sorcery,C,{4}{W}{W},6,,,,0.09,,W
+Instant,U,{1}{U},2,,,,0.11,,U
+Creature — Rat,C,{B},1,1,1,,0.12,,B
+Artifact,C,{2},2,,,,0.03,,
+Instant,U,{B},1,,,,0.15,,B
+Creature — Fungus Horror,C,{3}{G},4,0,0,,0.15,,G
+Instant,C,{4}{B},5,,,,0.06,,B
+Legendary Land,R,,0,,,,35.85,,
+Creature — Sliver,U,{1}{G},2,1,1,,1.9,,G
+Enchantment — Aura,C,{2}{G},3,,,,0.08,,G
+Enchantment — Aura,C,{G},1,,,,0.06,,G
+Sorcery,C,{U},1,,,,0.18,,U
+Creature — Zombie,C,{1}{B},2,2,2,,0.17,,B
+Creature — Wall,U,{1}{W},2,0,4,,0.24,,W
+Creature — Wall,C,{1}{R}{R},3,0,5,,0.04,,R
+Creature — Wall,U,{1}{U}{U},3,0,7,,0.19,,U
+Creature — Zombie Wall,U,{2}{B},3,0,3,,0.19,,B
+Creature — Wall,U,{1}{G},2,0,4,,0.23,,G
+Creature — Human Wizard,U,{2}{W},3,2,2,,0.04,,W
+Enchantment,R,{1}{B},2,,,,10.99,,B
+Creature — Bird,C,{1}{U},2,2,1,,0.04,,U
+Artifact Creature — Golem,C,{6},6,4,4,,0.06,,
+Creature — Frog,C,{2}{B},3,2,3,,0.07,,B
+Creature — Human Assassin,U,{2}{B},3,2,1,,0.12,,B
+Land,R,,0,,,,0.43,,GU
+Legendary Creature — Human Rogue Bard,R,{2}{G},3,2,3,,1.43,,G
+Creature — Shade,C,{3}{B},4,2,2,,0.04,,B
+Legendary Planeswalker — Ugin,M,{8},8,,,7,23.37,,
+Legendary Planeswalker — Basri,M,{1}{W}{W},3,,,3,2.89,,W
+Legendary Planeswalker — Teferi,M,{2}{U}{U},4,,,3,8.99,,U
+Legendary Planeswalker — Liliana,M,{2}{B}{B},4,,,4,7.44,,B
+Legendary Planeswalker — Chandra,M,{3}{R}{R},5,,,5,1.34,,R
+Legendary Planeswalker — Garruk,M,{2}{G}{G},4,,,4,1.64,,G
+Legendary Planeswalker — Ugin,M,{8},8,,,7,23.08,,
+Legendary Planeswalker — Basri,M,{1}{W}{W},3,,,3,1.34,,W
+Creature — Cat Cleric,C,{2}{W}{W},4,2,3,,0.02,,W
+Creature — Human Knight,R,{3}{W},4,3,4,,0.23,,W
+Sorcery,U,{1}{W},2,,,,0.14,,W
+Legendary Planeswalker — Teferi,M,{2}{U}{U},4,,,3,5.75,,U
+Legendary Planeswalker — Teferi,M,{2}{U}{U},4,,,3,5.51,,U
+Legendary Planeswalker — Teferi,M,{2}{U}{U},4,,,3,6.38,,U
+Legendary Enchantment,R,{2}{U}{U},4,,,,1.72,,U
+Creature — Human Wizard,C,{2}{U},3,2,3,,0.02,,U
+Enchantment,U,{2}{U},3,,,,0.11,,U
+Legendary Planeswalker — Liliana,M,{2}{B}{B},4,,,4,2.11,,B
+Creature — Human Warlock,U,{2}{B},3,2,3,,0.05,,B
+Creature — Zombie Knight,R,{2}{B},3,3,1,,0.21,,B
+Creature — Zombie,C,{B},1,1,2,,0.06,,B
+Legendary Planeswalker — Chandra,M,{3}{R}{R},5,,,5,0.89,,R
+Creature — Elemental,R,{5}{R},6,6,6,,0.37,,R
+Creature — Elemental Dog,C,{1}{R},2,2,2,,0.06,,R
+Creature — Elemental Lizard,U,{1}{R},2,1,3,,0.06,,R
+Legendary Planeswalker — Garruk,M,{2}{G}{G},4,,,4,1.31,,G
+Creature — Beast,C,{4}{G},5,7,3,,0.04,,G
+Creature — Beast,R,{1}{G}{G},3,4,3,,0.19,,G
+Enchantment,U,{2}{G},3,,,,2.03,,G
+Basic Land — Plains,C,,0,,,,0.32,,
+Basic Land — Island,C,,0,,,,0.61,,
+Basic Land — Swamp,C,,0,,,,0.98,,
+Basic Land — Mountain,C,,0,,,,0.73,,
+Basic Land — Forest,C,,0,,,,0.49,,
+Creature — Human Cleric,R,{1}{W},2,2,2,,0.36,,W
+Sorcery,M,{1}{B}{B},3,,,,17.14,,B
+Creature — Phyrexian Wurm,M,{3}{B}{B}{B},6,6,5,,4.39,,B
+Sorcery,R,{2}{G},3,,,,2.1,,G
+Creature — Ooze,R,{1}{G},2,2,2,,0.87,,G
+Artifact Creature — Golem,R,{4},4,2,2,,2.16,,
+Creature — Angel,M,{3}{W}{W},5,5,5,,8.7,,W
+Enchantment,R,{1}{W}{W},3,,,,0.73,,W
+Artifact,R,{2}{W},3,,,,0.19,,W
+Legendary Creature — Human Cleric,M,{3}{W},4,2,4,,15.96,,W
+Enchantment,R,{1}{W}{W},3,,,,1.44,,W
+Creature — Dog,R,{1}{W},2,2,2,,0.93,,W
+Enchantment,R,{W}{W},2,,,,0.22,,W
+Creature — Human Cleric,R,{W},1,1,1,,2.58,,W
+Legendary Creature — Human Wizard,R,{1}{U}{U},3,2,2,,0.91,,U
+Instant,M,{3}{U}{U}{U},6,,,,3.75,,U
+Creature — Spirit Rogue,R,{1}{U},2,2,1,,2.06,,U
+Creature — Whale,R,{5}{U}{U},7,8,8,,0.28,,U
+Sorcery,R,{1}{U},2,,,,2.49,,U
+Creature — Spirit,R,{1}{U},2,2,2,,3.41,,U
+Creature — Elemental,R,{3}{U}{U},5,3,3,,2.23,,U
+Instant,R,{4}{U}{U},6,,,,6.27,,U
+Enchantment — Aura,R,{1}{B}{B},3,,,,0.62,,B
+Creature — Snake,R,{2}{B},3,1,4,,1.3,,B
+Legendary Creature — Human Warlock,R,{2}{B}{B},4,3,2,,0.43,,B
+Sorcery,R,{1}{B}{B},3,,,,3.67,,B
+Sorcery,R,{4}{B}{B}{B},7,,,,10.62,,B
+Creature — Human Rogue,R,{B},1,1,1,,1.61,,B
+Legendary Creature — Vampire Cleric,R,{2}{B},3,1,3,,12.2,,B
+Creature — Goblin,R,{4}{R},5,1,1,,4.12,,R
+Creature — Goblin Rogue,R,{R}{R},2,2,2,,6.96,,R
+Enchantment,R,{3}{R}{R},5,,,,3.44,,R
+Enchantment,M,{3}{R}{R}{R},6,,,,28.8,,R
+Legendary Creature — Dragon,R,{2}{R},3,5,4,,4.24,,R
+Legendary Creature — Human Shaman,R,{2}{R},3,2,3,,0.51,,R
+Creature — Dragon,M,{3}{R}{R},5,5,4,,72.8,,R
+Sorcery,R,{3}{R},4,,,,2.29,,R
+Sorcery,R,{10}{R}{R},12,,,,0.24,,R
+Legendary Creature — Human Monk,R,{2}{G},3,1,2,,12.24,,G
+Creature — Beast,M,{3}{G}{G},5,6,6,,19.47,,G
+Creature — Cat,R,{2}{G},3,2,3,,2.62,,G
+Instant,R,{1}{G},2,,,,18.23,,G
+Legendary Creature — Human Druid,R,{1}{G},2,1,2,,0.68,,G
+Sorcery,R,{X}{G},1,,,,1.02,,G
+Creature — Spider,R,{2}{G},3,1,4,,0.65,,G
+Legendary Creature — Human Cleric,R,{W}{U},2,2,1,,1.01,,WU
+Legendary Creature — Elf Warrior,R,{1}{R}{G},3,3,3,,2.37,,GR
+Legendary Enchantment — Shrine,R,{W}{U}{B}{R}{G},5,,,,2.71,,WUBGR
+Legendary Artifact,M,{7},7,,,,30.87,,
+Artifact,R,{2},2,,,,2.21,,
+Artifact Creature — Masticore,R,{3},3,3,4,,0.18,,
+Land,R,,0,,,,2.7,,
+Land,R,,0,,,,9.55,,
+Land,R,,0,,,,1.8,,UR
+Land,R,,0,,,,2.02,,BG
+Land,R,,0,,,,1.24,,GU
+Land,R,,0,,,,1.76,,WB
+Land,R,,0,,,,1.78,,RW
+Creature — Dog,R,{1}{W},2,2,2,,0.34,,W
+Creature — Dog,U,{W},1,1,1,,0.54,Planeswalker,W
+Instant,C,{1}{U},2,,,,0.33,Planeswalker,U
+Instant,U,{1}{B},2,,,,0.36,Planeswalker,B
+Creature — Human Wizard,U,{1}{R},2,2,2,,0.22,Planeswalker,R
+Creature — Elf Druid,C,{2}{G},3,2,2,,0.79,Planeswalker,G
+Basic Land — Forest,C,,0,,,,0.28,,
+Basic Land — Forest,C,,0,,,,0.07,,
+Basic Land — Forest,C,,0,,,,0.08,,
+Basic Land — Island,C,,0,,,,0.08,,
+Basic Land — Island,C,,0,,,,0.07,,
+Basic Land — Island,C,,0,,,,0.08,,
+Basic Land — Mountain,C,,0,,,,0.08,,
+Basic Land — Mountain,C,,0,,,,0.15,,
+Basic Land — Mountain,C,,0,,,,0.07,,
+Basic Land — Plains,C,,0,,,,0.06,,
+Basic Land — Plains,C,,0,,,,0.08,,
+Basic Land — Plains,C,,0,,,,0.06,,
+Basic Land — Swamp,C,,0,,,,0.1,,
+Basic Land — Swamp,C,,0,,,,0.08,,
+Basic Land — Swamp,C,,0,,,,0.17,,
+Basic Land — Forest,C,,0,,,,0.91,,
+Basic Land — Forest,C,,0,,,,0.08,,
+Basic Land — Forest,C,,0,,,,0.07,,
+Basic Land — Island,C,,0,,,,0.56,,
+Basic Land — Island,C,,0,,,,0.06,,
+Basic Land — Island,C,,0,,,,0.07,,
+Basic Land — Mountain,C,,0,,,,0.61,,
+Basic Land — Mountain,C,,0,,,,0.12,,
+Basic Land — Mountain,C,,0,,,,0.06,,
+Basic Land — Plains,C,,0,,,,0.29,,
+Basic Land — Plains,C,,0,,,,0.07,,
+Basic Land — Plains,C,,0,,,,0.06,,
+Basic Land — Swamp,C,,0,,,,0.33,,
+Basic Land — Swamp,C,,0,,,,0.08,,
+Basic Land — Swamp,C,,0,,,,0.16,,
+Basic Land — Forest,C,,0,,,,0.04,,
+Basic Land — Forest,C,,0,,,,0.05,,
+Basic Land — Island,C,,0,,,,0.55,,
+Basic Land — Island,C,,0,,,,0.04,,
+Basic Land — Mountain,C,,0,,,,0.05,,
+Basic Land — Mountain,C,,0,,,,0.05,,
+Basic Land — Plains,C,,0,,,,0.25,,
+Basic Land — Plains,C,,0,,,,0.05,,
+Basic Land — Swamp,C,,0,,,,0.41,,
+Basic Land — Swamp,C,,0,,,,0.06,,
+Legendary Planeswalker — Teferi,M,{2}{U}{U},4,,,3,6.04,,U
+Legendary Planeswalker — Teferi,M,{2}{U}{U},4,,,3,5.34,,U
+Legendary Planeswalker — Teferi,M,{2}{U}{U},4,,,3,5.49,,U
+Legendary Planeswalker — Teferi,M,{2}{U}{U},4,,,3,5.25,,U
+Basic Land — Forest,C,,0,,,,0.21,,
+Basic Land — Forest,C,,0,,,,0.12,,
+Basic Land — Forest,C,,0,,,,0.11,,
+Basic Land — Island,C,,0,,,,0.12,,
+Basic Land — Island,C,,0,,,,0.16,,
+Basic Land — Island,C,,0,,,,0.12,,
+Basic Land — Mountain,C,,0,,,,0.18,,
+Basic Land — Mountain,C,,0,,,,0.13,,
+Basic Land — Mountain,C,,0,,,,0.09,,
+Basic Land — Plains,C,,0,,,,0.1,,
+Basic Land — Plains,C,,0,,,,0.12,,
+Basic Land — Plains,C,,0,,,,0.14,,
+Basic Land — Swamp,C,,0,,,,0.13,,
+Basic Land — Swamp,C,,0,,,,0.11,,
+Basic Land — Swamp,C,,0,,,,0.13,,
+Basic Land — Forest,C,,0,,,,0.08,,
+Basic Land — Forest,C,,0,,,,0.19,,
+Basic Land — Forest,C,,0,,,,0.13,,
+Basic Land — Island,C,,0,,,,0.24,,
+Basic Land — Island,C,,0,,,,0.21,,
+Basic Land — Island,C,,0,,,,0.12,,
+Basic Land — Mountain,C,,0,,,,0.1,,
+Basic Land — Mountain,C,,0,,,,0.1,,
+Basic Land — Mountain,C,,0,,,,0.15,,
+Basic Land — Plains,C,,0,,,,0.24,,
+Basic Land — Plains,C,,0,,,,0.24,,
+Basic Land — Plains,C,,0,,,,0.15,,
+Basic Land — Swamp,C,,0,,,,0.27,,
+Basic Land — Swamp,C,,0,,,,0.18,,
+Basic Land — Swamp,C,,0,,,,0.2,,
+Basic Land — Forest,C,,0,,,,0.08,,
+Basic Land — Forest,C,,0,,,,0.08,,
+Basic Land — Forest,C,,0,,,,0.07,,
+Basic Land — Island,C,,0,,,,0.11,,
+Basic Land — Island,C,,0,,,,0.11,,
+Basic Land — Island,C,,0,,,,0.13,,
+Basic Land — Mountain,C,,0,,,,0.17,,
+Basic Land — Mountain,C,,0,,,,0.08,,
+Basic Land — Mountain,C,,0,,,,0.11,,
+Basic Land — Plains,C,,0,,,,0.14,,
+Basic Land — Plains,C,,0,,,,0.11,,
+Basic Land — Plains,C,,0,,,,0.1,,
+Basic Land — Swamp,C,,0,,,,0.15,,
+Basic Land — Swamp,C,,0,,,,0.13,,
+Basic Land — Swamp,C,,0,,,,0.21,,
+Basic Land — Forest,C,,0,,,,0.1,,
+Basic Land — Forest,C,,0,,,,0.11,,
+Basic Land — Forest,C,,0,,,,0.19,,
+Basic Land — Island,C,,0,,,,0.16,,
+Basic Land — Island,C,,0,,,,0.13,,
+Basic Land — Island,C,,0,,,,0.09,,
+Basic Land — Mountain,C,,0,,,,0.08,,
+Basic Land — Mountain,C,,0,,,,0.12,,
+Basic Land — Mountain,C,,0,,,,0.15,,
+Basic Land — Plains,C,,0,,,,0.12,,
+Basic Land — Plains,C,,0,,,,0.13,,
+Basic Land — Plains,C,,0,,,,0.11,,
+Basic Land — Swamp,C,,0,,,,0.11,,
+Basic Land — Swamp,C,,0,,,,0.13,,
+Basic Land — Swamp,C,,0,,,,0.11,,
+Basic Land — Forest,C,,0,,,,0.08,,
+Basic Land — Forest,C,,0,,,,0.1,,
+Basic Land — Forest,C,,0,,,,0.1,,
+Basic Land — Island,C,,0,,,,0.07,,
+Basic Land — Island,C,,0,,,,0.11,,
+Basic Land — Island,C,,0,,,,0.12,,
+Basic Land — Mountain,C,,0,,,,0.07,,
+Basic Land — Mountain,C,,0,,,,0.08,,
+Basic Land — Mountain,C,,0,,,,0.09,,
+Basic Land — Plains,C,,0,,,,0.1,,
+Basic Land — Plains,C,,0,,,,0.09,,
+Basic Land — Plains,C,,0,,,,0.22,,
+Basic Land — Swamp,C,,0,,,,0.08,,
+Basic Land — Swamp,C,,0,,,,0.11,,
+Basic Land — Swamp,C,,0,,,,0.05,,
+Basic Land — Forest,C,,0,,,,0.07,,
+Basic Land — Forest,C,,0,,,,0.1,,
+Basic Land — Forest,C,,0,,,,0.07,,
+Basic Land — Island,C,,0,,,,0.09,,
+Basic Land — Island,C,,0,,,,0.1,,
+Basic Land — Island,C,,0,,,,0.08,,
+Basic Land — Mountain,C,,0,,,,0.1,,
+Basic Land — Mountain,C,,0,,,,0.1,,
+Basic Land — Mountain,C,,0,,,,0.1,,
+Basic Land — Plains,C,,0,,,,0.09,,
+Basic Land — Plains,C,,0,,,,0.1,,
+Basic Land — Plains,C,,0,,,,0.1,,
+Basic Land — Swamp,C,,0,,,,0.07,,
+Basic Land — Swamp,C,,0,,,,0.11,,
+Basic Land — Swamp,C,,0,,,,0.12,,
+Basic Land — Forest,C,,0,,,,0.09,,
+Basic Land — Forest,C,,0,,,,0.07,,
+Basic Land — Forest,C,,0,,,,0.1,,
+Basic Land — Island,C,,0,,,,0.05,,
+Basic Land — Island,C,,0,,,,0.08,,
+Basic Land — Island,C,,0,,,,0.06,,
+Basic Land — Mountain,C,,0,,,,0.1,,
+Basic Land — Mountain,C,,0,,,,0.08,,
+Basic Land — Mountain,C,,0,,,,0.13,,
+Basic Land — Plains,C,,0,,,,0.09,,
+Basic Land — Plains,C,,0,,,,0.35,,
+Basic Land — Plains,C,,0,,,,0.09,,
+Basic Land — Swamp,C,,0,,,,0.12,,
+Basic Land — Swamp,C,,0,,,,0.07,,
+Basic Land — Swamp,C,,0,,,,0.07,,

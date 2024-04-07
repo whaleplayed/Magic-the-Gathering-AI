@@ -1,0 +1,12 @@
+﻿Type,R,Mana cost,Mana value,P,T,L,Price (USD),Watermark,Color
+Creature — Dwarf Artificer,U,{3}{W},4,3,3,,0.14,,W
+Instant,C,{1}{B},2,,,,0.08,,B
+Sorcery,C,{2}{R},3,,,,0.03,,R
+Instant,U,{1}{W},2,,,,0.12,,W
+Creature — Human Artificer,U,{2}{W}{U},4,2,4,,0.04,,WU
+Enchantment — Aura,U,{1}{U},2,,,,0.23,,U
+Creature — Elephant,R,{3}{G}{G}{G},6,8,8,,0.47,,G
+Creature — Elemental,U,{3}{U}{U},5,4,4,,0.16,,U
+Legendary Planeswalker — Ajani,M,{2}{W}{W},4,,,4,3.74,,W
+Legendary Planeswalker — Ajani,M,{3}{W}{W},5,,,5,6.17,,W
+Creature — Human Warrior,U,{1}{W},2,2,2,,0.14,Jeskai,W

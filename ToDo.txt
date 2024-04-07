@@ -1,0 +1,28 @@
+TODO:
+
+- split those into binary features ie. col-fOne: is this example a creature? 1/0
+- split card cost into binary features
+- colors need to be split into different columns for the amount of colors there are
+
+    -- numberPlacing should be changed to alreadyFoundCreator or something like that
+       it will be used to create the list of different features found
+    -- once you have the list, then create new columns that compare if the example has it or not
+    -- 2. and 3. go together
+    -- might want to split the data into qualitative and quantitative so that
+       you can be using different algorithms on them. Then zip them together again
+       later
+       you have to create binary data with the qualitative data. for creature type,
+       you will have as many columns as there are creature types, and the data will
+       have either a 0 or a 1 in it for that  creature type, for example, lets say 
+       you only have three cards, one is a bear, one is a snake, and one is a beaver
+       the bear will have bear:1, snake:0, beaver:0
+       col-fOne???
+    
+
+
+DONE:
+- give columns headers so that they can be used correctly
+- split the card type and card subtype 
+    -- read the card type, if there is a -- or SS then it needs to be split there
+    -- i want each creature type to be used, Human is one, and Soldier is another
+    *-- loop over each column and when creating a new column, place it into X or y

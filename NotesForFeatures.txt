@@ -1,0 +1,3 @@
+X: type /num//class/, rarity /num//class/, mana cost /num//class/, mana value /num//value/, power /num//value/, toughness /num//value/, loyalty /num//value/, ability /sentence/, watermark /num//class/, color identity /num//class/
+
+y: rating
